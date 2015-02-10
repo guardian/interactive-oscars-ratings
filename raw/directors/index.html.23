@@ -1,0 +1,5795 @@
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+
+        
+    
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "0XEX08WQCZ8B4HYWW66G";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-68a7f4a0ab6cb5214d209156b26b64ce._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Oliver Stone - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="canonical" href="http://www.imdb.com/name/nm0000231/" />
+            <meta property="og:url" content="http://www.imdb.com/name/nm0000231/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152"> 
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTMwMjExMTY3OV5BMl5BanBnXkFtZTcwNjY3MDA2MQ@@._V1_.jpg">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTMwMjExMTY3OV5BMl5BanBnXkFtZTcwNjY3MDA2MQ@@._V1_.jpg" />
+    
+        <meta property='og:type' content="actor" />
+    <meta property='fb:app_id' content='115109575169727' />
+    
+    <meta property='og:title' content="Oliver Stone" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Oliver Stone - IMDb" />
+        <meta name="description" content="Oliver Stone, Director: Platoon. Oliver Stone has become known as a master of controversial subjects and a legendary film maker. His films are filled with a variety of film angles and styles, he pushes his actors to give Oscar-worthy performances, and despite his failures, has always returned to success. William Oliver Stone was born in New York City, to Jacqueline (Goddet) and Louis Stone, a stockbroker. His American father was ..." />
+        <meta property="og:description" content="Oliver Stone, Director: Platoon. Oliver Stone has become known as a master of controversial subjects and a legendary film maker. His films are filled with a variety of film angles and styles, he pushes his actors to give Oscar-worthy performances, and despite his failures, has always returned to success. William Oliver Stone was born in New York City, to Jacqueline (Goddet) and Louis Stone, a stockbroker. His American father was ..." />
+        <meta name="keywords" content="Biography, Photos, Awards, News, Message Boards" />
+        <meta name="request_id" content="0XEX08WQCZ8B4HYWW66G" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-http-1a-c1xl-i-cc94c1ed.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-4194950000._CB333873393_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-2903902836._CB331748150_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/search/title?count=100&title_type=feature%2Ctv_series%2Ctv_movie&ref_=nv_ch_mm_1"
+>Popular Movies & TV</a></li>
+                        <li><a href="/chart/?ref_=nv_ch_cht_2"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year%2Cdesc&ref_=nv_ch_osc_3"
+>Oscar Winners</a></li>
+                        <li><a href="/chart/top?ref_=nv_ch_250_4"
+>Top 250</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_5"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_hm_1"
+>TV Home</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/watchnow/?ref_=nv_tvv_wn_3"
+>Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4"
+>DVD & Blu-Ray</a></li>
+                        <li><a href="/tv/blog?ref_=nv_tvv_blog_5"
+>TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/academymuseum/?ref_=nv_sf_am_1"
+>Academy Museum</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_pks_2"
+>IMDb Picks</a></li>
+                        <li><a href="/best-of/?ref_=nv_sf_bo_3"
+>Best of 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_4"
+>X-Ray for Movies & TV</a></li>
+                        <li><a href="/whattowatch/?ref_=nv_sf_wtw_5"
+>What to Watch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male%2Cfemale&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/event/?ref_=nv_tp_ev_2"
+>Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=01-16&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male%2Cfemale&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tff_2"
+>Toronto Film Festival</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_3"
+>Venice Film Festival</a></li>
+                        <li><a href="/sxsw/?ref_=nv_ev_sxsw_4"
+>SXSW Film Festival</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_5"
+>Road to the Emmys</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_6"
+>Comic-Con</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_7"
+>Cannes</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_8"
+>Tribeca</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_9"
+>Sundance</a></li>
+                        <li><a href="/event/?ref_=nv_ev_all_10"
+>More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2"
+>Community</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni58173699/?ref_=nv_nw_tn_1"
+> Critics Choice Awards: ‘Boyhood’ Wins Best Picture
+</a><br />
+                        <span class="time">13 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58172089/?ref_=nv_nw_tn_2"
+> The 17 Biggest Oscar Nomination Snubs and Surprises
+</a><br />
+                        <span class="time">23 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58173804/?ref_=nv_nw_tn_3"
+> Critics' Choice Awards: John Kraskinski Crashes Emily Blunt's Acceptance Speech for a Kiss
+</a><br />
+                        <span class="time">12 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1"
+>Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/games/guess?ref_=nv_cm_qz_3"
+>Quiz Game</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_4"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB360061167_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB360060945_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB360061165_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB377744227_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+id="proLink" > <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB377744226_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB377744253_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/apps/?ref_=nb_app"
+>IMDb Apps</a>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a href="/register/login?ref_=nv_usr_lgin_1"
+rel="login" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"
+>Register</a>
+                        </li>
+                        <li>
+                            <a href="/register/login?ref_=nv_usr_lgin_3"
+rel="login" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+                    <div id="pagecontent" itemscope itemtype="http://schema.org/Person">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+<div id="content-2-wide" class="redesign">
+
+    <div class="maindetails_center" id="maindetails_center_top">
+
+            <div class="article name-overview">
+
+    
+    <div id="name-overview-widget">
+        <table cellspacing="0" cellpadding="0" border="0" id="name-overview-widget-layout">
+            <tbody>
+                <tr>
+                    <td rowspan="2" id="img_primary">
+                        <div class="image">
+<a href="/media/rm3604452864/nm0000231?ref_=nm_ov_ph"
+> <img id="name-poster"
+height="317"
+width="214"
+alt="Oliver Stone Picture"
+title="Oliver Stone Picture"
+src="http://ia.media-imdb.com/images/M/MV5BMTMwMjExMTY3OV5BMl5BanBnXkFtZTcwNjY3MDA2MQ@@._V1_SY317_CR2,0,214,317_AL_.jpg"
+itemprop="image" />
+</a>                                
+                         
+                        </div> 
+                    </td>
+                    
+                    <td id="overview-top">
+
+
+
+
+        
+
+            <div id="prometer_container">
+                <div id="prometer" class="meter-collapsed down">
+                    <div id="meterHeaderBox">
+                        <div class="meterToggleOnHover">STARmeter</div>
+<a href="http://pro.imdb.com/name/nm0000231?rf=cons_nm_meter&ref_=cons_nm_meter"
+id="meterRank" >Top 5000</a>
+                    </div>
+                    <div id="meterChangeRow" class="meterToggleOnHover">
+                            <span>Down</span>
+                        <span id="meterChange">175</span>
+                        <span>this week</span>
+                    </div>
+                    <div id="meterSeeMoreRow" class="meterToggleOnHover">
+<a href="http://pro.imdb.com/name/nm0000231?rf=cons_nm_meter&ref_=cons_nm_meter"
+>View rank on IMDbPro</a>
+                        <span>&raquo;</span>
+                    </div>
+                </div>
+            </div>
+                        
+    <h1 class="header"> <span class="itemprop" itemprop="name">Oliver Stone</span> 
+            <span>(I)</span>
+        
+        
+    </h1>
+    
+        <div class="infobar" id="name-job-categories">
+            
+            
+<a href="#producer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Producer</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#director"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Director</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#writer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Writer</span></a>            
+        </div>
+    
+        <hr/>
+                        
+<div class="txt-block" id="name-bio-text">
+        <div class="name-trivia-bio-text">
+                      <div class="inline" itemprop="description">
+Oliver Stone has become known as a master of controversial subjects and a legendary film maker. His films are filled with a variety of film angles and styles, he pushes his actors to give Oscar-worthy performances, and despite his failures, has always returned to success. William Oliver Stone was born in New York City, to Jacqueline (Goddet) and ...            <span class="see-more inline nobr-only">
+                    <a href="/name/nm0000231/bio?ref_=nm_ov_bio_sm"
+>See full bio</a> &raquo;
+            </span>
+</div>        </div>
+</div>
+
+                        
+    <div id="name-born-info" class="txt-block">
+        <h4 class="inline">Born:</h4> 
+<a href="/name/nm0000231/bio?ref_=nm_ov_bth_nm"
+> William Oliver Stone
+</a>            <br />
+   
+  <time datetime="1946-9-15" itemprop="birthDate">
+<a href="/search/name?birth_monthday=9-15&refine=birth_monthday&ref_=nm_ov_bth_monthday"
+>September 15</a>, 
+     
+<a href="/search/name?birth_year=1946&ref_=nm_ov_bth_year"
+>1946</a>    
+  </time>
+            in
+            <a href="/search/name?birth_place=New+York+City%2C+New+York%2C+USA&ref_=nm_ov_bth_place"
+>New York City, New York, USA</a>
+    </div>
+
+                        
+                        
+                   </td>
+                <tr>
+                   <td id="overview-middle">
+        <div id="name-pro-info" class="pro-list">
+            <span class="pro-list-title"><a href="http://pro.imdb.com/name/nm0000231?rf=cons_nm_more&ref_=cons_nm_more"
+>More at IMDbPro</a> &raquo;</span>
+<a href="http://pro.imdb.com/name/nm0000231/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/phone-375450651._CB379390030_.png" alt="Contact Info on IMDbPro"/></a>                <strong>Contact Info:</strong>
+<a href="http://pro.imdb.com/name/nm0000231/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+> View agent, manager, publicist and company
+</a><br />
+            
+            
+<a href="http://pro.imdb.com/name/nm0000231?rf=cons_nm_photo&ref_=cons_nm_photo"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/profile-152317997._CB379391798_.png" alt="Add or change photos on IMDbPro"/ ></a>                <strong>Represent Oliver Stone?</strong> <a href="http://pro.imdb.com/name/nm0000231?rf=cons_nm_photo&ref_=cons_nm_photo"
+>Add or change photos</a>
+        </div>
+                        
+                   </td>
+                </tr>
+            </tbody>
+        </table>
+        
+    
+        <div class="mediastrip_container">
+        <div class="mediastrip">
+                
+<a href="/media/rm2802423552/nm0000231?ref_=nm_phs_md_1"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Oliver Stone, Francis Ford Coppola and James Toback" title="Oliver Stone, Francis Ford Coppola and James Toback"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTg0NzUyMTc5Ml5BMl5BanBnXkFtZTcwNzc2NDA4MQ@@._V1_SY99_CR24,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3539908608/nm0000231?ref_=nm_phs_md_2"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Oliver Stone and Fidel Castro in Looking for Fidel (2006)" title="Still of Oliver Stone and Fidel Castro in Looking for Fidel (2006)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTMzOTc3MTk1M15BMl5BanBnXkFtZTcwMDQ0NTQ4NA@@._V1_SY99_CR23,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3758012416/nm0000231?ref_=nm_phs_md_3"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Oliver Stone and Fidel Castro in Looking for Fidel (2006)" title="Still of Oliver Stone and Fidel Castro in Looking for Fidel (2006)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTY2MzgxMzU1OV5BMl5BanBnXkFtZTcwMjQ0NTQ4NA@@._V1_SX99_CR0,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm1286313984/nm0000231?ref_=nm_phs_md_4"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Oliver Stone and Maria Bello at event of World Trade Center (2006)" title="Oliver Stone and Maria Bello at event of World Trade Center (2006)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTg3OTg1MDA4M15BMl5BanBnXkFtZTYwNzk1NDk1._V1_SX99_CR0,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3758522624/nm0000231?ref_=nm_phs_md_5"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Michael Douglas, Oliver Stone, Frank Langella and Carey Mulligan at event of Wall Street: Money Never Sleeps (2010)" title="Michael Douglas, Oliver Stone, Frank Langella and Carey Mulligan at event of Wall Street: Money Never Sleeps (2010)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjE3NzEwMDIzNl5BMl5BanBnXkFtZTcwMjM5NDE5Mw@@._V1_SY99_CR15,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3906378496/nm0000231?ref_=nm_phs_md_6"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Oliver Stone and Angelina Jolie at event of Alexander (2004)" title="Oliver Stone and Angelina Jolie at event of Alexander (2004)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTI1NzQ4MTcxMV5BMl5BanBnXkFtZTYwNzA4NTM0._V1_SX99_CR0,0,99,99_AL_.jpg" itemprop='image' /></a>        </div>
+            
+            <div class="see-more">
+<a href="/name/nm0000231/mediaindex?ref_=nm_phs_md_sm"
+><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/name/nm0000231/mediaindex?ref_=nm_phs_md_sm"
+>87 photos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0000231/videogallery?ref_=nm_phs_vi"
+>44 videos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0000231/news?ref_=nm_phs_nw"
+>4882 news articles</a> &raquo;            </div>
+        </div>
+        
+    </div>
+
+            </div> 
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+    </div> 
+    <div id="maindetails_sidebar_bottom" class="maindetails_sidebar" data-caller-name="name-main">
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+
+                
+                
+
+    
+    
+    <div class="aux-content-widget-3 links subnav" div="quicklinks">
+
+            <h3>Quick Links</h3>
+
+
+        <div id="maindetails_quicklinks">
+                <div class="split_0">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/bio?ref_=nm_ql_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/awards?ref_=nm_ql_2"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/board/?ref_=nm_ql_3"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+                <div class="split_1">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/mediaindex?ref_=nm_ql_4"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/?nmdp=1&ref_=nm_ql_5#filmography"
+class="link" >Filmography <span class="ghost quicklink_modifier">(by Job)</span></a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/videogallery?ref_=nm_ql_6"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+        </div>
+        <hr/>
+
+        <div id="full_subnav">
+
+
+        <h4>Filmography</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=year&explore=title_type&role=nm0000231&ref_=nm_ql_flmg_1"
+class="link" ><span class="ghost">by</span> Year</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/?nmdp=1&ref_=nm_ql_flmg_2#filmography"
+class="link" ><span class="ghost">by</span> Job</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=user_rating&explore=title_type&role=nm0000231&ref_=nm_ql_flmg_3"
+class="link" ><span class="ghost">by</span> Ratings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=num_votes&explore=title_type&role=nm0000231&ref_=nm_ql_flmg_4"
+class="link" ><span class="ghost">by</span> Votes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=genres&role=nm0000231&ref_=nm_ql_flmg_5"
+class="link" ><span class="ghost">by</span> Genre</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=keywords&role=nm0000231&ref_=nm_ql_flmg_6"
+class="link" ><span class="ghost">by</span> Keyword</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Personal Details</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/bio?ref_=nm_ql_pdtls_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/otherworks?ref_=nm_ql_pdtls_2"
+class="link" >Other Works</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/publicity?ref_=nm_ql_pdtls_3"
+class="link" >Publicity Listings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/officialsites?ref_=nm_ql_pdtls_4"
+class="link ghost" >Official Sites</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/agent?ref_=nm_ql_pdtls_5"
+class="link" >Contact Info <span class="ghost quicklink_modifier">(IMDbPro)</span></a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Did You Know?</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/bio?ref_=nm_ql_dyk_1#quotes"
+class="link" >Personal Quotes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/bio?ref_=nm_ql_dyk_2#trivia"
+class="link" >Trivia </a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/bio?ref_=nm_ql_dyk_3#trademark"
+class="link" >Trademark</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Photo & Video</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/mediaindex?ref_=nm_ql_pv_1"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/videogallery?ref_=nm_ql_pv_2"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Opinion</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/awards?ref_=nm_ql_op_1"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/board/?ref_=nm_ql_op_2"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Related Items</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/workedwith?ref_=nm_ql_rel_1"
+class="link" >Credited With</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/nowshowing?ref_=nm_ql_rel_2"
+class="link ghost" >TV Schedule</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/news?ref_=nm_ql_rel_3"
+class="link" >NewsDesk</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0000231/externalsites?ref_=nm_ql_rel_4"
+class="link" >External Sites</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Professional Services</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/widget/resume_redirect/?ref_=nm_ql_pro_1"
+class="link" >Promote yourself with a resume</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0000231?ref_=nm_ql_pro_2"
+class="link" >Add or change photos</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0000231?ref_=nm_ql_pro_3"
+class="link" >Get more at IMDbPro</a>
+                    </span>
+                </li>
+    </ul>
+            <hr/>
+        </div>
+
+        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+    </div>
+
+                
+        <div class="aux-content-widget-2">
+        <span class="ab_widget"
+        >
+            <div class="ab_editorial">
+<span class="ninja_header"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_hd" > <h3>Editors' Spotlight</h3> </a> <h4>Oscar Nominations 2015</h4> </span> <p class="blurb">The Oscars nominations have been announced, with 'Birdman' and 'The Grand Budapest Hotel' leading the way with nine nominations each.</p> <div class="ninja_image_pack"> <div class="ninja_left"> <div class="ninja_image first_image" style="width:86px;height:auto;" > <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_i_1" > <img itemprop="image" class="pri_image" title="Oscar Nominees 2015" alt="Oscar Nominees 2015" src="http://ia.media-imdb.com/images/M/MV5BMjM4ODM5ODQ5MV5BMl5BanBnXkFtZTgwMjE0MDkxMTE@._V1_SY86_CR15,0,86,86_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMjM4ODM5ODQ5MV5BMl5BanBnXkFtZTgwMjE0MDkxMTE@._V1_SY86_CR15,0,86,86_AL_.jpg" /> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image" style="width:86px;height:auto;" > <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_i_2" > <img itemprop="image" class="pri_image" title="Oscar Nominees 2015" alt="Oscar Nominees 2015" src="http://ia.media-imdb.com/images/M/MV5BMTQxNzY4MDcyMV5BMl5BanBnXkFtZTgwNjEzMDMxMjE@._V1_SY86_CR36,0,86,86_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMTQxNzY4MDcyMV5BMl5BanBnXkFtZTgwNjEzMDMxMjE@._V1_SY86_CR36,0,86,86_AL_.jpg" /> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image last_image" style="width:86px;height:auto;" > <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_i_3" > <img itemprop="image" class="pri_image" title="Oscar Nominees 2015" alt="Oscar Nominees 2015" src="http://ia.media-imdb.com/images/M/MV5BMjMzNzU3NDAwMV5BMl5BanBnXkFtZTgwMjIwMzkxMzE@._V1_SY86_CR21,0,86,86_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMjMzNzU3NDAwMV5BMl5BanBnXkFtZTgwMjIwMzkxMzE@._V1_SY86_CR21,0,86,86_AL_.jpg" /> </a> </div> </div> </div> </div> </div> <div><a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_sm" ><p class="seemore position_bottom">See the full list of nominees!</p></a></div>    </div>
+
+        </span>
+        </div>
+
+
+                
+
+  <div class="aux-content-widget-2" id="social-share-widget"> 
+    
+    <div class="social">
+      <div class="social_networking"> 
+       <span><strong>Share</strong> this page:</span>
+  <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000231%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000231%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Oliver%20Stone%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000231%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Oliver%20Stone%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000231%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/name/nm0000231/"></a>
+      </div>
+      <input type="text" name="share-link" value="http://www.imdb.com/name/nm0000231/" readonly>
+    </div>
+  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/name/nm0000231/"
+      width=280
+      height=65></iframe>
+  </div>
+  </div>
+
+                
+
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+                
+
+
+      <div class="aux-content-widget-2" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0000231/news?ref_=nm_nwr_1#ni58172512"
+>Trio of Parisian Film Players Launch Edgy Production Outfit Vixens (Exclusive)</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  8 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0052791?ref_=nm_nwr_1"
+>Variety - Film News</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0000231/news?ref_=nm_nwr_2#ni58174023"
+>‘SK1’: A Film Which Asks: ‘How Does One Live With Evil?’</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  10 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0052791?ref_=nm_nwr_2"
+>Variety - Film News</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0000231/news?ref_=nm_nwr_3#ni58172903"
+>Tom Cruise and Doug Liman to Re-team for 1980s Drug Trafficking Movie</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  19 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000067?ref_=nm_nwr_3"
+>FilmSchoolRejects.com</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/name/nm0000231/news?ref_=nm_nwr_sm"
+>See all 4882 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+
+                
+
+
+
+                
+
+            <div class="aux-content-widget-2" >
+    <h3>Projects In Development <a href="/help/show_leaf?proindevelopment"
+class="titlePageSprite helpInSprite" ></a></h3>
+            <div class="devitem odd">
+<a href="/title/tt3280920?ref_=nm_dev_1"
+> The Emir Abd El-Kader
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt2096651?ref_=nm_dev_2"
+> The Power Broker
+</a>            </div>
+    <div class="see-more">
+        Details only on <a href="http://pro.imdb.com/name/nm0000231?rf=cons_nm_pid_det&ref_=cons_nm_pid_det"
+>IMDbPro</a> &raquo;
+    </div>
+            </div>
+
+                
+
+        <div class="aux-content-widget-2">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=nm_rls"
+>Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls002185664?ref_=nm_rls_1"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjIwOTY5NDgzNV5BMl5BanBnXkFtZTcwNjE3NjQxMw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls002185664?ref_=nm_rls_1"
+>Favorite Directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 29 people
+            <br />created 16&nbsp;Feb&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls004425179?ref_=nm_rls_2"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls004425179?ref_=nm_rls_2"
+>Distinctive Directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 47 people
+            <br />created 14&nbsp;May&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls050612134?ref_=nm_rls_3"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls050612134?ref_=nm_rls_3"
+>26 Best Movie Directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 26 people
+            <br />created 09&nbsp;Nov&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls055646587?ref_=nm_rls_4"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTMwMjExMTY3OV5BMl5BanBnXkFtZTcwNjY3MDA2MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls055646587?ref_=nm_rls_4"
+>If G.I. Joe was an Epic War Movie Made in the 80's!</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 28 people
+            <br />created 05&nbsp;Jan&nbsp;2013
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls051415884?ref_=nm_rls_5"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjIwOTY5NDgzNV5BMl5BanBnXkFtZTcwNjE3NjQxMw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls051415884?ref_=nm_rls_5"
+>Favourite Writers/Directors/Producers</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 26 people
+            <br />created 30&nbsp;Apr&nbsp;2013
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+                <div class="see-more">
+                    <a href="/lists/nm0000231?ref_=nm_rls_sm"
+>See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+
+                
+
+    <div class="aux-content-widget-2">
+        <h3>Do you have a demo reel?</h3>
+
+        <p>Add it to your IMDbPage</p>
+        <div class="video-browser-widget">
+             <div id="demoReelShoveler">
+
+
+<a href="/video/user/vi3091568921?ref_=nm_demo_1"
+title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" class="video-colorbox" data-video="vi3091568921" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjI0NDMxOTE4MV5BMl5BanBnXkFtZTgwODI5MzczMzE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA01:21,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" itemprop='image' viconst="vi3091568921" /></a>
+
+<a href="/video/user/vi4067727897?ref_=nm_demo_2"
+title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" class="video-colorbox" data-video="vi4067727897" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNTgxMDMyNF5BMl5BanBnXkFtZTcwNTkxOTQ0NA@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA03:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4067727897" /></a>
+             </div>
+        </div>
+        <div id="pro_demo_reel_link">
+<a href="http://pro.imdb.com/demoreels/list?rf=cons_nm_demoreel&ref_=cons_nm_demoreel"
+>Find out more at IMDb Pro</a> &raquo;
+        </div>
+    </div>
+
+                
+
+    <div class="aux-content-widget-2">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+
+                
+
+<div class="aux-content-widget-2 ">
+    <h3>How Much Have You Seen?</h3>
+How much of <a href="/seen/nm0000231/?ref_=nm_se"
+>Oliver Stone's work</a> have you seen?
+</div>
+
+                
+
+<div class="aux-content-widget-2 poll-widget-rhs ">
+    <style>
+        .aux-content-widget-2.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .aux-content-widget-2.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .aux-content-widget-2.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+    <h3>User Polls</h3>
+    <ul>
+        <li>
+<a href="/poll/ESiNOUr0Pes/?ref_=nm_po_i1"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTgzOTY1NzUzN15BMl5BanBnXkFtZTYwNDAxNjI2._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/ESiNOUr0Pes/?ref_=nm_po_q1"
+>America's National Director</a>
+        <li>
+<a href="/poll/FQ6nCJMRBjo/?ref_=nm_po_i2"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/FQ6nCJMRBjo/?ref_=nm_po_q2"
+>What is your favorite of the top 25 directors?</a>
+    </ul>
+    <div class="see-more"><a href="/poll/?ref_=nm_po_sm"
+>See more polls &raquo;</a></div>
+</div>
+
+                
+
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+                
+
+    </div>
+
+
+
+    <div id="maindetails_center_bottom" class="maindetails_center">
+            <div class="article highlighted">
+        <span itemprop="awards"><b>Won 3 Oscars.</b></span>
+        <span itemprop="awards">Another 49 wins & 43 nominations.</span>
+    <span class="see-more inline">
+<a href="/name/nm0000231/awards?ref_=nm_awd"
+>See more awards</a>&nbsp;&raquo;    </span>
+            </div> 
+            <div class="article">
+<h2>Known For</h2>
+<div id="knownfor">
+<div>
+<a href="/title/tt0091763/?ref_=nm_knf_i1"
+> <img
+height="200"
+width="148"
+title="Platoon"
+alt="Platoon"
+src="http://ia.media-imdb.com/images/M/MV5BNTU3NzY4ODY5MF5BMl5BanBnXkFtZTcwOTkzNzE1NA@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0091763" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0091763/?ref_=nm_knf_t1"
+>Platoon (1986)</a>
+</div>
+<div>
+<a href="/title/tt0102138/?ref_=nm_knf_i2"
+> <img
+height="200"
+width="148"
+title="JFK"
+alt="JFK"
+src="http://ia.media-imdb.com/images/M/MV5BMTY4ODI3Njg5N15BMl5BanBnXkFtZTgwODgyMDUxMDE@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0102138" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0102138/?ref_=nm_knf_t2"
+>JFK (1991)</a>
+</div>
+<div>
+<a href="/title/tt0110632/?ref_=nm_knf_i3"
+> <img
+height="200"
+width="148"
+title="Natural Born Killers"
+alt="Natural Born Killers"
+src="http://ia.media-imdb.com/images/M/MV5BMTI2NTU2Nzc0MV5BMl5BanBnXkFtZTcwMzY1OTM2MQ@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0110632" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0110632/?ref_=nm_knf_t3"
+>Natural Born Killers (1994)</a>
+</div>
+<div class="last">
+<a href="/title/tt0146838/?ref_=nm_knf_i4"
+> <img
+height="200"
+width="148"
+title="Any Given Sunday"
+alt="Any Given Sunday"
+src="http://ia.media-imdb.com/images/M/MV5BMTk1NTg3MjY0Nl5BMl5BanBnXkFtZTgwOTE5MDgxMTE@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0146838" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0146838/?ref_=nm_knf_t4"
+>Any Given Sunday (1999)</a>
+</div>
+</div>
+            </div> 
+            <div class="article">
+<div class="rightcornerlink">
+<span class="filmo-show-hide-all"
+style="display: inline;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show_mini-603933165._CB358668251_.png" alt="Show" width="14" height="12" class="absmiddle">&nbsp;Show all
+</span>
+<span class="filmo-show-hide-all"
+style="display: none;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide_mini-3743750714._CB358668245_.png" alt="Hide" width="14" height="12" class="absmiddle">&nbsp;Hide all
+</span>
+&nbsp;<span>|</span>&nbsp;
+<form name="navform" method="get" action="filmosummary" id="filmoform">
+<select name="sort" class="fixed">
+<option value="">Show by...</option>
+<option value="?nmdp=1">Job</option>
+<option value="/filmosearch?sort=year&explore=title_type&role=nm0000231">Year &raquo;</option>
+<option value="/filmosearch?sort=user_rating&explore=title_type&role=nm0000231">Ratings &raquo;</option>
+<option value="/filmosearch?sort=num_votes&explore=title_type&role=nm0000231">Votes &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=genres&role=nm0000231">Genre &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=keywords&role=nm0000231">Keyword &raquo;</option>
+</select>
+</form>
+&nbsp;<span>|</span>&nbsp;
+<a href="/updates?edit=nm0000231/filmography&ref_=nm_flmg_edt"
+> Edit
+</a> </div>
+<h2>Filmography</h2>
+<div id="jumpto">
+Jump to:
+<a href="#producer"
+onclick="handleFilmoJumpto(this);" data-category="producer">Producer</a></a>
+<span class="ghost">|</span> <a href="#director"
+onclick="handleFilmoJumpto(this);" data-category="director">Director</a></a>
+<span class="ghost">|</span> <a href="#writer"
+onclick="handleFilmoJumpto(this);" data-category="writer">Writer</a></a>
+<span class="ghost">|</span> <a href="#actor"
+onclick="handleFilmoJumpto(this);" data-category="actor">Actor</a></a>
+<span class="ghost">|</span> <a href="#cinematographer"
+onclick="handleFilmoJumpto(this);" data-category="cinematographer">Cinematographer</a></a>
+<span class="ghost">|</span> <a href="#editor"
+onclick="handleFilmoJumpto(this);" data-category="editor">Editor</a></a>
+<span class="ghost">|</span> <a href="#miscellaneous"
+onclick="handleFilmoJumpto(this);" data-category="miscellaneous">Miscellaneous Crew</a></a>
+<span class="ghost">|</span> <a href="#thanks"
+onclick="handleFilmoJumpto(this);" data-category="thanks">Thanks</a></a>
+<span class="ghost">|</span> <a href="#self"
+onclick="handleFilmoJumpto(this);" data-category="self">Self</a></a>
+<span class="ghost">|</span> <a href="#archive_footage"
+onclick="handleFilmoJumpto(this);" data-category="archive_footage">Archive footage</a></a>
+</div>
+<div id="filmography">
+<div id="filmo-head-producer" class="head" data-category="producer" onclick="toggleFilmoCategory(this);">
+<span id="hide-producer" class="hide-link"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-producer" class="show-link"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="producer">Producer</a> (29 credits)
+</div>
+<div class="filmo-category-section"
+>
+<div class="filmo-row odd" id="producer-tt3774114">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt3774114/?ref_=nm_flmg_prd_1"
+>Untitled Oliver Stone Project</a></b>
+(producer) (<a href="/r/legacy-inprod-name/title/tt3774114" class="in_production">pre-production</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1494191">
+<span class="year_column">
+&nbsp;2012-2013
+</span>
+<b><a href="/title/tt1494191/?ref_=nm_flmg_prd_2"
+>The Untold History of the United States</a></b>
+(TV Series documentary) (executive producer - 10 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2631786/?ref_=nm_flmg_prd_2"
+>Chapter 10: Bush & Obama - Age of Terror</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2631782/?ref_=nm_flmg_prd_2"
+>Chapter 9: Bush & Clinton - Squandered Peace and New World Order</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2601076/?ref_=nm_flmg_prd_2"
+>Chapter 8: Reagan, Gorbachev & Third World - Rise of the Right</a>
+(2012)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2633054/?ref_=nm_flmg_prd_2"
+>Chapter 7: Johnson, Nixon & Vietnam: Reversal of Fortune</a>
+(2012)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2617636/?ref_=nm_flmg_prd_2"
+>Chapter 6: JFK - To the Brink</a>
+(2012)
+... (executive producer)
+</div>
+<div id="more-episodes-tt1494191-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB348606739_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="10"
+onclick="toggleSeeMoreEpisodes(this,'nm0000231','tt1494191','producer',1); return false;">Show all 10 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="producer-tt1027718">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1027718/?ref_=nm_flmg_prd_3"
+>Wall Street: Money Never Sleeps</a></b>
+(producer - uncredited)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0346491">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0346491/?ref_=nm_flmg_prd_4"
+>Alexander</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0342213">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0342213/?ref_=nm_flmg_prd_5"
+>Comandante</a></b>
+(Documentary) (producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0271454">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0271454/?ref_=nm_flmg_prd_6"
+>The Day Reagan Was Shot</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0146838">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0146838/?ref_=nm_flmg_prd_7"
+>Any Given Sunday</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0142192">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0142192/?ref_=nm_flmg_prd_8"
+>The Corruptor</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0178694">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0178694/?ref_=nm_flmg_prd_9"
+>The Last Days of Kennedy and King</a></b>
+(Documentary) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0120070">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0120070/?ref_=nm_flmg_prd_10"
+>Savior</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0118870">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0118870/?ref_=nm_flmg_prd_11"
+>Cold Around the Heart</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0117318">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0117318/?ref_=nm_flmg_prd_12"
+>The People vs. Larry Flynt</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0116361">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0116361/?ref_=nm_flmg_prd_13"
+>Freeway</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0113987">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113987/?ref_=nm_flmg_prd_14"
+>Nixon</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0113542">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113542/?ref_=nm_flmg_prd_15"
+>Killer: A Journal of Murder</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0113421">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113421/?ref_=nm_flmg_prd_16"
+>Indictment: The McMartin Trial</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0110649">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110649/?ref_=nm_flmg_prd_17"
+>The New Age</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0107096">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0107096/?ref_=nm_flmg_prd_18"
+>Heaven & Earth</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0107282">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0107282/?ref_=nm_flmg_prd_19"
+>The Joy Luck Club</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0106175">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0106175/?ref_=nm_flmg_prd_20"
+>Wild Palms</a></b>
+(TV Mini-Series) (executive producer - 5 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1733087/?ref_=nm_flmg_prd_20"
+>Hello, I Must Be Going</a>
+(1993)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1733088/?ref_=nm_flmg_prd_20"
+>Hungry Ghosts</a>
+(1993)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1589949/?ref_=nm_flmg_prd_20"
+>Rising Sons</a>
+(1993)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1733089/?ref_=nm_flmg_prd_20"
+>The Floating World</a>
+(1993)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1733086/?ref_=nm_flmg_prd_20"
+>Everything Must Go</a>
+(1993)
+... (executive producer)
+</div>
+</div>
+<div class="filmo-row odd" id="producer-tt0105450">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0105450/?ref_=nm_flmg_prd_21"
+>South Central</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0105885">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0105885/?ref_=nm_flmg_prd_22"
+>The Colour of Love</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0102138">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0102138/?ref_=nm_flmg_prd_23"
+>JFK</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0102128">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0102128/?ref_=nm_flmg_prd_24"
+>Iron Maze</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0100486">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0100486/?ref_=nm_flmg_prd_25"
+>Reversal of Fortune</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0096969">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0096969/?ref_=nm_flmg_prd_26"
+>Born on the Fourth of July</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0099160">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0099160/?ref_=nm_flmg_prd_27"
+>Blue Steel</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0091886">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0091886/?ref_=nm_flmg_prd_28"
+>Salvador</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0070746">
+<span class="year_column">
+&nbsp;1973
+</span>
+<b><a href="/title/tt0070746/?ref_=nm_flmg_prd_29"
+>Love Me My Way</a></b>
+(associate producer - as Oliver W. Stone)
+<br/>
+</div>
+</div>
+<div id="filmo-head-director" class="head" data-category="director" onclick="toggleFilmoCategory(this);">
+<span id="hide-director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="director">Director</a> (29 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="director-tt3774114">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt3774114/?ref_=nm_flmg_dr_1"
+>Untitled Oliver Stone Project</a></b>
+(<a href="/r/legacy-inprod-name/title/tt3774114" class="in_production">pre-production</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt3595024">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3595024/?ref_=nm_flmg_dr_2"
+>Mi Amigo Hugo</a></b>
+(Documentary)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1494191">
+<span class="year_column">
+&nbsp;2012-2013
+</span>
+<b><a href="/title/tt1494191/?ref_=nm_flmg_dr_3"
+>The Untold History of the United States</a></b>
+(TV Series documentary) (10 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2631786/?ref_=nm_flmg_dr_3"
+>Chapter 10: Bush & Obama - Age of Terror</a>
+(2013)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2631782/?ref_=nm_flmg_dr_3"
+>Chapter 9: Bush & Clinton - Squandered Peace and New World Order</a>
+(2013)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2601076/?ref_=nm_flmg_dr_3"
+>Chapter 8: Reagan, Gorbachev & Third World - Rise of the Right</a>
+(2012)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2633054/?ref_=nm_flmg_dr_3"
+>Chapter 7: Johnson, Nixon & Vietnam: Reversal of Fortune</a>
+(2012)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2617636/?ref_=nm_flmg_dr_3"
+>Chapter 6: JFK - To the Brink</a>
+(2012)
+</div>
+<div id="more-episodes-tt1494191-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB348606739_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="10"
+onclick="toggleSeeMoreEpisodes(this,'nm0000231','tt1494191','director',2); return false;">Show all 10 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="director-tt2433102">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2433102/?ref_=nm_flmg_dr_4"
+>Savages: The Interrogations</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1615065">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1615065/?ref_=nm_flmg_dr_5"
+>Savages</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt2316672">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2316672/?ref_=nm_flmg_dr_6"
+>Castro in Winter</a></b>
+(Documentary)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1027718">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1027718/?ref_=nm_flmg_dr_7"
+>Wall Street: Money Never Sleeps</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1337137">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1337137/?ref_=nm_flmg_dr_8"
+>South of the Border</a></b>
+(Documentary)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1175491">
+<span class="year_column">
+&nbsp;2008/I
+</span>
+<b><a href="/title/tt1175491/?ref_=nm_flmg_dr_9"
+>W.</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0469641">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0469641/?ref_=nm_flmg_dr_10"
+>World Trade Center</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0346491">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0346491/?ref_=nm_flmg_dr_11"
+>Alexander</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0388574">
+<span class="year_column">
+&nbsp;2003-2004
+</span>
+<b><a href="/title/tt0388574/?ref_=nm_flmg_dr_12"
+>America Undercover</a></b>
+(TV Series documentary) (2 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0403232/?ref_=nm_flmg_dr_12"
+>Looking for Fidel</a>
+(2004)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0368922/?ref_=nm_flmg_dr_12"
+>Persona Non Grata</a>
+(2003)
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt0342213">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0342213/?ref_=nm_flmg_dr_13"
+>Comandante</a></b>
+(Documentary)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0146838">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0146838/?ref_=nm_flmg_dr_14"
+>Any Given Sunday</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0120399">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0120399/?ref_=nm_flmg_dr_15"
+>U Turn</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0113987">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113987/?ref_=nm_flmg_dr_16"
+>Nixon</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0110632">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110632/?ref_=nm_flmg_dr_17"
+>Natural Born Killers</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0107096">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0107096/?ref_=nm_flmg_dr_18"
+>Heaven & Earth</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0102138">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0102138/?ref_=nm_flmg_dr_19"
+>JFK</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0101761">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101761/?ref_=nm_flmg_dr_20"
+>The Doors</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0096969">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0096969/?ref_=nm_flmg_dr_21"
+>Born on the Fourth of July</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0096219">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt0096219/?ref_=nm_flmg_dr_22"
+>Talk Radio</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0094291">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0094291/?ref_=nm_flmg_dr_23"
+>Wall Street</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0091763">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0091763/?ref_=nm_flmg_dr_24"
+>Platoon</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0091886">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0091886/?ref_=nm_flmg_dr_25"
+>Salvador</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0082497">
+<span class="year_column">
+&nbsp;1981
+</span>
+<b><a href="/title/tt0082497/?ref_=nm_flmg_dr_26"
+>The Hand</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0079500">
+<span class="year_column">
+&nbsp;1979
+</span>
+<b><a href="/title/tt0079500/?ref_=nm_flmg_dr_27"
+>Mad Man of Martinique</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0072136">
+<span class="year_column">
+&nbsp;1974
+</span>
+<b><a href="/title/tt0072136/?ref_=nm_flmg_dr_28"
+>Seizure</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0356809">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt0356809/?ref_=nm_flmg_dr_29"
+>Last Year in Viet Nam</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-writer" class="head" data-category="writer" onclick="toggleFilmoCategory(this);">
+<span id="hide-writer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-writer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="writer">Writer</a> (29 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="writer-tt3774114">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt3774114/?ref_=nm_flmg_wr_1"
+>Untitled Oliver Stone Project</a></b>
+(screenplay) (<a href="/r/legacy-inprod-name/title/tt3774114" class="in_production">pre-production</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1494191">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt1494191/?ref_=nm_flmg_wr_2"
+>The Untold History of the United States</a></b>
+(TV Series documentary) (8 episodes, 2012 - 2013) (written by - 2 episodes, 2012)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2631786/?ref_=nm_flmg_wr_2"
+>Chapter 10: Bush & Obama - Age of Terror</a>
+(2013)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2631782/?ref_=nm_flmg_wr_2"
+>Chapter 9: Bush & Clinton - Squandered Peace and New World Order</a>
+(2013)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2601076/?ref_=nm_flmg_wr_2"
+>Chapter 8: Reagan, Gorbachev & Third World - Rise of the Right</a>
+(2012)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2633054/?ref_=nm_flmg_wr_2"
+>Chapter 7: Johnson, Nixon & Vietnam: Reversal of Fortune</a>
+(2012)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2617636/?ref_=nm_flmg_wr_2"
+>Chapter 6: JFK - To the Brink</a>
+(2012)
+</div>
+<div id="more-episodes-tt1494191-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB348606739_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="10"
+onclick="toggleSeeMoreEpisodes(this,'nm0000231','tt1494191','writer',1); return false;">Show all 10 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="writer-tt1615065">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1615065/?ref_=nm_flmg_wr_3"
+>Savages</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1027718">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1027718/?ref_=nm_flmg_wr_4"
+>Wall Street: Money Never Sleeps</a></b>
+(characters)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt1344775">
+<span class="year_column">
+&nbsp;2008/III
+</span>
+<b><a href="/title/tt1344775/?ref_=nm_flmg_wr_5"
+>Singularity</a></b>
+(Short) (short film "Michael & Marie")
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0346491">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0346491/?ref_=nm_flmg_wr_6"
+>Alexander</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0388574">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0388574/?ref_=nm_flmg_wr_7"
+>America Undercover</a></b>
+(TV Series documentary) (narration - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0403232/?ref_=nm_flmg_wr_7"
+>Looking for Fidel</a>
+(2004)
+... (narration)
+</div>
+</div>
+<div class="filmo-row even" id="writer-tt0342213">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0342213/?ref_=nm_flmg_wr_8"
+>Comandante</a></b>
+(Documentary) (narration)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0146838">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0146838/?ref_=nm_flmg_wr_9"
+>Any Given Sunday</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0116250">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0116250/?ref_=nm_flmg_wr_10"
+>Evita</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0113987">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113987/?ref_=nm_flmg_wr_11"
+>Nixon</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0110632">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110632/?ref_=nm_flmg_wr_12"
+>Natural Born Killers</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0107096">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0107096/?ref_=nm_flmg_wr_13"
+>Heaven & Earth</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0102138">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0102138/?ref_=nm_flmg_wr_14"
+>JFK</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0101761">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101761/?ref_=nm_flmg_wr_15"
+>The Doors</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt3451138">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt3451138/?ref_=nm_flmg_wr_16"
+>Conan</a></b>
+(Video Game) (character)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0096969">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0096969/?ref_=nm_flmg_wr_17"
+>Born on the Fourth of July</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0096219">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt0096219/?ref_=nm_flmg_wr_18"
+>Talk Radio</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0094291">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0094291/?ref_=nm_flmg_wr_19"
+>Wall Street</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0091763">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0091763/?ref_=nm_flmg_wr_20"
+>Platoon</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0090568">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0090568/?ref_=nm_flmg_wr_21"
+>8 Million Ways to Die</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0091886">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0091886/?ref_=nm_flmg_wr_22"
+>Salvador</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0090350">
+<span class="year_column">
+&nbsp;1985
+</span>
+<b><a href="/title/tt0090350/?ref_=nm_flmg_wr_23"
+>Year of the Dragon</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0086250">
+<span class="year_column">
+&nbsp;1983
+</span>
+<b><a href="/title/tt0086250/?ref_=nm_flmg_wr_24"
+>Scarface</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0082198">
+<span class="year_column">
+&nbsp;1982
+</span>
+<b><a href="/title/tt0082198/?ref_=nm_flmg_wr_25"
+>Conan the Barbarian</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0082497">
+<span class="year_column">
+&nbsp;1981
+</span>
+<b><a href="/title/tt0082497/?ref_=nm_flmg_wr_26"
+>The Hand</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0077928">
+<span class="year_column">
+&nbsp;1978
+</span>
+<b><a href="/title/tt0077928/?ref_=nm_flmg_wr_27"
+>Midnight Express</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0072136">
+<span class="year_column">
+&nbsp;1974
+</span>
+<b><a href="/title/tt0072136/?ref_=nm_flmg_wr_28"
+>Seizure</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0356809">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt0356809/?ref_=nm_flmg_wr_29"
+>Last Year in Viet Nam</a></b>
+(Short) (uncredited)
+<br/>
+</div>
+</div>
+<div id="filmo-head-actor" class="head" data-category="actor" onclick="toggleFilmoCategory(this);">
+<span id="hide-actor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-actor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="actor">Actor</a> (19 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="actor-tt1494191">
+<span class="year_column">
+&nbsp;2012-2013
+</span>
+<b><a href="/title/tt1494191/?ref_=nm_flmg_act_1"
+>The Untold History of the United States</a></b>
+(TV Series documentary)
+<br/>
+Narrator
+<div class="filmo-episodes">
+- <a href="/title/tt2631786/?ref_=nm_flmg_act_1"
+>Chapter 10: Bush & Obama - Age of Terror</a>
+(2013)
+... Narrator
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2631782/?ref_=nm_flmg_act_1"
+>Chapter 9: Bush & Clinton - Squandered Peace and New World Order</a>
+(2013)
+... Narrator
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2633054/?ref_=nm_flmg_act_1"
+>Chapter 7: Johnson, Nixon & Vietnam: Reversal of Fortune</a>
+(2012)
+... Narrator
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2617636/?ref_=nm_flmg_act_1"
+>Chapter 6: JFK - To the Brink</a>
+(2012)
+... Narrator
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2577966/?ref_=nm_flmg_act_1"
+>Chapter 5: The 50s - Eisenhower, the Bomb & the Third World</a>
+(2012)
+... Narrator
+</div>
+<div id="more-episodes-tt1494191-actor" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB348606739_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="7"
+onclick="toggleSeeMoreEpisodes(this,'nm0000231','tt1494191','actor',0); return false;">Show all 7 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="actor-tt2433102">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2433102/?ref_=nm_flmg_act_2"
+>Savages: The Interrogations</a></b>
+(Video short)
+<br/>
+Interrogator
+</div>
+<div class="filmo-row odd" id="actor-tt1588886">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1588886/?ref_=nm_flmg_act_3"
+>Greystone Park</a></b>
+<br/>
+Oliver
+</div>
+<div class="filmo-row even" id="actor-tt2860890">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2860890/?ref_=nm_flmg_act_4"
+>On Story</a></b>
+(TV Series)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt3091114/?ref_=nm_flmg_act_4"
+>Vetereans</a>
+(2011)
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt1027718">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1027718/?ref_=nm_flmg_act_5"
+>Wall Street: Money Never Sleeps</a></b>
+<br/>
+Investor
+</div>
+<div class="filmo-row even" id="actor-tt0444505">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0444505/?ref_=nm_flmg_act_6"
+>Torrente 3: El protector</a></b>
+<br/>
+Drunk man (Estrella invitada)
+</div>
+<div class="filmo-row odd" id="actor-tt0346491">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0346491/?ref_=nm_flmg_act_7"
+>Alexander</a></b>
+<br/>
+Macedonian Soldier at Zeus Statue
+(uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0283646">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0283646/?ref_=nm_flmg_act_8"
+>Troma's Edge TV</a></b>
+(TV Series)
+<br/>
+Cliff
+<div class="filmo-episodes">
+- <a href="/title/tt0945298/?ref_=nm_flmg_act_8"
+>The Debut Episode</a>
+(2000)
+... Cliff
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt0146838">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0146838/?ref_=nm_flmg_act_9"
+>Any Given Sunday</a></b>
+<br/>
+Tug Kowalski - TV Announcer #1
+</div>
+<div class="filmo-row even" id="actor-tt0113987">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113987/?ref_=nm_flmg_act_10"
+>Nixon</a></b>
+<br/>
+<a href="/character/ch0438397/?ref_=nm_flmg_act_10"
+>Closing Narration</a>
+(voice, uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0106673">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0106673/?ref_=nm_flmg_act_11"
+>Dave</a></b>
+<br/>
+<a href="/character/ch0407603/?ref_=nm_flmg_act_11"
+>Oliver Stone</a>
+</div>
+<div class="filmo-row even" id="actor-tt0101761">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101761/?ref_=nm_flmg_act_12"
+>The Doors</a></b>
+<br/>
+UCLA Film Professor
+(uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0096969">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0096969/?ref_=nm_flmg_act_13"
+>Born on the Fourth of July</a></b>
+<br/>
+News Reporter
+</div>
+<div class="filmo-row even" id="actor-tt0094291">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0094291/?ref_=nm_flmg_act_14"
+>Wall Street</a></b>
+<br/>
+Trader - Office
+</div>
+<div class="filmo-row odd" id="actor-tt0091763">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0091763/?ref_=nm_flmg_act_15"
+>Platoon</a></b>
+<br/>
+<a href="/character/ch0213914/?ref_=nm_flmg_act_15"
+>Alpha Company Major in Bunker</a>
+(uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0082497">
+<span class="year_column">
+&nbsp;1981
+</span>
+<b><a href="/title/tt0082497/?ref_=nm_flmg_act_16"
+>The Hand</a></b>
+<br/>
+<a href="/character/ch0197276/?ref_=nm_flmg_act_16"
+>Bum</a>
+</div>
+<div class="filmo-row odd" id="actor-tt0072136">
+<span class="year_column">
+&nbsp;1974
+</span>
+<b><a href="/title/tt0072136/?ref_=nm_flmg_act_17"
+>Seizure</a></b>
+<br/>
+Anchor
+(voice, uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0356809">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt0356809/?ref_=nm_flmg_act_18"
+>Last Year in Viet Nam</a></b>
+(Short)
+<br/>
+War Veteran
+(uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0066814">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt0066814/?ref_=nm_flmg_act_19"
+>The Battle of Love's Return</a></b>
+<br/>
+Cliff
+</div>
+</div>
+<div id="filmo-head-cinematographer" class="head" data-category="cinematographer" onclick="toggleFilmoCategory(this);">
+<span id="hide-cinematographer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-cinematographer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="cinematographer">Cinematographer</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="cinematographer-tt0356809">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt0356809/?ref_=nm_flmg_cin_1"
+>Last Year in Viet Nam</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="cinematographer-tt0066416">
+<span class="year_column">
+&nbsp;1970
+</span>
+<b><a href="/title/tt0066416/?ref_=nm_flmg_cin_2"
+>Street Scenes</a></b>
+(Documentary)
+<br/>
+</div>
+</div>
+<div id="filmo-head-editor" class="head" data-category="editor" onclick="toggleFilmoCategory(this);">
+<span id="hide-editor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-editor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="editor">Editor</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="editor-tt0072136">
+<span class="year_column">
+&nbsp;1974
+</span>
+<b><a href="/title/tt0072136/?ref_=nm_flmg_edt_1"
+>Seizure</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="editor-tt0356809">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt0356809/?ref_=nm_flmg_edt_2"
+>Last Year in Viet Nam</a></b>
+(Short) (uncredited)
+<br/>
+</div>
+</div>
+<div id="filmo-head-miscellaneous" class="head" data-category="miscellaneous" onclick="toggleFilmoCategory(this);">
+<span id="hide-miscellaneous" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-miscellaneous" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="miscellaneous">Miscellaneous Crew</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="miscellaneous-tt0113542">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113542/?ref_=nm_flmg_msc_1"
+>Killer: A Journal of Murder</a></b>
+(presenter)
+<br/>
+</div>
+<div class="filmo-row even" id="miscellaneous-tt0110632">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110632/?ref_=nm_flmg_msc_2"
+>Natural Born Killers</a></b>
+(executive album producer - uncredited)
+<br/>
+</div>
+</div>
+<div id="filmo-head-thanks" class="head" data-category="thanks" onclick="toggleFilmoCategory(this);">
+<span id="hide-thanks" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-thanks" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="thanks">Thanks</a> (18 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="thanks-tt2783934">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2783934/?ref_=nm_flmg_tk_1"
+>American Federale</a></b>
+(Documentary) (special thanks) (<a href="/r/legacy-inprod-name/title/tt2783934" class="in_production">completed</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1615065">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1615065/?ref_=nm_flmg_tk_2"
+>Savages</a></b>
+(special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1704596">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1704596/?ref_=nm_flmg_tk_3"
+>I Will Follow You Into the Dark</a></b>
+(Short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1409587">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1409587/?ref_=nm_flmg_tk_4"
+>How to Kill Christian: Or How We Made Our First Movie and Didn't Kill Each Other</a></b>
+(Video documentary) (the producers wish to thank)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0138992">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0138992/?ref_=nm_flmg_tk_5"
+>A.W.O.L</a></b>
+(Short) (very special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0865952">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0865952/?ref_=nm_flmg_tk_6"
+>Thefts</a></b>
+(Short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0476829">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0476829/?ref_=nm_flmg_tk_7"
+>Perfect Is the Enemy of Good</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0476852">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0476852/?ref_=nm_flmg_tk_8"
+>Resurrecting 'Alexander'</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0476760">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0476760/?ref_=nm_flmg_tk_9"
+>The Death of 'Alexander'</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0409667">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0409667/?ref_=nm_flmg_tk_10"
+>Actors Anonymous: The Truth Behind the Dream</a></b>
+(Documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0490567">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0490567/?ref_=nm_flmg_tk_11"
+>Chaos Rising: The Storm Around 'Natural Born Killers'</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0373159">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0373159/?ref_=nm_flmg_tk_12"
+>Money Never Sleeps</a></b>
+(Video documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0784168">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0784168/?ref_=nm_flmg_tk_13"
+>Zapruder</a></b>
+(Short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0318220">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0318220/?ref_=nm_flmg_tk_14"
+>HBO First Look</a></b>
+(TV Series documentary) (special thanks - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0362663/?ref_=nm_flmg_tk_14"
+>Full Contact: The Making of 'Any Given Sunday'</a>
+(1999)
+... (special thanks)
+</div>
+</div>
+<div class="filmo-row odd" id="thanks-tt0223898">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0223898/?ref_=nm_flmg_tk_15"
+>Peace Is Every Step: Meditation in Action: The Life and Work of Thich Nhat Hanh</a></b>
+(Documentary) (thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0960821">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0960821/?ref_=nm_flmg_tk_16"
+>Patton: A Tribute to Franklin J. Schaffner</a></b>
+(Video documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0103801">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0103801/?ref_=nm_flmg_tk_17"
+>Beyond 'JFK': The Question of Conspiracy</a></b>
+(Documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0104797">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0104797/?ref_=nm_flmg_tk_18"
+>Malcolm X</a></b>
+(special thanks)
+<br/>
+</div>
+</div>
+<div id="filmo-head-self" class="head" data-category="self" onclick="toggleFilmoCategory(this);">
+<span id="hide-self" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-self" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="self">Self</a> (170 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="self-tt2049628">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt2049628/?ref_=nm_flmg_slf_1"
+>A Rush to Judgment</a></b>
+(Documentary) (<a href="/r/legacy-inprod-name/title/tt2049628" class="in_production">post-production</a>)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt3279446">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt3279446/?ref_=nm_flmg_slf_2"
+>Back to Our Future</a></b>
+(Documentary) (<a href="/r/legacy-inprod-name/title/tt3279446" class="in_production">post-production</a>)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt3913154">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt3913154/?ref_=nm_flmg_slf_3"
+>King Kill 63</a></b>
+(Documentary) (<a href="/r/legacy-inprod-name/title/tt3913154" class="in_production">post-production</a>)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt3798628">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt3798628/?ref_=nm_flmg_slf_4"
+>Brand: A Second Coming</a></b>
+(Documentary) (<a href="/r/legacy-inprod-name/title/tt3798628" class="in_production">post-production</a>)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt4036906">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt4036906/?ref_=nm_flmg_slf_5"
+>Once in a Lew Moon</a></b>
+(Documentary) (<a href="/r/legacy-inprod-name/title/tt4036906" class="in_production">post-production</a>)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt4327328">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt4327328/?ref_=nm_flmg_slf_6"
+>Frank Langella: An Actor's Actor</a></b>
+(Short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1929178">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt1929178/?ref_=nm_flmg_slf_7"
+>Hollywood Banker</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt4355672">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt4355672/?ref_=nm_flmg_slf_8"
+>Natural Born Killers: Method in the Madness</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt3595024">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3595024/?ref_=nm_flmg_slf_9"
+>Mi Amigo Hugo</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0426701">
+<span class="year_column">
+&nbsp;2008-2014
+</span>
+<b><a href="/title/tt0426701/?ref_=nm_flmg_slf_10"
+>Le grand journal de Canal+</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3452902/?ref_=nm_flmg_slf_10"
+>Episode dated 8 January 2014</a>
+(2014)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2411568/?ref_=nm_flmg_slf_10"
+>Episode dated 20 September 2012</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1656409/?ref_=nm_flmg_slf_10"
+>Episode dated 15 May 2010</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1329732/?ref_=nm_flmg_slf_10"
+>Episode dated 20 October 2008</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3563996">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3563996/?ref_=nm_flmg_slf_11"
+>Hollywood: Chronicle of an Empire</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0403813">
+<span class="year_column">
+&nbsp;2010-2013
+</span>
+<b><a href="/title/tt0403813/?ref_=nm_flmg_slf_12"
+>Tavis Smiley</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3304134/?ref_=nm_flmg_slf_12"
+>Episode dated 13 November 2013</a>
+(2013)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1684321/?ref_=nm_flmg_slf_12"
+>Episode dated 2 July 2010</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt4047898">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt4047898/?ref_=nm_flmg_slf_13"
+>Vangelis and the Journey to Ithaka</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0400998">
+<span class="year_column">
+&nbsp;2010-2013
+</span>
+<b><a href="/title/tt0400998/?ref_=nm_flmg_slf_14"
+>Democracy Now!</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3314590/?ref_=nm_flmg_slf_14"
+>Episode dated 5 November 2013</a>
+(2013)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2518308/?ref_=nm_flmg_slf_14"
+>Episode dated 16 November 2012</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2518314/?ref_=nm_flmg_slf_14"
+>Episode dated 21 June 2010</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1809909">
+<span class="year_column">
+&nbsp;2012-2013
+</span>
+<b><a href="/title/tt1809909/?ref_=nm_flmg_slf_15"
+>Piers Morgan Tonight</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3312470/?ref_=nm_flmg_slf_15"
+>Episode dated 4 November 2013</a>
+(2013)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2217366/?ref_=nm_flmg_slf_15"
+>Episode dated 29 June 2012</a>
+(2012)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0350448">
+<span class="year_column">
+&nbsp;2008-2013
+</span>
+<b><a href="/title/tt0350448/?ref_=nm_flmg_slf_16"
+>Real Time with Bill Maher</a></b>
+(TV Series)
+<br/>
+Himself
+/ Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt3224888/?ref_=nm_flmg_slf_16"
+>Episode #11.30</a>
+(2013)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1692447/?ref_=nm_flmg_slf_16"
+>Episode #8.16</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1474059/?ref_=nm_flmg_slf_16"
+>Episode #7.18</a>
+(2009)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1308537/?ref_=nm_flmg_slf_16"
+>Episode #6.22</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3205902">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3205902/?ref_=nm_flmg_slf_17"
+>61º Festival Internacional de Cine de San Sebastián - Gala de inauguración</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt3276588">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3276588/?ref_=nm_flmg_slf_18"
+>LT: The Life & Times</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt3228216">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3228216/?ref_=nm_flmg_slf_19"
+>Oribâ Sutôn to Hiroshima</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1024170">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1024170/?ref_=nm_flmg_slf_20"
+>News Zero</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3194198/?ref_=nm_flmg_slf_20"
+>Episode dated 10 August 2013</a>
+(2013)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3098562">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3098562/?ref_=nm_flmg_slf_21"
+>Breaking the Set</a></b>
+(TV Series)
+<br/>
+Himself - Academy Award winning Director (2013)
+</div>
+<div class="filmo-row even" id="self-tt2801364">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2801364/?ref_=nm_flmg_slf_22"
+>The '80s: The Decade That Made Us</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2835386/?ref_=nm_flmg_slf_22"
+>Masters of the Universe</a>
+(2013)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2689286">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2689286/?ref_=nm_flmg_slf_23"
+>Project Censored the Movie</a></b>
+(Documentary short)
+<br/>
+Himself - Filmmaker
+</div>
+<div class="filmo-row even" id="self-tt0844203">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt0844203/?ref_=nm_flmg_slf_24"
+>The One Show</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3274390/?ref_=nm_flmg_slf_24"
+>Episode dated 2 April 2013</a>
+(2013)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2370224">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2370224/?ref_=nm_flmg_slf_25"
+>Milius</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1908157">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1908157/?ref_=nm_flmg_slf_26"
+>Martin Bashir</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2611478/?ref_=nm_flmg_slf_26"
+>Episode dated 4 January 2013</a>
+(2013)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2334501">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2334501/?ref_=nm_flmg_slf_27"
+>Viewpoint with Eliot Spitzer</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2925258/?ref_=nm_flmg_slf_27"
+>Episode dated 4 January 2013</a>
+(2013)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1494191">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1494191/?ref_=nm_flmg_slf_28"
+>The Untold History of the United States</a></b>
+(TV Series documentary)
+<br/>
+Himself - Narrator
+<div class="filmo-episodes">
+- <a href="/title/tt2601076/?ref_=nm_flmg_slf_28"
+>Chapter 8: Reagan, Gorbachev & Third World - Rise of the Right</a>
+(2012)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2531952/?ref_=nm_flmg_slf_28"
+>Chapter 2: Roosevelt, Truman and Wallace</a>
+(2012)
+... Himself - Narrator
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2555438/?ref_=nm_flmg_slf_28"
+>Chapter 1: World War Two</a>
+(2012)
+... Himself - Narrator
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2552826">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2552826/?ref_=nm_flmg_slf_29"
+>Stanley Kubrick in Focus</a></b>
+(Short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2493044">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2493044/?ref_=nm_flmg_slf_30"
+>A Night at the Movies: Hollywood Goes to Washington</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Interviewee
+</div>
+<div class="filmo-row odd" id="self-tt0111920">
+<span class="year_column">
+&nbsp;1987-2012
+</span>
+<b><a href="/title/tt0111920/?ref_=nm_flmg_slf_31"
+>Cinema 3</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2425212/?ref_=nm_flmg_slf_31"
+>Episode dated 27 September 2012</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1659628/?ref_=nm_flmg_slf_31"
+>Episode dated 22 May 2010</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1062514/?ref_=nm_flmg_slf_31"
+>Episode dated 15 March 1996</a>
+(1996)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1059461/?ref_=nm_flmg_slf_31"
+>Episode dated 1 March 1996</a>
+(1996)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1673803/?ref_=nm_flmg_slf_31"
+>Episode dated 12 February 1992</a>
+(1992)
+... Himself
+</div>
+<div id="more-episodes-tt0111920-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB348606739_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="6"
+onclick="toggleSeeMoreEpisodes(this,'nm0000231','tt0111920','self',30); return false;">Show all 6 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0390699">
+<span class="year_column">
+&nbsp;1996-2012
+</span>
+<b><a href="/title/tt0390699/?ref_=nm_flmg_slf_32"
+>Días de cine</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2420994/?ref_=nm_flmg_slf_32"
+>Episode dated 27 September 2012</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1509952/?ref_=nm_flmg_slf_32"
+>Episode dated 10 September 2009</a>
+(2009)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1062549/?ref_=nm_flmg_slf_32"
+>Episode dated 15 March 1996</a>
+(1996)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2412068">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2412068/?ref_=nm_flmg_slf_33"
+>Premio Donostia a John Travolta y Oliver Stone</a></b>
+(TV Movie)
+<br/>
+Himself - Winner
+</div>
+<div class="filmo-row even" id="self-tt1293751">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1293751/?ref_=nm_flmg_slf_34"
+>Casting By</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt2322438">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2322438/?ref_=nm_flmg_slf_35"
+>Larry King Now</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt2861164/?ref_=nm_flmg_slf_35"
+>Oliver Stone</a>
+(2012)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0270116">
+<span class="year_column">
+&nbsp;1996-2012
+</span>
+<b><a href="/title/tt0270116/?ref_=nm_flmg_slf_36"
+>The Charlie Rose Show</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt2221248/?ref_=nm_flmg_slf_36"
+>Episode dated 3 July 2012</a>
+(2012)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1732479/?ref_=nm_flmg_slf_36"
+>Episode dated 24 September 2010</a>
+(2010)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1554044/?ref_=nm_flmg_slf_36"
+>Episode dated 17 October 2008</a>
+(2008)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1554041/?ref_=nm_flmg_slf_36"
+>Episode dated 3 August 2006</a>
+(2006)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1554038/?ref_=nm_flmg_slf_36"
+>Episode dated 25 November 2004</a>
+(2004)
+... Himself - Guest
+</div>
+<div id="more-episodes-tt0270116-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB348606739_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="8"
+onclick="toggleSeeMoreEpisodes(this,'nm0000231','tt0270116','self',35); return false;">Show all 8 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1231460">
+<span class="year_column">
+&nbsp;2010-2012
+</span>
+<b><a href="/title/tt1231460/?ref_=nm_flmg_slf_37"
+>Late Night with Jimmy Fallon</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2213246/?ref_=nm_flmg_slf_37"
+>Episode #4.112</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1685848/?ref_=nm_flmg_slf_37"
+>Episode #2.100</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1002838">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1002838/?ref_=nm_flmg_slf_38"
+>Chelsea Lately</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt2227200/?ref_=nm_flmg_slf_38"
+>Episode #6.97</a>
+(2012)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3909368">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt3909368/?ref_=nm_flmg_slf_39"
+>Hollywood Hi-Tech</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+</div>
+<div class="filmo-row even" id="self-tt1996345">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1996345/?ref_=nm_flmg_slf_40"
+>Oh Shit with Oliver Stone & Ryan Hansen</a></b>
+(Short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1403184">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1403184/?ref_=nm_flmg_slf_41"
+>The Invocation</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0398584">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0398584/?ref_=nm_flmg_slf_42"
+>This Week</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1741157/?ref_=nm_flmg_slf_42"
+>Episode dated 7 October 2010</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1737995">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1737995/?ref_=nm_flmg_slf_43"
+>IMDb's 20th Anniversary Star of the Day</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1740226/?ref_=nm_flmg_slf_43"
+>Oliver Stone</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0911896">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0911896/?ref_=nm_flmg_slf_44"
+>Made in Hollywood</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1745267/?ref_=nm_flmg_slf_44"
+>Episode #6.1</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0081857">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0081857/?ref_=nm_flmg_slf_45"
+>Entertainment Tonight</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1716067/?ref_=nm_flmg_slf_45"
+>Episode dated 9 September 2010</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0262152">
+<span class="year_column">
+&nbsp;2006-2010
+</span>
+<b><a href="/title/tt0262152/?ref_=nm_flmg_slf_46"
+>Breakfast</a></b>
+(TV Series)
+<br/>
+Himself - Director
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1694605/?ref_=nm_flmg_slf_46"
+>Episode dated 21 July 2010</a>
+(2010)
+... Himself - Director
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0857633/?ref_=nm_flmg_slf_46"
+>Episode dated 8 September 2006</a>
+(2006)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1642102">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1642102/?ref_=nm_flmg_slf_47"
+>In the House with Peter Bart & Peter Guber</a></b>
+(TV Series)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1731301/?ref_=nm_flmg_slf_47"
+>Oliver Stone/Tom Selleck/Nancy Schafer</a>
+(2010)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0088550">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0088550/?ref_=nm_flmg_slf_48"
+>Larry King Live</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1668993/?ref_=nm_flmg_slf_48"
+>Jesse Ventura & Oliver</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1619610">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1619610/?ref_=nm_flmg_slf_49"
+>Bandes originales: Georges Delerue</a></b>
+(Documentary)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row even" id="self-tt0421288">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0421288/?ref_=nm_flmg_slf_50"
+>At the Movies</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3041280/?ref_=nm_flmg_slf_50"
+>Cannes Film Festival 2010</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0930831">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0930831/?ref_=nm_flmg_slf_51"
+>Gomorron</a></b>
+(TV Series)
+<br/>
+Himself - Från Cannes
+<div class="filmo-episodes">
+- <a href="/title/tt1656433/?ref_=nm_flmg_slf_51"
+>Episode dated 14 May 2010</a>
+(2010)
+... Himself - Från Cannes
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0044298">
+<span class="year_column">
+&nbsp;1991-2010
+</span>
+<b><a href="/title/tt0044298/?ref_=nm_flmg_slf_52"
+>Today</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1655348/?ref_=nm_flmg_slf_52"
+>Episode dated 13 May 2010</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1731948/?ref_=nm_flmg_slf_52"
+>Episode dated 16 December 1991</a>
+(1991)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1643236">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1643236/?ref_=nm_flmg_slf_53"
+>NBK Evolution: How Would It All Go Down Now?</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1471845">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1471845/?ref_=nm_flmg_slf_54"
+>AFI Life Achievement Award: A Tribute to Michael Douglas</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1650531">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1650531/?ref_=nm_flmg_slf_55"
+>Ciak Point Torino 2008</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1404332">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1404332/?ref_=nm_flmg_slf_56"
+>Strada</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1439984/?ref_=nm_flmg_slf_56"
+>Episode dated 31 October 2008</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0489618">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt0489618/?ref_=nm_flmg_slf_57"
+>The Andrew Marr Show</a></b>
+(TV Series)
+<br/>
+Himself - Director
+<div class="filmo-episodes">
+- <a href="/title/tt1314113/?ref_=nm_flmg_slf_57"
+>Episode #4.9</a>
+(2008)
+... Himself - Director
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0072562">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt0072562/?ref_=nm_flmg_slf_58"
+>Saturday Night Live</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1294054/?ref_=nm_flmg_slf_58"
+>Josh Brolin/Adele</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0458254">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt0458254/?ref_=nm_flmg_slf_59"
+>The Colbert Report</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1303312/?ref_=nm_flmg_slf_59"
+>Oliver Stone/David Gergen</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1387323">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1387323/?ref_=nm_flmg_slf_60"
+>Behind the Wheel</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0970172">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0970172/?ref_=nm_flmg_slf_61"
+>Bienvenue à Cannes</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1093837">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1093837/?ref_=nm_flmg_slf_62"
+>Man of Cinema: Pierre Rissient</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1109481">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1109481/?ref_=nm_flmg_slf_63"
+>Influence and Appreciation: Taxi Driver</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1194095">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1194095/?ref_=nm_flmg_slf_64"
+>Act of Violence: Dealing with the Devil</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1193474">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1193474/?ref_=nm_flmg_slf_65"
+>Crime Wave: The City Is Dark</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1194162">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1194162/?ref_=nm_flmg_slf_66"
+>Side Street: Where Temptation Lurks</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1194170">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1194170/?ref_=nm_flmg_slf_67"
+>Tension: Who's Guilty Now?</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1193531">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1193531/?ref_=nm_flmg_slf_68"
+>They Live by Night: The Twisted Road</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0938321">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0938321/?ref_=nm_flmg_slf_69"
+>Oswald's Ghost</a></b>
+(Documentary)
+<br/>
+Himself - Filming JFK Movie
+</div>
+<div class="filmo-row even" id="self-tt0092322">
+<span class="year_column">
+&nbsp;1995-2007
+</span>
+<b><a href="/title/tt0092322/?ref_=nm_flmg_slf_70"
+>Biography</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0842320/?ref_=nm_flmg_slf_70"
+>Anthony Hopkins</a>
+(2007)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1034363/?ref_=nm_flmg_slf_70"
+>James Woods</a>
+(2007)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0439423/?ref_=nm_flmg_slf_70"
+>Val Kilmer</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0798652/?ref_=nm_flmg_slf_70"
+>Johnny Depp: Under His Skin</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0338689/?ref_=nm_flmg_slf_70"
+>Charlie Sheen: Born to Be Wild</a>
+(2001)
+... Himself
+</div>
+<div id="more-episodes-tt0092322-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB348606739_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="7"
+onclick="toggleSeeMoreEpisodes(this,'nm0000231','tt0092322','self',69); return false;">Show all 7 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1147705">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1147705/?ref_=nm_flmg_slf_71"
+>AFI Life Achievement Award: A Tribute to Al Pacino</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0865871">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0865871/?ref_=nm_flmg_slf_72"
+>The Boomer Century</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0918498">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0918498/?ref_=nm_flmg_slf_73"
+>The British Comedy Awards 2006 Live</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0949829">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0949829/?ref_=nm_flmg_slf_74"
+>The Making of 'World Trade Center'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1035508">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt1035508/?ref_=nm_flmg_slf_75"
+>Visual and Special Effects</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0876536">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0876536/?ref_=nm_flmg_slf_76"
+>San Sebastián 2006: Crónica de Carlos Boyero</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0264270">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0264270/?ref_=nm_flmg_slf_77"
+>The Late Late Show</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0894287/?ref_=nm_flmg_slf_77"
+>Episode dated 29 September 2006</a>
+(2006)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0192897">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0192897/?ref_=nm_flmg_slf_78"
+>Film 2015</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0877867/?ref_=nm_flmg_slf_78"
+>Episode dated 25 September 2006</a>
+(2006)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1027122">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt1027122/?ref_=nm_flmg_slf_79"
+>Oliver Stone - Hollywoods Lieblingsrebell</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0341708">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0341708/?ref_=nm_flmg_slf_80"
+>Canada A.M.</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0840442/?ref_=nm_flmg_slf_80"
+>Episode dated 9 August 2006</a>
+(2006)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0390776">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0390776/?ref_=nm_flmg_slf_81"
+>Sunday Morning Shootout</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0871354/?ref_=nm_flmg_slf_81"
+>Episode #3.34</a>
+(2006)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0778800">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0778800/?ref_=nm_flmg_slf_82"
+>Out of the Shadows: The Man Who Was Deep Throat</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0778902">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0778902/?ref_=nm_flmg_slf_83"
+>Woodward and Bernstein: Lighting the Fire</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1332098">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt1332098/?ref_=nm_flmg_slf_84"
+>The Autograph Hunters</a></b>
+(Short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0476829">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0476829/?ref_=nm_flmg_slf_85"
+>Perfect Is the Enemy of Good</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0476852">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0476852/?ref_=nm_flmg_slf_86"
+>Resurrecting 'Alexander'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0476760">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0476760/?ref_=nm_flmg_slf_87"
+>The Death of 'Alexander'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0918661">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0918661/?ref_=nm_flmg_slf_88"
+>Vangelis Scores 'Alexander'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0462071">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0462071/?ref_=nm_flmg_slf_89"
+>The 100 Greatest War Films</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1356766">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt1356766/?ref_=nm_flmg_slf_90"
+>Fight Against Time: Oliver Stone's Alexander</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0320991">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0320991/?ref_=nm_flmg_slf_91"
+>Tout le monde en parle</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0732478/?ref_=nm_flmg_slf_91"
+>Episode dated 18 December 2004</a>
+(2004)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0429400">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0429400/?ref_=nm_flmg_slf_92"
+>Mioch versus Goderie</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0648879/?ref_=nm_flmg_slf_92"
+>Episode dated 10 December 2004</a>
+(2004)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0318220">
+<span class="year_column">
+&nbsp;1999-2004
+</span>
+<b><a href="/title/tt0318220/?ref_=nm_flmg_slf_93"
+>HBO First Look</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0594805/?ref_=nm_flmg_slf_93"
+>The Making of 'Alexander': Fortune Favors the Bold</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0362663/?ref_=nm_flmg_slf_93"
+>Full Contact: The Making of 'Any Given Sunday'</a>
+(1999)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0959573">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0959573/?ref_=nm_flmg_slf_94"
+>On the Set of 'Alexander'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0768113">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0768113/?ref_=nm_flmg_slf_95"
+>Five Directors on 'The Battle of Algiers'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0402641">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0402641/?ref_=nm_flmg_slf_96"
+>Film School</a></b>
+(TV Series)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0411223">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0411223/?ref_=nm_flmg_slf_97"
+>Charging for Alexander</a></b>
+(TV Movie documentary short)
+<br/>
+The Director
+</div>
+<div class="filmo-row even" id="self-tt0388574">
+<span class="year_column">
+&nbsp;2003-2004
+</span>
+<b><a href="/title/tt0388574/?ref_=nm_flmg_slf_98"
+>America Undercover</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0403232/?ref_=nm_flmg_slf_98"
+>Looking for Fidel</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0368922/?ref_=nm_flmg_slf_98"
+>Persona Non Grata</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0382356">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0382356/?ref_=nm_flmg_slf_99"
+>Unseen + Untold: Scarface</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0395750">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0395750/?ref_=nm_flmg_slf_100"
+>Scarface: Creating</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0395751">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0395751/?ref_=nm_flmg_slf_101"
+>Scarface: The Rebirth</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0369200">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0369200/?ref_=nm_flmg_slf_102"
+>AFI's 100 Years... 100 Heroes & Villains</a></b>
+(TV Special documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0386208">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0386208/?ref_=nm_flmg_slf_103"
+>HARDtalk</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0594775/?ref_=nm_flmg_slf_103"
+>Episode dated 31 March 2003</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0356695">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0356695/?ref_=nm_flmg_slf_104"
+>Hollywood High</a></b>
+(TV Special documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0342213">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0342213/?ref_=nm_flmg_slf_105"
+>Comandante</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0338163">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0338163/?ref_=nm_flmg_slf_106"
+>John Ford Goes to War</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0331845">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0331845/?ref_=nm_flmg_slf_107"
+>Anthony Hopkins: A Taste for Hannibal</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0309735">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0309735/?ref_=nm_flmg_slf_108"
+>Jim Brown: All American</a></b>
+(TV Movie documentary)
+<br/>
+Himself (Filmmaker)
+</div>
+<div class="filmo-row odd" id="self-tt0483853">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0483853/?ref_=nm_flmg_slf_109"
+>Hollywood, Inc.</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1518994/?ref_=nm_flmg_slf_109"
+>Lightning in a Bottle</a>
+(2002)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0368363">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0368363/?ref_=nm_flmg_slf_110"
+>A Tour of the Inferno: Revisiting 'Platoon'</a></b>
+(Video documentary)
+<br/>
+Himself
+/ Director
+</div>
+<div class="filmo-row odd" id="self-tt0359769">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0359769/?ref_=nm_flmg_slf_111"
+>Oliver Stone's America</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0874290">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0874290/?ref_=nm_flmg_slf_112"
+>Into the Valley of Death</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0490567">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0490567/?ref_=nm_flmg_slf_113"
+>Chaos Rising: The Storm Around 'Natural Born Killers'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0373159">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0373159/?ref_=nm_flmg_slf_114"
+>Money Never Sleeps</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0266630">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0266630/?ref_=nm_flmg_slf_115"
+>Hollywood, D.C.</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0430950">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0430950/?ref_=nm_flmg_slf_116"
+>Conan Unchained: The Making of 'Conan'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0483221">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0483221/?ref_=nm_flmg_slf_117"
+>Mundo VIP</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0652876/?ref_=nm_flmg_slf_117"
+>Show nº204</a>
+(2000)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0224861">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0224861/?ref_=nm_flmg_slf_118"
+>The Directors</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0373794/?ref_=nm_flmg_slf_118"
+>The Films of Oliver Stone</a>
+(2000)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1695766">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt1695766/?ref_=nm_flmg_slf_119"
+>Censored!</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0391588">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0391588/?ref_=nm_flmg_slf_120"
+>The Century: America's Time</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself - Vietnam Vet
+<div class="filmo-episodes">
+- <a href="/title/tt1724435/?ref_=nm_flmg_slf_120"
+>1971-1975: Approaching the Apocalypse</a>
+(1999)
+... Himself - Vietnam Vet
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0279289">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0279289/?ref_=nm_flmg_slf_121"
+>One Vision</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0192952">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0192952/?ref_=nm_flmg_slf_122"
+>AFI's 100 Years... 100 Movies: America's Greatest Movies</a></b>
+(TV Special documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0481461">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0481461/?ref_=nm_flmg_slf_123"
+>1998 ALMA Awards</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0463399">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0463399/?ref_=nm_flmg_slf_124"
+>E! True Hollywood Story</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0282656/?ref_=nm_flmg_slf_124"
+>The Kennedys: Power, Seduction and Hollywood</a>
+(1998)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0432936">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0432936/?ref_=nm_flmg_slf_125"
+>The Making of 'Scarface'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0200341">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0200341/?ref_=nm_flmg_slf_126"
+>Great Books</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0992002/?ref_=nm_flmg_slf_126"
+>The Naked and the Dead</a>
+(1998)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0119147">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0119147/?ref_=nm_flmg_slf_127"
+>Frank Capra's American Dream</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Interviewee: Director
+</div>
+<div class="filmo-row even" id="self-tt0363032">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0363032/?ref_=nm_flmg_slf_128"
+>The Road of Excess</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0159881">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0159881/?ref_=nm_flmg_slf_129"
+>Jeopardy!</a></b>
+(TV Series)
+<br/>
+Himself - Guest Contestant
+<div class="filmo-episodes">
+- <a href="/title/tt2879312/?ref_=nm_flmg_slf_129"
+>1997 Power Players Week Game 4</a>
+(1997)
+... Himself - Guest Contestant
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0960821">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0960821/?ref_=nm_flmg_slf_130"
+>Patton: A Tribute to Franklin J. Schaffner</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0378278">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0378278/?ref_=nm_flmg_slf_131"
+>MTV Video Music Awards 1996</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1520051">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt1520051/?ref_=nm_flmg_slf_132"
+>Moving Pictures</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1531316/?ref_=nm_flmg_slf_132"
+>Episode dated 14 May 1996</a>
+(1996)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0296474">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0296474/?ref_=nm_flmg_slf_133"
+>1996 VH1 Honors</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0294070">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0294070/?ref_=nm_flmg_slf_134"
+>Empire of the Censors</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0361832">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0361832/?ref_=nm_flmg_slf_135"
+>Liebe in Hollywood</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0113068">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113068/?ref_=nm_flmg_slf_136"
+>The First 100 Years: A Celebration of American Movies</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0358494">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0358494/?ref_=nm_flmg_slf_137"
+>Music for the Movies: Georges Delerue</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0301515">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0301515/?ref_=nm_flmg_slf_138"
+>Der Klang der Bilder</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0200355">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0200355/?ref_=nm_flmg_slf_139"
+>Moviewatch</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1136661/?ref_=nm_flmg_slf_139"
+>From Glasgow</a>
+(1994)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0302216">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0302216/?ref_=nm_flmg_slf_140"
+>Ça se discute</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2375254/?ref_=nm_flmg_slf_140"
+>La violence des images: Contre</a>
+(1994)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2485838">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt2485838/?ref_=nm_flmg_slf_141"
+>Vincent à l'heure</a></b>
+(TV Series)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2094130">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt2094130/?ref_=nm_flmg_slf_142"
+>The 9th Annual IFP/West Independent Spirit Awards</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0375329">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0375329/?ref_=nm_flmg_slf_143"
+>Gente de primera</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0586919/?ref_=nm_flmg_slf_143"
+>Episode dated 1 February 1994</a>
+(1994)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0454036">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0454036/?ref_=nm_flmg_slf_144"
+>Primer plano</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1361187/?ref_=nm_flmg_slf_144"
+>Episode dated 29 October 1993</a>
+(1993)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0107372">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0107372/?ref_=nm_flmg_slf_145"
+>The Last Party</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0106175">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0106175/?ref_=nm_flmg_slf_146"
+>Wild Palms</a></b>
+(TV Mini-Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1733086/?ref_=nm_flmg_slf_146"
+>Everything Must Go</a>
+(1993)
+... Himself
+(uncredited)
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0103801">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0103801/?ref_=nm_flmg_slf_147"
+>Beyond 'JFK': The Question of Conspiracy</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0143781">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0143781/?ref_=nm_flmg_slf_148"
+>Oliver Stone: Inside Out</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0105074">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0105074/?ref_=nm_flmg_slf_149"
+>Our Hollywood Education</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0104306">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0104306/?ref_=nm_flmg_slf_150"
+>From Hollywood to Hanoi</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0290358">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0290358/?ref_=nm_flmg_slf_151"
+>Investigative Reports</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2314535/?ref_=nm_flmg_slf_151"
+>Who Killed JFK? On the Trail of the Conspiracies</a>
+(1992)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0462366">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0462366/?ref_=nm_flmg_slf_152"
+>The JFK Conspiracy</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0266219">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0266219/?ref_=nm_flmg_slf_153"
+>The 64th Annual Academy Awards</a></b>
+(TV Special)
+<br/>
+Himself - Nominated: Best Picture, Best Director & Best Adapted Screenplay
+</div>
+<div class="filmo-row even" id="self-tt0238811">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0238811/?ref_=nm_flmg_slf_154"
+>Tonight Live with Steve Vizard</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2112007/?ref_=nm_flmg_slf_154"
+>Episode dated 27 February 1992</a>
+(1992)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1800383">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt1800383/?ref_=nm_flmg_slf_155"
+>The 49th Annual Golden Globe Awards</a></b>
+(TV Movie)
+<br/>
+Himself - Winner: Best Motion Picture - Drama & Best Director
+</div>
+<div class="filmo-row even" id="self-tt2224475">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt2224475/?ref_=nm_flmg_slf_156"
+>The 6th Annual IFP/West Independent Spirit Awards</a></b>
+(TV Movie)
+<br/>
+Himself - Presenter
+</div>
+<div class="filmo-row odd" id="self-tt0881176">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0881176/?ref_=nm_flmg_slf_157"
+>The 48th Annual Golden Globe Awards</a></b>
+(TV Special)
+<br/>
+Himself - Nominee: Best Motion Picture - Drama & Presenter
+</div>
+<div class="filmo-row even" id="self-tt1974691">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt1974691/?ref_=nm_flmg_slf_158"
+>Hollywood Minute</a></b>
+(TV Series)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0289655">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0289655/?ref_=nm_flmg_slf_159"
+>MTV Video Music Awards 1990</a></b>
+(TV Special)
+<br/>
+Himself - Presenter
+</div>
+<div class="filmo-row even" id="self-tt0312314">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0312314/?ref_=nm_flmg_slf_160"
+>The 62nd Annual Academy Awards</a></b>
+(TV Special)
+<br/>
+Himself - Winner: Best Director & Nominee: Best Picture and Best Adapted Screenplay
+</div>
+<div class="filmo-row odd" id="self-tt2168358">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt2168358/?ref_=nm_flmg_slf_161"
+>The 42th Annual Directors Guild of America Awards</a></b>
+(TV Movie)
+<br/>
+Himself - Winner
+</div>
+<div class="filmo-row even" id="self-tt0096537">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0096537/?ref_=nm_flmg_slf_162"
+>The Arsenio Hall Show</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1784253/?ref_=nm_flmg_slf_162"
+>Episode dated 5 March 1990</a>
+(1990)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1000697">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt1000697/?ref_=nm_flmg_slf_163"
+>The 47th Annual Golden Globe Awards</a></b>
+(TV Special)
+<br/>
+Himself - Winner: Best Motion Picture - Drama, Best Director & best Screenplay
+</div>
+<div class="filmo-row even" id="self-tt0346994">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0346994/?ref_=nm_flmg_slf_164"
+>First Works</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0134253">
+<span class="year_column">
+&nbsp;1987-1989
+</span>
+<b><a href="/title/tt0134253/?ref_=nm_flmg_slf_165"
+>The Media Show</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2225634/?ref_=nm_flmg_slf_165"
+>Episode #4.14</a>
+(1989)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2219368/?ref_=nm_flmg_slf_165"
+>Episode #2.6</a>
+(1988)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1276678/?ref_=nm_flmg_slf_165"
+>Episode #1.1</a>
+(1987)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt2165262">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt2165262/?ref_=nm_flmg_slf_166"
+>The Annual ACLU Honors: A Salute to Michael Douglas</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0331410">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0331410/?ref_=nm_flmg_slf_167"
+>The 59th Annual Academy Awards</a></b>
+(TV Special)
+<br/>
+Himself - Winner: Best Director & Nominee: Best Original Screenplay
+</div>
+<div class="filmo-row even" id="self-tt0355108">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0355108/?ref_=nm_flmg_slf_168"
+>The Morning Program</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3582296/?ref_=nm_flmg_slf_168"
+>Episode dated 10 February 1987</a>
+(1987)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0353130">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0353130/?ref_=nm_flmg_slf_169"
+>The 44th Annual Golden Globe Awards</a></b>
+(TV Special)
+<br/>
+Himself - Winner: Best Director & Nominee: Best Screenplay
+</div>
+<div class="filmo-row even" id="self-tt0171011">
+<span class="year_column">
+&nbsp;1974
+</span>
+<b><a href="/title/tt0171011/?ref_=nm_flmg_slf_170"
+>Saturday Night at the Movies</a></b>
+(TV Series)
+<br/>
+Himself (2007)
+</div>
+</div>
+<div id="filmo-head-archive_footage" class="head" data-category="archive_footage" onclick="toggleFilmoCategory(this);">
+<span id="hide-archive_footage" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-archive_footage" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="archive_footage">Archive footage</a> (14 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="archive_footage-tt1889840">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1889840/?ref_=nm_flmg_arf_1"
+>Hôdô Tokushû</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3187066/?ref_=nm_flmg_arf_1"
+>Oliver Stone in Japan</a>
+(2013)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt4040832">
+<span class="year_column">
+&nbsp;2011-2012
+</span>
+<b><a href="/title/tt4040832/?ref_=nm_flmg_arf_2"
+>Whistleblowers: The Untold Stories</a></b>
+(TV Series)
+<br/>
+Himself - Award Winning Director
+/ Himself - Award Winnng Producer
+<div class="filmo-episodes">
+- <a href="/title/tt4054074/?ref_=nm_flmg_arf_2"
+>Twin Towers</a>
+(2012)
+... Himself - Award Winnng Producer
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4049810/?ref_=nm_flmg_arf_2"
+>Whistleblowers</a>
+(2011)
+... Himself - Award Winning Director
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4049798/?ref_=nm_flmg_arf_2"
+>Until It Happens to You</a>
+(2011)
+... Himself - Award Winning Director
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4049768/?ref_=nm_flmg_arf_2"
+>Malek Manual</a>
+(2011)
+... Himself - Award Winning Director
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt1961604">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1961604/?ref_=nm_flmg_arf_3"
+>The Undefeated</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="archive_footage-tt0463399">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0463399/?ref_=nm_flmg_arf_4"
+>E! True Hollywood Story</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1695175/?ref_=nm_flmg_arf_4"
+>Charlie Sheen</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0262152">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0262152/?ref_=nm_flmg_arf_5"
+>Breakfast</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1657559/?ref_=nm_flmg_arf_5"
+>Episode dated 18 May 2010</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt1318052">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1318052/?ref_=nm_flmg_arf_6"
+>Filmania: Eiga no tatsujin</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1376577/?ref_=nm_flmg_arf_6"
+>N.Y. Film School</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0092322">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt0092322/?ref_=nm_flmg_arf_7"
+>Biography</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1173034/?ref_=nm_flmg_arf_7"
+>Billy Idol</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt0862902">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0862902/?ref_=nm_flmg_arf_8"
+>Le mis popote</a></b>
+(Documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0778605">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0778605/?ref_=nm_flmg_arf_9"
+>Alberto Iglesias, el músico fiel</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+(uncredited)
+</div>
+<div class="filmo-row even" id="archive_footage-tt0470644">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0470644/?ref_=nm_flmg_arf_10"
+>Cinema mil</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0541456/?ref_=nm_flmg_arf_10"
+>Episode #1.6</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0450295">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0450295/?ref_=nm_flmg_arf_11"
+>Make Your Own Damn Movie!</a></b>
+(Video documentary)
+<br/>
+Cliff
+(uncredited)
+</div>
+<div class="filmo-row even" id="archive_footage-tt0387490">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0387490/?ref_=nm_flmg_arf_12"
+>The Kennedy Assassination</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0279641">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0279641/?ref_=nm_flmg_arf_13"
+>Who Is Alan Smithee?</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+(uncredited)
+</div>
+<div class="filmo-row even" id="archive_footage-tt0398443">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0398443/?ref_=nm_flmg_arf_14"
+>Cronkite Remembers</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself (editing 'JFK')
+(uncredited)
+</div>
+</div>
+</div>            </div> 
+    
+        <div class="article">
+        
+        <h2>Related Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T59S" />
+
+<a href="/video/screenplay/vi375560473?ref_=nm_rvd_vi_1"
+title="South of the Border -- Clip: Oliver On Predatory Capitalism" alt="South of the Border -- Clip: Oliver On Predatory Capitalism" class="video-colorbox" data-video="vi375560473" data-context="screenplay" data-rid="0XEX08WQCZ8B4HYWW66G" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="South of the Border -- Clip: Oliver On Predatory Capitalism" title="South of the Border -- Clip: Oliver On Predatory Capitalism"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzODE1MTU1N15BMl5BanBnXkFtZTcwODk1NDYwNA@@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA00:59,164,1,14,36,verdenab,7,255,255,255,1_ZASouth%2520of%2520the%2520Border,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi375560473" /></a>            </span>
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T1M35S" />
+
+<a href="/video/screenplay/vi2868250905?ref_=nm_rvd_vi_2"
+title="Wall Street: Money Never Sleeps -- Interview: &quot;Oliver Stone On The Storyline&quot;" alt="Wall Street: Money Never Sleeps -- Interview: &quot;Oliver Stone On The Storyline&quot;" class="video-colorbox" data-video="vi2868250905" data-context="screenplay" data-rid="0XEX08WQCZ8B4HYWW66G" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Wall Street: Money Never Sleeps -- Interview: &quot;Oliver Stone On The Storyline&quot;" title="Wall Street: Money Never Sleeps -- Interview: &quot;Oliver Stone On The Storyline&quot;"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTA0MDQ1Mzg4ODZeQTJeQWpwZ15BbWU3MDIwMTIwOTM@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAInterview,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA01:35,164,1,14,36,verdenab,7,255,255,255,1_ZAWall%2520Street:%2520Money%2520Never%2520Sleeps,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi2868250905" /></a>            </span>
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T2M31S" />
+
+<a href="/video/imdb/vi2503451417?ref_=nm_rvd_vi_3"
+title="Savages -- Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend." alt="Savages -- Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend." class="video-colorbox" data-video="vi2503451417" data-context="imdb" data-rid="0XEX08WQCZ8B4HYWW66G" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Savages -- Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend." title="Savages -- Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTg2MTEzMzkyOF5BMl5BanBnXkFtZTgwMDA3ODkxMzE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA02:31,164,1,14,36,verdenab,7,255,255,255,1_ZASavages,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi2503451417" /></a>            </span>
+    </div>
+
+                <div class="see-more">
+<a href="/name/nm0000231/videogallery?ref_=nm_rvd_vi_sm"
+>See all 44 videos</a>&nbsp;&raquo;
+                </div>
+        </div>
+    
+    </@csm.csm_widget />
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0000231/details&ref_=nm_pdt_edt"
+> Edit
+</a>        </span>
+    <h2>Personal Details</h2>
+        <div id="details-other-works" class="see-more inline canwrap">
+                <h4 class="inline">Other Works:</h4>
+                	Nonfiction: 
+"Oliver Stone: Interviews (Conversations With Filmmakers Series)" (edited by Charles L. P. Silet)                    <span class="see-more inline">
+                        <a href="/name/nm0000231/otherworks?ref_=nm_pdt_wrk_sm"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+
+            <hr/>
+        <div id="details-publicity-listings" class="see-more inline canwrap">
+            <h4 class="inline">Publicity Listings:</h4>
+    2 Biographical Movies <span class="ghost">|</span>
+    7 Print Biographies <span class="ghost">|</span>
+    24 Interviews <span class="ghost">|</span>
+    28 Articles <span class="ghost">|</span>
+    2 Pictorials <span class="ghost">|</span>
+    1 Magazine Cover Photo <span class="ghost">|</span>
+            <span class="see-more inline">
+                <a href="/name/nm0000231/publicity?ref_=nm_pdt_pub_sm"
+>See more</a>
+            </span>&raquo;
+        </div>
+    
+    
+            <hr/>
+        <div id="details-akas" class="see-more inline canwrap">
+            <h4 class="inline">Alternate Names:</h4>
+            Oliver W. Stone
+        </div>
+    
+            <hr/>
+        <div id="details-height" class="see-more inline canwrap">
+            <h4 class="inline">Height:</h4>
+6'&nbsp;(1.83&nbsp;m)        </div>
+            </div> 
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0000231/fun-facts&ref_=nm_dyk_edt"
+> Edit
+</a>        </span>
+    <h2>Did You Know?</h2>
+        <div id="dyk-personal-quote" class="see-more inline canwrap">
+                <h4 class="inline">Personal Quote:</h4>
+You see a coarsening of society through war. If you think not showing the coffins that come back to the United States is a solution, that's not so. We have to be more truthful about the nature of violence.                    <span class="see-more inline">
+                        <a href="/name/nm0000231/bio?ref_=nm_dyk_qt_sm#quotes"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+            <hr/>
+        <div id="dyk-trivia" class="see-more inline canwrap">
+                <h4 class="inline">Trivia:</h4>
+(March 23, 2009) Attended the 3rd Annual Asian Film Awards, in which he presented with <a href="/name/nm0001040?ref_=nm_dyk_trv1">Joan Chen</a> the award for Best Director to <a href="/name/nm0466153?ref_=nm_dyk_trv2">Hirokazu Koreeda</a>.                    <span class="see-more inline">
+                        <a href="/name/nm0000231/bio?ref_=nm_dyk_trv_sm#trivia"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-trademark" class="see-more inline canwrap">
+
+                <h4 class="inline">Trademark:</h4>
+Has constantly worked with cinematographer 'Robert Richardson' military consultant <a href="/name/nm0245653?ref_=nm_dyk_tm1">Dale Dye</a>, and producers <a href="/name/nm0457715?ref_=nm_dyk_tm2">A. Kitman Ho</a>, <a href="/name/nm0752116?ref_=nm_dyk_tm3">Richard Rutowski</a>, and 'Edward R. Pressman'.                    <span class="see-more inline">
+                        <a href="/name/nm0000231/bio?ref_=nm_dyk_tm_sm#trademark"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-star-sign" class="see-more inline canwrap">
+            <h4 class="inline">Star Sign:</h4>
+            <a href="/starsign/virgo?ref_=nm_dyk_sign"
+>Virgo</a>
+        </div>
+            </div> 
+    </div>
+</div> 
+
+<div id="content-1" class="redesign clear">
+    <div class="article" id="boardsTeaser">
+        <h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0000231/board/nest/203358816?ref_=nm_bd_1"
+>How can I get a movie idea to Oliver Stone?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur28996394/?ref_=nm_bd_1"
+>shanemiller42000</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0000231/board/nest/220682068?ref_=nm_bd_2"
+>Oliver Stone Criticizes âBreaking Badâ Finale</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur29486680/?ref_=nm_bd_2"
+>vinayaka-p-bhat</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0000231/board/nest/171148965?ref_=nm_bd_3"
+>What has happened to Oliver Stones' film making?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur20124158/?ref_=nm_bd_3"
+>hilar-2</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0000231/board/nest/175921272?ref_=nm_bd_4"
+>Will Stone Resurrect Pinkville With Shia LaBeouf?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur10987813/?ref_=nm_bd_4"
+>MissAppear</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0000231/board/nest/204552202?ref_=nm_bd_5"
+>Happy Birthday!</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur26821058/?ref_=nm_bd_5"
+>wintercobra</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0000231/board/nest/195567359?ref_=nm_bd_6"
+>JFK</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur20792191/?ref_=nm_bd_6"
+>pastoral-1</a>
+                        </td>
+                    </tr>
+            </table>
+        <div class="see-more">
+            <a href="/name/nm0000231/board/?ref_=nm_bd_sm"
+>Discuss Oliver Stone</a> on the IMDb message boards &raquo;
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_started');
+    }
+  </script>
+
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=nm_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=nm_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+            <div class="button-box">
+                <form method="post" action="/updates?ref_=nm_cn_edt">
+                    <input type="hidden" name="auto" value="legacy/name/nm0000231/">
+                        <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                </form>
+            </div>
+        
+
+        <div class="button-box">
+            <a href="http://pro.imdb.com/widget/resume_redirect/?rf=cons_nm_contr_res&ref_=cons_nm_contr_res"
+class="btn large" >Add resume</a>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_finished');
+    }
+  </script>
+</div>
+                   <br class="clear" />
+                </div>
+
+
+  <div id="footer" class="ft">
+    <hr width="100%" size=1>
+    <div id="rvi-div">
+        <div class="recently-viewed">&nbsp;</div>
+        <br class="clear">
+        <hr width="100%" size="1">
+    </div>
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+    <p class="footer" align="center">
+    
+          <a href="/?ref_=ft_hm"
+>Home</a>
+        | <a href="/search?ref_=ft_sr"
+>Search</a>
+        | <a href="/a2z?ref_=ft_si"
+>Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht"
+>Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250"
+>Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv"
+>TV</a>
+        | <a href="/news/?ref_=ft_nw"
+>News</a>
+        | <a href="/boards/?ref_=ft_mb"
+>Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr"
+>Press Room</a>
+        <br>
+
+        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+        | <a href="/advertising/?ref_=ft_ad"
+>Advertising</a>
+        | <a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb"
+>Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&token=BCYu8_0JVHANlG1L_6NpsZXuqcAgP3Z2cIyqQ0YwGCFJKRMtMt_PWiMxM4xYbZGEdAayVn0bcrdX%0D%0AAPWhj1uDOVMjwcXUgIyGKezzEVgxzJNPrsqofCeBJdh0RmYgNfiw9FjGEAQzc1vPhWUfsuQHBc8p%0D%0ApJ8uOIzVWePR_9l5jsdMjqZiQz_vDbLiVgo1kAqzn3bT%0D%0A" >Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&token=BCYm6ZSa3Cnago2m56qIpxre-pa7eNLaAQ0zb28ErbJRBr7FUFBxZttjgBVzOZnGBX4D6n_-nU8P%0D%0AEO1u9cpQk4Ic86E3WCx3H-CRyZm0V3XJ7c4S-hOC3EbXOewCgaxYt70sMX65rKLznnysOC_CAunp%0D%0A3ERBtGGPMFaZUNKDIgNFKkY3xQ1pN2krUL8_Ye0iCUB3%0D%0A" >Withoutabox</a>
+
+        <br /><br />
+        IMDb Mobile:
+          <a href="/apps/ios/?ref_=ft_ios"
+>iPhone/iPad</a>
+        | <a href="/android?ref_=ft_and"
+>Android</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot"
+>Mobile site</a>
+        | <a href="/windowsphone?ref_=ft_win"
+>Windows Phone 7</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&token=BCYpbl25yXz-lf9FWpjdVBdmaiEdUma3-SfbPV5ijZql5Rf4HhWrao7hkMr5KdEFlBW2w-GYAu8Y%0D%0A3XHbWSqxDuvf6pU1Ka7T7pIQafKxXFDS8GJ-4UQ12voG0oWotckbf8Y4KpY-ztFQeGLA9H6wsyyJ%0D%0Ajz8R3GH66-DsRLJt79R03en1h67xXmRg8A0ocb5ewTjr%0D%0A" >Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&token=BCYtREDx48428WTHOjG4M6NxN2EirIiKyzzn02RI5ryfmK8Bb4Xp--Atu9LhPQm57ORWie37r45P%0D%0AYJ6Y4yXWHepv7r4xZKWBgNtv2Ltt7PEId5D9U04OWGMeNtf8oJ_qt0R6OKqre_wESyMj0KBiYaGE%0D%0AO9rrY52BJ4fviK48cS0xc1I%0D%0A" >Twitter</a>
+
+       <br /><br />
+    </p>
+  
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2015 
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
+href="/help/"
+>IMDb.com, Inc.</a>
+        <br>
+          <a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&token=BCYmgBsK1oP1jf51WMbt_JgOzGvGsQSBYcJ2QkajVJerwBtxOLNsDvi9Z5PII9iuhXHaSVEUQZ9a%0D%0A4TRL8oPoF2hMl6ee_mb1C6WkGqYtK3i1KJAIu1KQ8kYTwwJMyhHiHeaZ_XFfCdoEjqmhsNl9VZ6x%0D%0AAR9Coy2sXax7xnOvAcHQdOiv7FRUMqBNPxn_-kzF5FHs%0D%0A" >Interest-Based Ads</a>
+
+        <br>
+        An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
+    </p>
+  
+
+      
+           
+           
+      
+  <table class="footer" id="amazon-affiliates">
+    <tr>
+      <td colspan="8">
+        Amazon Affiliates
+      </td>
+    </tr>
+    <tr>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-aiv&token=BCYkQshP6YdhLsBQpR96C8sf4WSabuUzsGSw2O7y2ttcMxgUa6cJiSUBqWV3yVgQMKuR2s65akeL%0D%0A0mtmCn5NqxVxstxgggV2naAK-8nOi5fRRTnTFBwvLeNhRgP0rRUnZI8iZ0rE9bqEBACTSPAbCj51%0D%0AoZJx0m2xlsnoK_bVo4dkpe3GxN7KWHBJZArjReEX70AE1e2JfmHJh6M5nSlILHzjf0klbgNX67UJ%0D%0A69iCYvhY4Hbp1_o0wriBftuGPP8Pu156%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-piv&token=BCYm_ypQNV1pnUrpodU4Hy7u0T9HVAeHOa9QIPHnUgv5OcUhkUeNiz2eanrxJGhr6wHRYKoTKNcs%0D%0AqYwcHfYmMHZqcxWxYbM_VUGtsI01gxE9FMwaj0orHkXxaVGwnFsD4QBT2WAbK3mTFLORyiGSnDVQ%0D%0AiSY80RPuZ3_WnB1aPc_0neiKFRp5rAx1c7lqC8wcGesXy7tMixEW0NO3quPValKkvlH7hvTOLY8R%0D%0ATDSElwYiZS597U59TBPx_cTm4j7dyv47%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-de&token=BCYjMBRnMlsR5_BLQcfAChlhJXJqn3apiDYvQtVHhXYcHWcDJJsnSZc4GwZ4VPHdrLTkUQHBDSmm%0D%0A2Ronvt_G8pa7-di1ryaPR9aoiOcuw-yiNj-2uLXB2eAfSMYdXmkuzlHYSYmaf-Cgb-UBwv1K47XU%0D%0Aygx7uWPcWtAOJsSKds7P7t2Gs6oisiKfG6kmNpI2r4z3Xe6BCIKl2603EkJLXRIhmPDr67oZLhs-%0D%0AkCcGGHl3v6I%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-it&token=BCYkQURwQB_cOyfc4jSBitaajc89sW6wGSsrn52BKgHg5H9EOxqh8YhC_8Gf1LYEZIJc5CX-4MhD%0D%0AlJpLl_GgjyzVh2oywBZLYXWgGEwmprxiEMjRSajctVzf3twq46SegM9QRECjqnv5LWFo6YVNsqDq%0D%0A5OZ7LUnaSNsP2H7QNaz5ojij_lXE-7HkEmcuhqmw_MXVz2tQvvqqfWdQ-o6dcARUo6z0CZdD57h7%0D%0A0ji1CB-Gyw0%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-fr&token=BCYv9rTsibV6JH2gdOPXDA3g5jusWEJZNK0cga4xe9JounTswCeeuSqRPMTpio8zdB7a1wM7YNib%0D%0A8mf3xbjb5mdlgk2DLSG6Uvb2xOvvJDu8hF7An0k4EzjVVNX1oPVdBHplFCF49Lqh1grFzjx6QcUX%0D%0AGWyBMfmc8U6VYpCS31v8zoE2rOy0Uc1Qzur1xfQ-nwbsCrFiDo1YsCkRohxA89mboyrkadS_MuTc%0D%0AXDdPsstEUow%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-in&token=BCYtT4ln_LM6ID9ovUlSrK0dxb_GctNpeQhu-LUohe2zp5MVb_3Qfo1njQENiUQgCtEzWiYc5bVl%0D%0AWUy0lJzIRJcw1NQFw8UZwfoSXI6vqha44IPAAsIs43Fc7SsO-o-32_h8dShA8xE9ZWOwtUtTIFJU%0D%0AryssjSPKNVH4izObv8TZXM0p-EUDsIqJAR-VidL_eB_AzbSECdPYZEa-8L4mB8uMPWhGbmLhpOjW%0D%0A4rV9qoNQqhMLE1aP-oC60gpxq6HlAAz7%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYl0xUO1f0slsmUfFr7gpWXIv4zuKxjV63XkW06mbkEE59f-MalHd7kE6trk1ddcVgAL66G-a_4%0D%0A_na_KudNhIKYHJfHn-Iu7eXjcuEkB4eARDLoAeo1TKg3XkJkBMAHTCJ3__QA1WpTrLON3ii6V3pW%0D%0AOeG55KecCg6MXZq78-IujnlNjLkN9fz8cugX1zb1qbPg%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-aud&token=BCYki2QDJnVIK0-CxDohdeJXaRM3IdEpcNmPu6tRCfmJWWlMykjqpSLidr8rSlLlKm3ukhJSsPEQ%0D%0A5vSprymBnr6V9xxWHLCUHIq-FiSl4nAFsk5C2IyWhrEvycoAceMN0OrdOL96gIDMaE_F7SnlSJXT%0D%0AGBEqLV10E1vLKugcqu8L_psUmp_Fzfz4PkgJ3Cycyqo0%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+</a>
+    </td>
+    </tr>
+  </table>
+  </div>
+            </div>
+        </div>
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/name-3917752789._CB331748220_.js"></script>
+
+<script type="text/imdblogin-js" id="login">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/name/nm0000231/");
+});
+
+</script>
+
+        <script type="text/javascript">
+                jQuery(
+                         function() {
+        $("#demoReelShoveler").shoveler({
+            'buttons' : {
+                'left' : {
+                    'text' : '',
+                },
+                'right' : {
+                    'text' : '',
+                }
+            },
+            'height' : 'auto',
+            'itemsPerShovel' : 2,
+            'paginate' : false,
+            'useExternalCSS' : true,
+            'width' : '100%'
+        });
+    }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0000231%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                     function() { $('#maindetails_sidebar_bottom').watchlistRibbon('.ribbonize'); }
+                );
+        </script>
+
+<div id="servertime" time="60"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+    </body>
+</html>
+

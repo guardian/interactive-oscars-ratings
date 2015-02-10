@@ -1,0 +1,4737 @@
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+
+        
+    
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "14JV47XCN6V1QP1TH319";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-68a7f4a0ab6cb5214d209156b26b64ce._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Peter Jackson - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="canonical" href="http://www.imdb.com/name/nm0001392/" />
+            <meta property="og:url" content="http://www.imdb.com/name/nm0001392/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152"> 
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTY1MzQ3NjA2OV5BMl5BanBnXkFtZTcwNTExOTA5OA@@._V1_SY1200_CR120,0,630,1200_AL_.jpg">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTY1MzQ3NjA2OV5BMl5BanBnXkFtZTcwNTExOTA5OA@@._V1_SY1200_CR120,0,630,1200_AL_.jpg" />
+    
+        <meta property='og:type' content="actor" />
+    <meta property='fb:app_id' content='115109575169727' />
+    
+    <meta property='og:title' content="Peter Jackson" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Peter Jackson - IMDb" />
+        <meta name="description" content="Peter Jackson, Producer: The Lord of the Rings: The Fellowship of the Ring. Peter Jackson was born as an only child in a small coast-side town in New Zealand in 1961. When a friend of his parents bought him a super 8 movie camera (because she saw how much he enjoyed taking photos), the then eight-year-old Peter instantly grabbed the thing to start recording his own movies, which he made with his friends. They were usually short, but they already had the trademark that ..." />
+        <meta property="og:description" content="Peter Jackson, Producer: The Lord of the Rings: The Fellowship of the Ring. Peter Jackson was born as an only child in a small coast-side town in New Zealand in 1961. When a friend of his parents bought him a super 8 movie camera (because she saw how much he enjoyed taking photos), the then eight-year-old Peter instantly grabbed the thing to start recording his own movies, which he made with his friends. They were usually short, but they already had the trademark that ..." />
+        <meta name="keywords" content="Biography, Photos, Awards, News, Message Boards" />
+        <meta name="request_id" content="14JV47XCN6V1QP1TH319" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-http-1a-c1xl-i-72500553.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-4194950000._CB333873393_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-2903902836._CB331748150_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/search/title?count=100&title_type=feature%2Ctv_series%2Ctv_movie&ref_=nv_ch_mm_1"
+>Popular Movies & TV</a></li>
+                        <li><a href="/chart/?ref_=nv_ch_cht_2"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year%2Cdesc&ref_=nv_ch_osc_3"
+>Oscar Winners</a></li>
+                        <li><a href="/chart/top?ref_=nv_ch_250_4"
+>Top 250</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_5"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_hm_1"
+>TV Home</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/watchnow/?ref_=nv_tvv_wn_3"
+>Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4"
+>DVD & Blu-Ray</a></li>
+                        <li><a href="/tv/blog?ref_=nv_tvv_blog_5"
+>TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/academymuseum/?ref_=nv_sf_am_1"
+>Academy Museum</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_pks_2"
+>IMDb Picks</a></li>
+                        <li><a href="/best-of/?ref_=nv_sf_bo_3"
+>Best of 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_4"
+>X-Ray for Movies & TV</a></li>
+                        <li><a href="/whattowatch/?ref_=nv_sf_wtw_5"
+>What to Watch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male%2Cfemale&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/event/?ref_=nv_tp_ev_2"
+>Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=01-16&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male%2Cfemale&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tff_2"
+>Toronto Film Festival</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_3"
+>Venice Film Festival</a></li>
+                        <li><a href="/sxsw/?ref_=nv_ev_sxsw_4"
+>SXSW Film Festival</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_5"
+>Road to the Emmys</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_6"
+>Comic-Con</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_7"
+>Cannes</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_8"
+>Tribeca</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_9"
+>Sundance</a></li>
+                        <li><a href="/event/?ref_=nv_ev_all_10"
+>More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2"
+>Community</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni58173699/?ref_=nv_nw_tn_1"
+> Critics Choice Awards: ‘Boyhood’ Wins Best Picture
+</a><br />
+                        <span class="time">13 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58172089/?ref_=nv_nw_tn_2"
+> The 17 Biggest Oscar Nomination Snubs and Surprises
+</a><br />
+                        <span class="time">23 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58173804/?ref_=nv_nw_tn_3"
+> Critics' Choice Awards: John Kraskinski Crashes Emily Blunt's Acceptance Speech for a Kiss
+</a><br />
+                        <span class="time">12 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1"
+>Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/games/guess?ref_=nv_cm_qz_3"
+>Quiz Game</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_4"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB360061167_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB360060945_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB360061165_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB377744227_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+id="proLink" > <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB377744226_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB377744253_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/apps/?ref_=nb_app"
+>IMDb Apps</a>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a href="/register/login?ref_=nv_usr_lgin_1"
+rel="login" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"
+>Register</a>
+                        </li>
+                        <li>
+                            <a href="/register/login?ref_=nv_usr_lgin_3"
+rel="login" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+                    <div id="pagecontent" itemscope itemtype="http://schema.org/Person">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+<div id="content-2-wide" class="redesign">
+
+    <div class="maindetails_center" id="maindetails_center_top">
+
+            <div class="article name-overview">
+
+    
+    <div id="name-overview-widget">
+        <table cellspacing="0" cellpadding="0" border="0" id="name-overview-widget-layout">
+            <tbody>
+                <tr>
+                    <td rowspan="2" id="img_primary">
+                        <div class="image">
+<a href="/media/rm982953216/nm0001392?ref_=nm_ov_ph"
+> <img id="name-poster"
+height="317"
+width="214"
+alt="Peter Jackson Picture"
+title="Peter Jackson Picture"
+src="http://ia.media-imdb.com/images/M/MV5BMTY1MzQ3NjA2OV5BMl5BanBnXkFtZTcwNTExOTA5OA@@._V1_SY317_CR8,0,214,317_AL_.jpg"
+itemprop="image" />
+</a>                                
+                         
+                        </div> 
+                    </td>
+                    
+                    <td id="overview-top">
+
+
+
+
+        
+
+            <div id="prometer_container">
+                <div id="prometer" class="meter-collapsed down">
+                    <div id="meterHeaderBox">
+                        <div class="meterToggleOnHover">STARmeter</div>
+<a href="http://pro.imdb.com/name/nm0001392?rf=cons_nm_meter&ref_=cons_nm_meter"
+id="meterRank" >Top 500</a>
+                    </div>
+                    <div id="meterChangeRow" class="meterToggleOnHover">
+                            <span>Down</span>
+                        <span id="meterChange">105</span>
+                        <span>this week</span>
+                    </div>
+                    <div id="meterSeeMoreRow" class="meterToggleOnHover">
+<a href="http://pro.imdb.com/name/nm0001392?rf=cons_nm_meter&ref_=cons_nm_meter"
+>View rank on IMDbPro</a>
+                        <span>&raquo;</span>
+                    </div>
+                </div>
+            </div>
+                        
+    <h1 class="header"> <span class="itemprop" itemprop="name">Peter Jackson</span> 
+            <span>(I)</span>
+        
+        
+    </h1>
+    
+        <div class="infobar" id="name-job-categories">
+            
+            
+<a href="#producer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Producer</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#director"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Director</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#writer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Writer</span></a>            
+        </div>
+    
+        <hr/>
+                        
+<div class="txt-block" id="name-bio-text">
+        <div class="name-trivia-bio-text">
+                      <div class="inline" itemprop="description">
+Peter Jackson was born as an only child in a small coast-side town in New Zealand in 1961. When a friend of his parents bought him a super 8 movie camera (because she saw how much he enjoyed taking photos), the then eight-year-old Peter instantly grabbed the thing to start recording his own movies, which he made with his friends. They were usually...            <span class="see-more inline nobr-only">
+                    <a href="/name/nm0001392/bio?ref_=nm_ov_bio_sm"
+>See full bio</a> &raquo;
+            </span>
+</div>        </div>
+</div>
+
+                        
+    <div id="name-born-info" class="txt-block">
+        <h4 class="inline">Born:</h4> 
+   
+  <time datetime="1961-10-31" itemprop="birthDate">
+<a href="/search/name?birth_monthday=10-31&refine=birth_monthday&ref_=nm_ov_bth_monthday"
+>October 31</a>, 
+     
+<a href="/search/name?birth_year=1961&ref_=nm_ov_bth_year"
+>1961</a>    
+  </time>
+            in
+            <a href="/search/name?birth_place=Pukerua+Bay%2C+North+Island%2C+New+Zealand&ref_=nm_ov_bth_place"
+>Pukerua Bay, North Island, New Zealand</a>
+    </div>
+
+                        
+                        
+                   </td>
+                <tr>
+                   <td id="overview-middle">
+        <div id="name-pro-info" class="pro-list">
+            <span class="pro-list-title"><a href="http://pro.imdb.com/name/nm0001392?rf=cons_nm_more&ref_=cons_nm_more"
+>More at IMDbPro</a> &raquo;</span>
+<a href="http://pro.imdb.com/name/nm0001392/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/phone-375450651._CB379390030_.png" alt="Contact Info on IMDbPro"/></a>                <strong>Contact Info:</strong>
+<a href="http://pro.imdb.com/name/nm0001392/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+> View manager, publicist, legal and company
+</a><br />
+            
+            
+<a href="http://pro.imdb.com/name/nm0001392?rf=cons_nm_photo&ref_=cons_nm_photo"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/profile-152317997._CB379391798_.png" alt="Add or change photos on IMDbPro"/ ></a>                <strong>Represent Peter Jackson?</strong> <a href="http://pro.imdb.com/name/nm0001392?rf=cons_nm_photo&ref_=cons_nm_photo"
+>Add or change photos</a>
+        </div>
+                        
+                   </td>
+                </tr>
+            </tbody>
+        </table>
+        
+    
+        <div class="mediastrip_container">
+        <div class="mediastrip">
+                
+<a href="/media/rm2097085952/nm0001392?ref_=nm_phs_md_1"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Peter Jackson" title="Peter Jackson"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjI0NzI3NDIwNl5BMl5BanBnXkFtZTgwNzQzMzQ2MzE@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm2742679808/nm0001392?ref_=nm_phs_md_2"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Peter Jackson in The Hobbit: The Battle of the Five Armies (2014)" title="Still of Peter Jackson in The Hobbit: The Battle of the Five Armies (2014)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjQwMzY2NDg5Nl5BMl5BanBnXkFtZTgwODcyNTc1MzE@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3208164096/nm0001392?ref_=nm_phs_md_3"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Steven Spielberg and Peter Jackson in The Adventures of Tintin: The Secret of the Unicorn (2011)" title="Still of Steven Spielberg and Peter Jackson in The Adventures of Tintin: The Secret of the Unicorn (2011)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjMwODIwMjI4Ml5BMl5BanBnXkFtZTcwMDA3MjQxNw@@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm194424064/nm0001392?ref_=nm_phs_md_4"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Peter Jackson at event of The Hobbit: An Unexpected Journey (2012)" title="Peter Jackson at event of The Hobbit: An Unexpected Journey (2012)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTM4Mjc4NDgwNV5BMl5BanBnXkFtZTcwMjQxOTA5OA@@._V1_SY99_CR24,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm1807723520/nm0001392?ref_=nm_phs_md_5"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Peter Jackson and Ian McKellen in The Hobbit: An Unexpected Journey (2012)" title="Still of Peter Jackson and Ian McKellen in The Hobbit: An Unexpected Journey (2012)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjMzMzk2ODUwNV5BMl5BanBnXkFtZTcwMTY0Mzg3OA@@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm2493169408/nm0001392?ref_=nm_phs_md_6"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Steven Spielberg, Peter Jackson, Kathleen Kennedy, Jamie Bell, Gad Elmaleh and Andy Serkis at event of The Adventures of Tintin: The Secret of the Unicorn (2011)" title="Steven Spielberg, Peter Jackson, Kathleen Kennedy, Jamie Bell, Gad Elmaleh and Andy Serkis at event of The Adventures of Tintin: The Secret of the Unicorn (2011)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTc5Mjk4OTE0N15BMl5BanBnXkFtZTcwNjg2ODAwNg@@._V1_SY99_CR24,0,99,99_AL_.jpg" itemprop='image' /></a>        </div>
+            
+            <div class="see-more">
+<a href="/name/nm0001392/mediaindex?ref_=nm_phs_md_sm"
+><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/name/nm0001392/mediaindex?ref_=nm_phs_md_sm"
+>179 photos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0001392/videogallery?ref_=nm_phs_vi"
+>44 videos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0001392/news?ref_=nm_phs_nw"
+>15807 news articles</a> &raquo;            </div>
+        </div>
+        
+    </div>
+
+            </div> 
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+    </div> 
+    <div id="maindetails_sidebar_bottom" class="maindetails_sidebar" data-caller-name="name-main">
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+
+                
+                
+
+    
+    
+    <div class="aux-content-widget-3 links subnav" div="quicklinks">
+
+            <h3>Quick Links</h3>
+
+
+        <div id="maindetails_quicklinks">
+                <div class="split_0">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/bio?ref_=nm_ql_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/awards?ref_=nm_ql_2"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/board/?ref_=nm_ql_3"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+                <div class="split_1">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/mediaindex?ref_=nm_ql_4"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/?nmdp=1&ref_=nm_ql_5#filmography"
+class="link" >Filmography <span class="ghost quicklink_modifier">(by Job)</span></a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/videogallery?ref_=nm_ql_6"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+        </div>
+        <hr/>
+
+        <div id="full_subnav">
+
+
+        <h4>Filmography</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=year&explore=title_type&role=nm0001392&ref_=nm_ql_flmg_1"
+class="link" ><span class="ghost">by</span> Year</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/?nmdp=1&ref_=nm_ql_flmg_2#filmography"
+class="link" ><span class="ghost">by</span> Job</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=user_rating&explore=title_type&role=nm0001392&ref_=nm_ql_flmg_3"
+class="link" ><span class="ghost">by</span> Ratings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=num_votes&explore=title_type&role=nm0001392&ref_=nm_ql_flmg_4"
+class="link" ><span class="ghost">by</span> Votes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=genres&role=nm0001392&ref_=nm_ql_flmg_5"
+class="link" ><span class="ghost">by</span> Genre</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=keywords&role=nm0001392&ref_=nm_ql_flmg_6"
+class="link" ><span class="ghost">by</span> Keyword</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Personal Details</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/bio?ref_=nm_ql_pdtls_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/otherworks?ref_=nm_ql_pdtls_2"
+class="link" >Other Works</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/publicity?ref_=nm_ql_pdtls_3"
+class="link" >Publicity Listings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/officialsites?ref_=nm_ql_pdtls_4"
+class="link" >Official Sites</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/agent?ref_=nm_ql_pdtls_5"
+class="link" >Contact Info <span class="ghost quicklink_modifier">(IMDbPro)</span></a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Did You Know?</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/bio?ref_=nm_ql_dyk_1#quotes"
+class="link" >Personal Quotes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/bio?ref_=nm_ql_dyk_2#trivia"
+class="link" >Trivia </a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/bio?ref_=nm_ql_dyk_3#trademark"
+class="link" >Trademark</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Photo & Video</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/mediaindex?ref_=nm_ql_pv_1"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/videogallery?ref_=nm_ql_pv_2"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Opinion</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/awards?ref_=nm_ql_op_1"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/board/?ref_=nm_ql_op_2"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Related Items</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/workedwith?ref_=nm_ql_rel_1"
+class="link" >Credited With</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/nowshowing?ref_=nm_ql_rel_2"
+class="link ghost" >TV Schedule</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/news?ref_=nm_ql_rel_3"
+class="link" >NewsDesk</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001392/externalsites?ref_=nm_ql_rel_4"
+class="link" >External Sites</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Professional Services</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/widget/resume_redirect/?ref_=nm_ql_pro_1"
+class="link" >Promote yourself with a resume</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0001392?ref_=nm_ql_pro_2"
+class="link" >Add or change photos</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0001392?ref_=nm_ql_pro_3"
+class="link" >Get more at IMDbPro</a>
+                    </span>
+                </li>
+    </ul>
+            <hr/>
+        </div>
+
+        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+    </div>
+
+                
+        <div class="aux-content-widget-2">
+        <span class="ab_widget"
+        >
+            <div class="ab_editorial">
+<span class="ninja_header"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_hd" > <h3>Editors' Spotlight</h3> </a> <h4>Oscar Nominations 2015</h4> </span> <p class="blurb">The Oscars nominations have been announced, with 'Birdman' and 'The Grand Budapest Hotel' leading the way with nine nominations each.</p> <div class="ninja_image_pack"> <div class="ninja_left"> <div class="ninja_image first_image" style="width:86px;height:auto;" > <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_i_1" > <img itemprop="image" class="pri_image" title="Oscar Nominees 2015" alt="Oscar Nominees 2015" src="http://ia.media-imdb.com/images/M/MV5BMjM4ODM5ODQ5MV5BMl5BanBnXkFtZTgwMjE0MDkxMTE@._V1_SY86_CR15,0,86,86_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMjM4ODM5ODQ5MV5BMl5BanBnXkFtZTgwMjE0MDkxMTE@._V1_SY86_CR15,0,86,86_AL_.jpg" /> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image" style="width:86px;height:auto;" > <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_i_2" > <img itemprop="image" class="pri_image" title="Oscar Nominees 2015" alt="Oscar Nominees 2015" src="http://ia.media-imdb.com/images/M/MV5BMTQxNzY4MDcyMV5BMl5BanBnXkFtZTgwNjEzMDMxMjE@._V1_SY86_CR36,0,86,86_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMTQxNzY4MDcyMV5BMl5BanBnXkFtZTgwNjEzMDMxMjE@._V1_SY86_CR36,0,86,86_AL_.jpg" /> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image last_image" style="width:86px;height:auto;" > <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_i_3" > <img itemprop="image" class="pri_image" title="Oscar Nominees 2015" alt="Oscar Nominees 2015" src="http://ia.media-imdb.com/images/M/MV5BMjMzNzU3NDAwMV5BMl5BanBnXkFtZTgwMjIwMzkxMzE@._V1_SY86_CR21,0,86,86_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMjMzNzU3NDAwMV5BMl5BanBnXkFtZTgwMjIwMzkxMzE@._V1_SY86_CR21,0,86,86_AL_.jpg" /> </a> </div> </div> </div> </div> </div> <div><a href="http://www.imdb.com/awards-central/oscars/?ref_=nm_tt_edw_OscarNom_sm" ><p class="seemore position_bottom">See the full list of nominees!</p></a></div>    </div>
+
+        </span>
+        </div>
+
+
+                
+
+  <div class="aux-content-widget-2" id="social-share-widget"> 
+    
+    <div class="social">
+      <div class="social_networking"> 
+       <span><strong>Share</strong> this page:</span>
+  <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001392%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001392%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Peter%20Jackson%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001392%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Peter%20Jackson%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001392%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/name/nm0001392/"></a>
+      </div>
+      <input type="text" name="share-link" value="http://www.imdb.com/name/nm0001392/" readonly>
+    </div>
+  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/name/nm0001392/"
+      width=280
+      height=65></iframe>
+  </div>
+  </div>
+
+                
+
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+                
+
+
+      <div class="aux-content-widget-2" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0001392/news?ref_=nm_nwr_1#ni58173199"
+>The best movies that didn't get nominated for any Oscars this year</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  18 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000344?ref_=nm_nwr_1"
+>EW.com - PopWatch</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0001392/news?ref_=nm_nwr_2#ni58172577"
+>Beautiful Lord Of The Rings Trilogy Art by Matt Ferguson</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  21 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0006193?ref_=nm_nwr_2"
+>GeekTyrant</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0001392/news?ref_=nm_nwr_3#ni58172463"
+>Can Michael Bay Finally Make John Krasinski a Viable Movie Star?</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  22 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000067?ref_=nm_nwr_3"
+>FilmSchoolRejects.com</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/name/nm0001392/news?ref_=nm_nwr_sm"
+>See all 15807 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+
+                
+
+
+
+                
+
+            <div class="aux-content-widget-2" >
+    <h3>Projects In Development <a href="/help/show_leaf?proindevelopment"
+class="titlePageSprite helpInSprite" ></a></h3>
+            <div class="devitem odd">
+<a href="/title/tt1571234?ref_=nm_dev_1"
+> Mortal Engines
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt0862850?ref_=nm_dev_2"
+> Temeraire
+</a>            </div>
+    <div class="see-more">
+        Details only on <a href="http://pro.imdb.com/name/nm0001392?rf=cons_nm_pid_det&ref_=cons_nm_pid_det"
+>IMDbPro</a> &raquo;
+    </div>
+            </div>
+
+                
+
+        <div class="aux-content-widget-2">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=nm_rls"
+>Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls004425179?ref_=nm_rls_1"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls004425179?ref_=nm_rls_1"
+>Distinctive Directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 47 people
+            <br />created 14&nbsp;May&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls009398789?ref_=nm_rls_2"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTI1MjU3MTI2MF5BMl5BanBnXkFtZTcwMDgxNTE4MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls009398789?ref_=nm_rls_2"
+>Need to see more work of these people.</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 30 people
+            <br />created 01&nbsp;Jul&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls051415884?ref_=nm_rls_3"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjIwOTY5NDgzNV5BMl5BanBnXkFtZTcwNjE3NjQxMw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls051415884?ref_=nm_rls_3"
+>Favourite Writers/Directors/Producers</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 26 people
+            <br />created 30&nbsp;Apr&nbsp;2013
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls070197455?ref_=nm_rls_4"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTMyNjAxMjM3M15BMl5BanBnXkFtZTYwMTg4MzUz._V1_SY86_CR18,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls070197455?ref_=nm_rls_4"
+>My Dream Cast and Crew for a remake of The Most Dangerous Game</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 28 people
+            <br />created 6&nbsp;months&nbsp;ago
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls071484296?ref_=nm_rls_5"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTY3MzA0NzIwMV5BMl5BanBnXkFtZTYwNTM3MzI0._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls071484296?ref_=nm_rls_5"
+>Saturn Award Winning Directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 29 people
+            <br />created 2&nbsp;months&nbsp;ago
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+                <div class="see-more">
+                    <a href="/lists/nm0001392?ref_=nm_rls_sm"
+>See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+
+                
+
+    <div class="aux-content-widget-2">
+        <h3>Do you have a demo reel?</h3>
+
+        <p>Add it to your IMDbPage</p>
+        <div class="video-browser-widget">
+             <div id="demoReelShoveler">
+
+
+<a href="/video/user/vi3091568921?ref_=nm_demo_1"
+title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" class="video-colorbox" data-video="vi3091568921" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjI0NDMxOTE4MV5BMl5BanBnXkFtZTgwODI5MzczMzE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA01:21,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" itemprop='image' viconst="vi3091568921" /></a>
+
+<a href="/video/user/vi4067727897?ref_=nm_demo_2"
+title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" class="video-colorbox" data-video="vi4067727897" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNTgxMDMyNF5BMl5BanBnXkFtZTcwNTkxOTQ0NA@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA03:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4067727897" /></a>
+             </div>
+        </div>
+        <div id="pro_demo_reel_link">
+<a href="http://pro.imdb.com/demoreels/list?rf=cons_nm_demoreel&ref_=cons_nm_demoreel"
+>Find out more at IMDb Pro</a> &raquo;
+        </div>
+    </div>
+
+                
+
+    <div class="aux-content-widget-2">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+
+                
+
+<div class="aux-content-widget-2 ">
+    <h3>How Much Have You Seen?</h3>
+How much of <a href="/seen/nm0001392/?ref_=nm_se"
+>Peter Jackson's work</a> have you seen?
+</div>
+
+                
+
+<div class="aux-content-widget-2 poll-widget-rhs ">
+    <style>
+        .aux-content-widget-2.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .aux-content-widget-2.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .aux-content-widget-2.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+    <h3>User Polls</h3>
+    <ul>
+        <li>
+<a href="/poll/ivQ1OiCPuqk/?ref_=nm_po_i1"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjA4MTgwNDI3Nl5BMl5BanBnXkFtZTcwMTU2MTk2Mw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/ivQ1OiCPuqk/?ref_=nm_po_q1"
+>For Gondor!</a>
+        <li>
+<a href="/poll/C81rcH0txqg/?ref_=nm_po_i2"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/C81rcH0txqg/?ref_=nm_po_q2"
+>Best Director-Composer Collaborations</a>
+        <li>
+<a href="/poll/-b6FJ5eQW8A/?ref_=nm_po_i3"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQxOTg3ODc2NV5BMl5BanBnXkFtZTYwNTg0NTU2._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/-b6FJ5eQW8A/?ref_=nm_po_q3"
+>Imdb Top 250 Directors</a>
+        <li>
+<a href="/poll/LQXvFAc-EcQ/?ref_=nm_po_i4"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ2NjM5NjE5NF5BMl5BanBnXkFtZTYwNTk3MjUz._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/LQXvFAc-EcQ/?ref_=nm_po_q4"
+>Possible Titles for Hollywood Biographies ...</a>
+        <li>
+<a href="/poll/35emksFZ6bs/?ref_=nm_po_i5"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/35emksFZ6bs/?ref_=nm_po_q5"
+>Directors who know visual effects</a>
+        <li>
+<a href="/poll/GJRPnvro7tg/?ref_=nm_po_i6"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/GJRPnvro7tg/?ref_=nm_po_q6"
+>Middle-earth beauty contest</a>
+    </ul>
+    <div class="see-more"><a href="/poll/?ref_=nm_po_sm"
+>See more polls &raquo;</a></div>
+</div>
+
+                
+
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+                
+
+    </div>
+
+
+
+    <div id="maindetails_center_bottom" class="maindetails_center">
+            <div class="article highlighted">
+        <span itemprop="awards"><b>Won 3 Oscars.</b></span>
+        <span itemprop="awards">Another 123 wins & 87 nominations.</span>
+    <span class="see-more inline">
+<a href="/name/nm0001392/awards?ref_=nm_awd"
+>See more awards</a>&nbsp;&raquo;    </span>
+            </div> 
+            <div class="article">
+<h2>Known For</h2>
+<div id="knownfor">
+<div>
+<a href="/title/tt0120737/?ref_=nm_knf_i1"
+> <img
+height="200"
+width="148"
+title="The Lord of the Rings: The Fellowship of the Ring"
+alt="The Lord of the Rings: The Fellowship of the Ring"
+src="http://ia.media-imdb.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0120737" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0120737/?ref_=nm_knf_t1"
+>The Lord of the Rings: The Fellowship of the Ring (2001)</a>
+</div>
+<div>
+<a href="/title/tt0167260/?ref_=nm_knf_i2"
+> <img
+height="200"
+width="148"
+title="The Lord of the Rings: The Return of the King"
+alt="The Lord of the Rings: The Return of the King"
+src="http://ia.media-imdb.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0167260" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0167260/?ref_=nm_knf_t2"
+>The Lord of the Rings: The Return of the King (2003)</a>
+</div>
+<div>
+<a href="/title/tt0167261/?ref_=nm_knf_i3"
+> <img
+height="200"
+width="148"
+title="The Lord of the Rings: The Two Towers"
+alt="The Lord of the Rings: The Two Towers"
+src="http://ia.media-imdb.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0167261" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0167261/?ref_=nm_knf_t3"
+>The Lord of the Rings: The Two Towers (2002)</a>
+</div>
+<div class="last">
+<a href="/title/tt0903624/?ref_=nm_knf_i4"
+> <img
+height="200"
+width="148"
+title="The Hobbit: An Unexpected Journey"
+alt="The Hobbit: An Unexpected Journey"
+src="http://ia.media-imdb.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0903624" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0903624/?ref_=nm_knf_t4"
+>The Hobbit: An Unexpected Journey (2012)</a>
+</div>
+</div>
+            </div> 
+            <div class="article">
+<div class="rightcornerlink">
+<span class="filmo-show-hide-all"
+style="display: inline;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show_mini-603933165._CB358668251_.png" alt="Show" width="14" height="12" class="absmiddle">&nbsp;Show all
+</span>
+<span class="filmo-show-hide-all"
+style="display: none;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide_mini-3743750714._CB358668245_.png" alt="Hide" width="14" height="12" class="absmiddle">&nbsp;Hide all
+</span>
+&nbsp;<span>|</span>&nbsp;
+<form name="navform" method="get" action="filmosummary" id="filmoform">
+<select name="sort" class="fixed">
+<option value="">Show by...</option>
+<option value="?nmdp=1">Job</option>
+<option value="/filmosearch?sort=year&explore=title_type&role=nm0001392">Year &raquo;</option>
+<option value="/filmosearch?sort=user_rating&explore=title_type&role=nm0001392">Ratings &raquo;</option>
+<option value="/filmosearch?sort=num_votes&explore=title_type&role=nm0001392">Votes &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=genres&role=nm0001392">Genre &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=keywords&role=nm0001392">Keyword &raquo;</option>
+</select>
+</form>
+&nbsp;<span>|</span>&nbsp;
+<a href="/updates?edit=nm0001392/filmography&ref_=nm_flmg_edt"
+> Edit
+</a> </div>
+<h2>Filmography</h2>
+<div id="jumpto">
+Jump to:
+<a href="#producer"
+onclick="handleFilmoJumpto(this);" data-category="producer">Producer</a></a>
+<span class="ghost">|</span> <a href="#director"
+onclick="handleFilmoJumpto(this);" data-category="director">Director</a></a>
+<span class="ghost">|</span> <a href="#writer"
+onclick="handleFilmoJumpto(this);" data-category="writer">Writer</a></a>
+<span class="ghost">|</span> <a href="#actor"
+onclick="handleFilmoJumpto(this);" data-category="actor">Actor</a></a>
+<span class="ghost">|</span> <a href="#miscellaneous"
+onclick="handleFilmoJumpto(this);" data-category="miscellaneous">Miscellaneous Crew</a></a>
+<span class="ghost">|</span> <a href="#special_effects"
+onclick="handleFilmoJumpto(this);" data-category="special_effects">Special effects</a></a>
+<span class="ghost">|</span> <a href="#visual_effects"
+onclick="handleFilmoJumpto(this);" data-category="visual_effects">Visual effects</a></a>
+<span class="ghost">|</span> <a href="#assistant_director"
+onclick="handleFilmoJumpto(this);" data-category="assistant_director">Second Unit Director or Assistant Director</a></a>
+<span class="ghost">|</span> <a href="#editor"
+onclick="handleFilmoJumpto(this);" data-category="editor">Editor</a></a>
+<span class="ghost">|</span> <a href="#make_up_department"
+onclick="handleFilmoJumpto(this);" data-category="make_up_department">Makeup Department</a></a>
+<span class="ghost">|</span> <a href="#cinematographer"
+onclick="handleFilmoJumpto(this);" data-category="cinematographer">Cinematographer</a></a>
+<span class="ghost">|</span> <a href="#animation_department"
+onclick="handleFilmoJumpto(this);" data-category="animation_department">Animation department</a></a>
+<span class="ghost">|</span> <a href="#camera_department"
+onclick="handleFilmoJumpto(this);" data-category="camera_department">Camera and Electrical Department</a></a>
+<span class="ghost">|</span> <a href="#costume_designer"
+onclick="handleFilmoJumpto(this);" data-category="costume_designer">Costume designer</a></a>
+<span class="ghost">|</span> <a href="#music_department"
+onclick="handleFilmoJumpto(this);" data-category="music_department">Music department</a></a>
+<span class="ghost">|</span> <a href="#thanks"
+onclick="handleFilmoJumpto(this);" data-category="thanks">Thanks</a></a>
+<span class="ghost">|</span> <a href="#self"
+onclick="handleFilmoJumpto(this);" data-category="self">Self</a></a>
+<span class="ghost">|</span> <a href="#archive_footage"
+onclick="handleFilmoJumpto(this);" data-category="archive_footage">Archive footage</a></a>
+</div>
+<div id="filmography">
+<div id="filmo-head-producer" class="head" data-category="producer" onclick="toggleFilmoCategory(this);">
+<span id="hide-producer" class="hide-link"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-producer" class="show-link"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="producer">Producer</a> (23 credits)
+</div>
+<div class="filmo-category-section"
+>
+<div class="filmo-row odd" id="producer-tt1037226">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt1037226/?ref_=nm_flmg_prd_1"
+>The Adventures of Tintin: Prisoners of the Sun</a></b>
+(producer) (<a href="/r/legacy-inprod-name/title/tt1037226" class="in_production">announced</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1204343">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt1204343/?ref_=nm_flmg_prd_2"
+>Untitled Third Tintin Film</a></b>
+(executive producer) (<a href="/r/legacy-inprod-name/title/tt1204343" class="in_production">announced</a>)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt2310332">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt2310332/?ref_=nm_flmg_prd_3"
+>The Hobbit: The Battle of the Five Armies</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1170358">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1170358/?ref_=nm_flmg_prd_4"
+>The Hobbit: The Desolation of Smaug</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0903624">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt0903624/?ref_=nm_flmg_prd_5"
+>The Hobbit: An Unexpected Journey</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt2130321">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2130321/?ref_=nm_flmg_prd_6"
+>West of Memphis</a></b>
+(Documentary) (producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0983193">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0983193/?ref_=nm_flmg_prd_7"
+>The Adventures of Tintin: The Secret of the Unicorn</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0380510">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0380510/?ref_=nm_flmg_prd_8"
+>The Lovely Bones</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1136608">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1136608/?ref_=nm_flmg_prd_9"
+>District 9</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0360717">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0360717/?ref_=nm_flmg_prd_10"
+>King Kong</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0492337">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0492337/?ref_=nm_flmg_prd_11"
+>RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'</a></b>
+(Video documentary) (producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0167260">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0167260/?ref_=nm_flmg_prd_12"
+>The Lord of the Rings: The Return of the King</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0343992">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0343992/?ref_=nm_flmg_prd_13"
+>The Long and Short of It</a></b>
+(Short) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0167261">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0167261/?ref_=nm_flmg_prd_14"
+>The Lord of the Rings: The Two Towers</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0120737">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0120737/?ref_=nm_flmg_prd_15"
+>The Lord of the Rings: The Fellowship of the Ring</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0474794">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0474794/?ref_=nm_flmg_prd_16"
+>The Making of 'The Frighteners'</a></b>
+(Video documentary) (producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0138529">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0138529/?ref_=nm_flmg_prd_17"
+>Jack Brown Genius</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0116365">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0116365/?ref_=nm_flmg_prd_18"
+>The Frighteners</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0116344">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0116344/?ref_=nm_flmg_prd_19"
+>Forgotten Silver</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0110005">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110005/?ref_=nm_flmg_prd_20"
+>Heavenly Creatures</a></b>
+(co-producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0306184">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0306184/?ref_=nm_flmg_prd_21"
+>Valley of the Stereos</a></b>
+(Short) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0097858">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0097858/?ref_=nm_flmg_prd_22"
+>Meet the Feebles</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_prd_23"
+>Bad Taste</a></b>
+(producer)
+<br/>
+</div>
+</div>
+<div id="filmo-head-director" class="head" data-category="director" onclick="toggleFilmoCategory(this);">
+<span id="hide-director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="director">Director</a> (20 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="director-tt1037226">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt1037226/?ref_=nm_flmg_dr_1"
+>The Adventures of Tintin: Prisoners of the Sun</a></b>
+(<a href="/r/legacy-inprod-name/title/tt1037226" class="in_production">announced</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt2310332">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt2310332/?ref_=nm_flmg_dr_2"
+>The Hobbit: The Battle of the Five Armies</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1170358">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1170358/?ref_=nm_flmg_dr_3"
+>The Hobbit: The Desolation of Smaug</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0903624">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt0903624/?ref_=nm_flmg_dr_4"
+>The Hobbit: An Unexpected Journey</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt2118664">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt2118664/?ref_=nm_flmg_dr_5"
+>King Kong 360 3-D</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0380510">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0380510/?ref_=nm_flmg_dr_6"
+>The Lovely Bones</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1251751">
+<span class="year_column">
+&nbsp;2008/I
+</span>
+<b><a href="/title/tt1251751/?ref_=nm_flmg_dr_7"
+>Crossing the Line</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0360717">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0360717/?ref_=nm_flmg_dr_8"
+>King Kong</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0832446">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0832446/?ref_=nm_flmg_dr_9"
+>The Lost Spider Pit Sequence</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0167260">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0167260/?ref_=nm_flmg_dr_10"
+>The Lord of the Rings: The Return of the King</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0167261">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0167261/?ref_=nm_flmg_dr_11"
+>The Lord of the Rings: The Two Towers</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0120737">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0120737/?ref_=nm_flmg_dr_12"
+>The Lord of the Rings: The Fellowship of the Ring</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0474794">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0474794/?ref_=nm_flmg_dr_13"
+>The Making of 'The Frighteners'</a></b>
+(Video documentary)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0116365">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0116365/?ref_=nm_flmg_dr_14"
+>The Frighteners</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0116344">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0116344/?ref_=nm_flmg_dr_15"
+>Forgotten Silver</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0110005">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110005/?ref_=nm_flmg_dr_16"
+>Heavenly Creatures</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0103873">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0103873/?ref_=nm_flmg_dr_17"
+>Braindead</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0097858">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0097858/?ref_=nm_flmg_dr_18"
+>Meet the Feebles</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_dr_19"
+>Bad Taste</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0314831">
+<span class="year_column">
+&nbsp;1976
+</span>
+<b><a href="/title/tt0314831/?ref_=nm_flmg_dr_20"
+>The Valley</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-writer" class="head" data-category="writer" onclick="toggleFilmoCategory(this);">
+<span id="hide-writer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-writer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="writer">Writer</a> (17 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="writer-tt2310332">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt2310332/?ref_=nm_flmg_wr_1"
+>The Hobbit: The Battle of the Five Armies</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1170358">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1170358/?ref_=nm_flmg_wr_2"
+>The Hobbit: The Desolation of Smaug</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0903624">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt0903624/?ref_=nm_flmg_wr_3"
+>The Hobbit: An Unexpected Journey</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0380510">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0380510/?ref_=nm_flmg_wr_4"
+>The Lovely Bones</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt1251751">
+<span class="year_column">
+&nbsp;2008/I
+</span>
+<b><a href="/title/tt1251751/?ref_=nm_flmg_wr_5"
+>Crossing the Line</a></b>
+(Short) (written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0360717">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0360717/?ref_=nm_flmg_wr_6"
+>King Kong</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0167260">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0167260/?ref_=nm_flmg_wr_7"
+>The Lord of the Rings: The Return of the King</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0167261">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0167261/?ref_=nm_flmg_wr_8"
+>The Lord of the Rings: The Two Towers</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0120737">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0120737/?ref_=nm_flmg_wr_9"
+>The Lord of the Rings: The Fellowship of the Ring</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0474794">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0474794/?ref_=nm_flmg_wr_10"
+>The Making of 'The Frighteners'</a></b>
+(Video documentary)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0138529">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0138529/?ref_=nm_flmg_wr_11"
+>Jack Brown Genius</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0116365">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0116365/?ref_=nm_flmg_wr_12"
+>The Frighteners</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0116344">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0116344/?ref_=nm_flmg_wr_13"
+>Forgotten Silver</a></b>
+(TV Movie) (written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0110005">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110005/?ref_=nm_flmg_wr_14"
+>Heavenly Creatures</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0103873">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0103873/?ref_=nm_flmg_wr_15"
+>Braindead</a></b>
+(screenplay)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0097858">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0097858/?ref_=nm_flmg_wr_16"
+>Meet the Feebles</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_wr_17"
+>Bad Taste</a></b>
+(written by)
+<br/>
+</div>
+</div>
+<div id="filmo-head-actor" class="head" data-category="actor" onclick="toggleFilmoCategory(this);">
+<span id="hide-actor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-actor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="actor">Actor</a> (16 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="actor-tt1170358">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1170358/?ref_=nm_flmg_act_1"
+>The Hobbit: The Desolation of Smaug</a></b>
+<br/>
+<a href="/character/ch0000145/?ref_=nm_flmg_act_1"
+>Albert Dreary</a>
+(uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt3356268">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3356268/?ref_=nm_flmg_act_2"
+>The Five(ish) Doctors Reboot</a></b>
+(TV Movie)
+<br/>
+<a href="/character/ch0389626/?ref_=nm_flmg_act_2"
+>Peter Jackson</a>
+</div>
+<div class="filmo-row odd" id="actor-tt0380510">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0380510/?ref_=nm_flmg_act_3"
+>The Lovely Bones</a></b>
+<br/>
+Man at Pharmacy
+(uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0387199">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0387199/?ref_=nm_flmg_act_4"
+>Entourage</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0389626/?ref_=nm_flmg_act_4"
+>Peter Jackson</a>
+<div class="filmo-episodes">
+- <a href="/title/tt1027390/?ref_=nm_flmg_act_4"
+>Gary's Desk</a>
+(2007)
+... <a href="/character/ch0389626/?ref_=nm_flmg_act_4"
+>Peter Jackson</a>
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt0425112">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0425112/?ref_=nm_flmg_act_5"
+>Hot Fuzz</a></b>
+<br/>
+<a href="/character/ch0078742/?ref_=nm_flmg_act_5"
+>Thief Dressed as Santa</a>
+(uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0360717">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0360717/?ref_=nm_flmg_act_6"
+>King Kong</a></b>
+<br/>
+Gunner
+</div>
+<div class="filmo-row odd" id="actor-tt0772238">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0772238/?ref_=nm_flmg_act_7"
+>Lord of the Brush</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row even" id="actor-tt0167260">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0167260/?ref_=nm_flmg_act_8"
+>The Lord of the Rings: The Return of the King</a></b>
+<br/>
+<a href="/character/ch0469851/?ref_=nm_flmg_act_8"
+>Mercenary On Boat</a>
+(uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0343992">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0343992/?ref_=nm_flmg_act_9"
+>The Long and Short of It</a></b>
+(Short)
+<br/>
+Bus Driver
+</div>
+<div class="filmo-row even" id="actor-tt0167261">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0167261/?ref_=nm_flmg_act_10"
+>The Lord of the Rings: The Two Towers</a></b>
+<br/>
+<a href="/character/ch0201147/?ref_=nm_flmg_act_10"
+>Rohirrim Warrior</a>
+(uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0120737">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0120737/?ref_=nm_flmg_act_11"
+>The Lord of the Rings: The Fellowship of the Ring</a></b>
+<br/>
+<a href="/character/ch0000145/?ref_=nm_flmg_act_11"
+>Albert Dreary</a>
+(uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0116365">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0116365/?ref_=nm_flmg_act_12"
+>The Frighteners</a></b>
+<br/>
+Man with Piercings
+(uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0110005">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110005/?ref_=nm_flmg_act_13"
+>Heavenly Creatures</a></b>
+<br/>
+Bum Outside Theater
+(uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0103873">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0103873/?ref_=nm_flmg_act_14"
+>Braindead</a></b>
+<br/>
+Undertaker's Assistant
+</div>
+<div class="filmo-row odd" id="actor-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_act_15"
+>Bad Taste</a></b>
+<br/>
+<a href="/character/ch0015009/?ref_=nm_flmg_act_15"
+>Derek</a>
+/ <a href="/character/ch0036500/?ref_=nm_flmg_act_15"
+>Robert</a>
+</div>
+<div class="filmo-row even" id="actor-tt0314831">
+<span class="year_column">
+&nbsp;1976
+</span>
+<b><a href="/title/tt0314831/?ref_=nm_flmg_act_16"
+>The Valley</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-miscellaneous" class="head" data-category="miscellaneous" onclick="toggleFilmoCategory(this);">
+<span id="hide-miscellaneous" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-miscellaneous" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="miscellaneous">Miscellaneous Crew</a> (5 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="miscellaneous-tt1136608">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1136608/?ref_=nm_flmg_msc_1"
+>District 9</a></b>
+(presents)
+<br/>
+</div>
+<div class="filmo-row even" id="miscellaneous-tt0492337">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0492337/?ref_=nm_flmg_msc_2"
+>RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'</a></b>
+(Video documentary) (source: images)
+<br/>
+</div>
+<div class="filmo-row odd" id="miscellaneous-tt0159876">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0159876/?ref_=nm_flmg_msc_3"
+>Great Performances</a></b>
+(TV Series) (concert producer - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0497896/?ref_=nm_flmg_msc_3"
+>Cream Reunion Concert</a>
+(2005)
+... (concert producer)
+</div>
+</div>
+<div class="filmo-row even" id="miscellaneous-tt0110017">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0110017/?ref_=nm_flmg_msc_4"
+>Hercules: The Legendary Journeys - Hercules and the Lost Kingdom</a></b>
+(TV Movie) (project manager: Weta Ltd.)
+<br/>
+</div>
+<div class="filmo-row odd" id="miscellaneous-tt0097858">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0097858/?ref_=nm_flmg_msc_5"
+>Meet the Feebles</a></b>
+(puppet maker)
+<br/>
+</div>
+</div>
+<div id="filmo-head-special_effects" class="head" data-category="special_effects" onclick="toggleFilmoCategory(this);">
+<span id="hide-special_effects" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-special_effects" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="special_effects">Special effects</a> (4 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="special_effects-tt0097783">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0097783/?ref_=nm_flmg_spl_1"
+>The Lounge Bar</a></b>
+(Short) (special effects)
+<br/>
+</div>
+<div class="filmo-row even" id="special_effects-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_spl_2"
+>Bad Taste</a></b>
+(special effects)
+<br/>
+</div>
+<div class="filmo-row odd" id="special_effects-tt0090548">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0090548/?ref_=nm_flmg_spl_3"
+>Worzel Gummidge Down Under</a></b>
+(TV Series) (special effects)
+<br/>
+</div>
+<div class="filmo-row even" id="special_effects-tt0314831">
+<span class="year_column">
+&nbsp;1976
+</span>
+<b><a href="/title/tt0314831/?ref_=nm_flmg_spl_4"
+>The Valley</a></b>
+(Short) (special effects)
+<br/>
+</div>
+</div>
+<div id="filmo-head-visual_effects" class="head" data-category="visual_effects" onclick="toggleFilmoCategory(this);">
+<span id="hide-visual_effects" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-visual_effects" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="visual_effects">Visual effects</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="visual_effects-tt0118884">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0118884/?ref_=nm_flmg_vsl_1"
+>Contact</a></b>
+(additional visual effects)
+<br/>
+</div>
+<div class="filmo-row even" id="visual_effects-tt0103873">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0103873/?ref_=nm_flmg_vsl_2"
+>Braindead</a></b>
+(miniatures)
+<br/>
+</div>
+</div>
+<div id="filmo-head-assistant_director" class="head" data-category="assistant_director" onclick="toggleFilmoCategory(this);">
+<span id="hide-assistant_director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-assistant_director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="assistant_director">Second Unit Director or Assistant Director</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="assistant_director-tt0983193">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0983193/?ref_=nm_flmg_asst_1"
+>The Adventures of Tintin: The Secret of the Unicorn</a></b>
+(second unit director)
+<br/>
+</div>
+<div class="filmo-row even" id="assistant_director-tt0138529">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0138529/?ref_=nm_flmg_asst_2"
+>Jack Brown Genius</a></b>
+(second unit director)
+<br/>
+</div>
+</div>
+<div id="filmo-head-editor" class="head" data-category="editor" onclick="toggleFilmoCategory(this);">
+<span id="hide-editor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-editor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="editor">Editor</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="editor-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_edt_1"
+>Bad Taste</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="editor-tt0314831">
+<span class="year_column">
+&nbsp;1976
+</span>
+<b><a href="/title/tt0314831/?ref_=nm_flmg_edt_2"
+>The Valley</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-make_up_department" class="head" data-category="make_up_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-make_up_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-make_up_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="make_up_department">Makeup Department</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="make_up_department-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_mkp_1"
+>Bad Taste</a></b>
+(makeup effects)
+<br/>
+</div>
+<div class="filmo-row even" id="make_up_department-tt0314831">
+<span class="year_column">
+&nbsp;1976
+</span>
+<b><a href="/title/tt0314831/?ref_=nm_flmg_mkp_2"
+>The Valley</a></b>
+(Short) (makeup designer)
+<br/>
+</div>
+</div>
+<div id="filmo-head-cinematographer" class="head" data-category="cinematographer" onclick="toggleFilmoCategory(this);">
+<span id="hide-cinematographer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-cinematographer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="cinematographer">Cinematographer</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="cinematographer-tt0092610">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092610/?ref_=nm_flmg_cin_1"
+>Bad Taste</a></b>
+<br/>
+</div>
+</div>
+<div id="filmo-head-animation_department" class="head" data-category="animation_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-animation_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-animation_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="animation_department">Animation department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="animation_department-tt0103873">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0103873/?ref_=nm_flmg_anm_1"
+>Braindead</a></b>
+(stop motion animator)
+<br/>
+</div>
+</div>
+<div id="filmo-head-camera_department" class="head" data-category="camera_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-camera_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-camera_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="camera_department">Camera and Electrical Department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="camera_department-tt0097858">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0097858/?ref_=nm_flmg_cam_1"
+>Meet the Feebles</a></b>
+(camera operator)
+<br/>
+</div>
+</div>
+<div id="filmo-head-costume_designer" class="head" data-category="costume_designer" onclick="toggleFilmoCategory(this);">
+<span id="hide-costume_designer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-costume_designer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="costume_designer">Costume designer</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="costume_designer-tt0314831">
+<span class="year_column">
+&nbsp;1976
+</span>
+<b><a href="/title/tt0314831/?ref_=nm_flmg_cos_1"
+>The Valley</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-music_department" class="head" data-category="music_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-music_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-music_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="music_department">Music department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="music_department-tt0167260">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0167260/?ref_=nm_flmg_msdp_1"
+>The Lord of the Rings: The Return of the King</a></b>
+(executive soundtrack producer - uncredited)
+<br/>
+</div>
+</div>
+<div id="filmo-head-thanks" class="head" data-category="thanks" onclick="toggleFilmoCategory(this);">
+<span id="hide-thanks" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-thanks" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="thanks">Thanks</a> (33 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="thanks-tt0787474">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0787474/?ref_=nm_flmg_tk_1"
+>The Boxtrolls</a></b>
+(thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1669814">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1669814/?ref_=nm_flmg_tk_2"
+>Rise of the Fellowship</a></b>
+(special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1213663">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1213663/?ref_=nm_flmg_tk_3"
+>The World's End</a></b>
+(special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt2566240">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2566240/?ref_=nm_flmg_tk_4"
+>Broken Glass</a></b>
+(Short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt2244692">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2244692/?ref_=nm_flmg_tk_5"
+>Lovely Memories</a></b>
+(Short) (dedicatee)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt2167356">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2167356/?ref_=nm_flmg_tk_6"
+>The Oohs</a></b>
+(Short) (acknowledgment)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1544579">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1544579/?ref_=nm_flmg_tk_7"
+>Black Sunshine: Conversations with T.F. Mou</a></b>
+(Documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1568911">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1568911/?ref_=nm_flmg_tk_8"
+>War Horse</a></b>
+(thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1881087">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1881087/?ref_=nm_flmg_tk_9"
+>The Puppet Monster Massacre</a></b>
+(Video) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1613025">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1613025/?ref_=nm_flmg_tk_10"
+>Blank Spaces</a></b>
+(Short) (very special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1458493">
+<span class="year_column">
+&nbsp;2009/I
+</span>
+<b><a href="/title/tt1458493/?ref_=nm_flmg_tk_11"
+>Little Red Riding Hood</a></b>
+(Video short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1988536">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1988536/?ref_=nm_flmg_tk_12"
+>5 Demis</a></b>
+(Short) (extra special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1161064">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1161064/?ref_=nm_flmg_tk_13"
+>Super Capers: The Origins of Ed and the Missing Bullion</a></b>
+(special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1578743">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1578743/?ref_=nm_flmg_tk_14"
+>The Ending Bridges</a></b>
+(Short) (very special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1306954">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1306954/?ref_=nm_flmg_tk_15"
+>Artists of the Roundtable</a></b>
+(Video documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1282092">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1282092/?ref_=nm_flmg_tk_16"
+>Taste of Flesh</a></b>
+(Video) (very special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1372305">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1372305/?ref_=nm_flmg_tk_17"
+>Weird Science Whatever</a></b>
+(Short) (special thanks for inspiration)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1039988">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1039988/?ref_=nm_flmg_tk_18"
+>Star Wars: The Legacy Revealed</a></b>
+(TV Movie documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0425112">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0425112/?ref_=nm_flmg_tk_19"
+>Hot Fuzz</a></b>
+(with thanks to)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0779982">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0779982/?ref_=nm_flmg_tk_20"
+>Black Sheep</a></b>
+(thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0862898">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0862898/?ref_=nm_flmg_tk_21"
+>In the Headlights</a></b>
+(Video short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0800191">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0800191/?ref_=nm_flmg_tk_22"
+>The Sci-Fi Boys</a></b>
+(Documentary) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0450278">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0450278/?ref_=nm_flmg_tk_23"
+>Hostel</a></b>
+(very special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0412080">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0412080/?ref_=nm_flmg_tk_24"
+>The World's Fastest Indian</a></b>
+(thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0492060">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0492060/?ref_=nm_flmg_tk_25"
+>I'm King Kong!: The Exploits of Merian C. Cooper</a></b>
+(Documentary) (grateful thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0427053">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0427053/?ref_=nm_flmg_tk_26"
+>The Characters of 'Star Wars'</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0427263">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0427263/?ref_=nm_flmg_tk_27"
+>The Force Is with Them: The Legacy of 'Star Wars'</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0371174">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0371174/?ref_=nm_flmg_tk_28"
+>The Saw Is Family: Making 'Leatherface'</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0382814">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0382814/?ref_=nm_flmg_tk_29"
+>The Lord of the Rings: The Quest Fulfilled</a></b>
+(TV Special documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0395171">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0395171/?ref_=nm_flmg_tk_30"
+>I'll See You in My Dreams</a></b>
+(Short) (thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0120697">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0120697/?ref_=nm_flmg_tk_31"
+>Heaven</a></b>
+(special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0119891">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0119891/?ref_=nm_flmg_tk_32"
+>Phantoms</a></b>
+(special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0120401">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0120401/?ref_=nm_flmg_tk_33"
+>The Ugly</a></b>
+(special thanks)
+<br/>
+</div>
+</div>
+<div id="filmo-head-self" class="head" data-category="self" onclick="toggleFilmoCategory(this);">
+<span id="hide-self" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-self" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="self">Self</a> (101 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="self-tt2552684">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt2552684/?ref_=nm_flmg_slf_1"
+>Long Live the King</a></b>
+(Documentary) (<a href="/r/legacy-inprod-name/title/tt2552684" class="in_production">filming</a>)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0458254">
+<span class="year_column">
+&nbsp;2012-2014
+</span>
+<b><a href="/title/tt0458254/?ref_=nm_flmg_slf_2"
+>The Colbert Report</a></b>
+(TV Series)
+<br/>
+Himself
+/ Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt4259048/?ref_=nm_flmg_slf_2"
+>Episode dated 18 December 2014</a>
+(2014)
+... Himself
+(uncredited)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2532390/?ref_=nm_flmg_slf_2"
+>Peter Jackson</a>
+(2012)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0318251">
+<span class="year_column">
+&nbsp;2001-2014
+</span>
+<b><a href="/title/tt0318251/?ref_=nm_flmg_slf_3"
+>Troldspejlet</a></b>
+(TV Series)
+<br/>
+Himself - Director
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt4281714/?ref_=nm_flmg_slf_3"
+>Episode #52.11</a>
+(2014)
+... Himself - Director
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3425454/?ref_=nm_flmg_slf_3"
+>Troldspejlet julespecial</a>
+(2013)
+... Himself - Director
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1292527/?ref_=nm_flmg_slf_3"
+>Troldspejlet Special: Ringenes herre - Eventyret om ringen</a>
+(2001)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt4269896">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt4269896/?ref_=nm_flmg_slf_4"
+>Middle-earth: There and Back Again</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0430836">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0430836/?ref_=nm_flmg_slf_5"
+>The Insider</a></b>
+(TV Series)
+<br/>
+Himself
+/ Himself - Director, The Hobbitt
+<div class="filmo-episodes">
+- <a href="/title/tt4240090/?ref_=nm_flmg_slf_5"
+>Episode dated 8 December 2014</a>
+(2014)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4202806/?ref_=nm_flmg_slf_5"
+>Episode dated 25 November 2014</a>
+(2014)
+... Himself - Director, The Hobbitt
+(as Sir Peter Jackson)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0044298">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0044298/?ref_=nm_flmg_slf_6"
+>Today</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt4239792/?ref_=nm_flmg_slf_6"
+>Episode dated 8 December 2014</a>
+(2014)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0390699">
+<span class="year_column">
+&nbsp;2009-2014
+</span>
+<b><a href="/title/tt0390699/?ref_=nm_flmg_slf_7"
+>Días de cine</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt4258914/?ref_=nm_flmg_slf_7"
+>Episode dated 4 December 2014</a>
+(2014)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2097469/?ref_=nm_flmg_slf_7"
+>Episode dated 27 October 2011</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1608688/?ref_=nm_flmg_slf_7"
+>Episode dated 25 February 2010</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1560823/?ref_=nm_flmg_slf_7"
+>Episode dated 3 December 2009</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0426701">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0426701/?ref_=nm_flmg_slf_8"
+>Le grand journal de Canal+</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt4288578/?ref_=nm_flmg_slf_8"
+>Episode dated 4 December 2014</a>
+(2014)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0081857">
+<span class="year_column">
+&nbsp;2009-2014
+</span>
+<b><a href="/title/tt0081857/?ref_=nm_flmg_slf_9"
+>Entertainment Tonight</a></b>
+(TV Series)
+<br/>
+Himself - Director
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt4220832/?ref_=nm_flmg_slf_9"
+>Episode dated 1 December 2014</a>
+(2014)
+... Himself - Director
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1555509/?ref_=nm_flmg_slf_9"
+>Episode dated 8 December 2009</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt3786302">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3786302/?ref_=nm_flmg_slf_10"
+>Peter Jackson Invites You to the Set: In the Company of the Hobbit</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt2971128">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2971128/?ref_=nm_flmg_slf_11"
+>River Deep, Mountain High: James Nesbitt in New Zealand</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt3340728">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3340728/?ref_=nm_flmg_slf_12"
+>An Unexpected Party: Bag End</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt3329234">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3329234/?ref_=nm_flmg_slf_13"
+>The Hobbit: An Unexpected Journey - Durin's Folk: Creating the Dwarves</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2276210">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2276210/?ref_=nm_flmg_slf_14"
+>The Hollywood Fast Lane</a></b>
+(TV Series)
+<br/>
+Himself - Interviewee
+<div class="filmo-episodes">
+- <a href="/title/tt2769096/?ref_=nm_flmg_slf_14"
+>The Hobbit: An Unexpected Journey</a>
+(2013)
+... Himself - Interviewee
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3110888">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt3110888/?ref_=nm_flmg_slf_15"
+>Vivir de cine</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3137532/?ref_=nm_flmg_slf_15"
+>Episode #1.8</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3137494/?ref_=nm_flmg_slf_15"
+>Episode #1.7</a>
+(2012)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1612376">
+<span class="year_column">
+&nbsp;2010-2012
+</span>
+<b><a href="/title/tt1612376/?ref_=nm_flmg_slf_16"
+>Janela Indiscreta</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2565934/?ref_=nm_flmg_slf_16"
+>Episode #1.146</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1614702/?ref_=nm_flmg_slf_16"
+>Episode #1.2</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3984388">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt3984388/?ref_=nm_flmg_slf_17"
+>Close Up</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2336499">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2336499/?ref_=nm_flmg_slf_18"
+>The Journey to Tintin</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt2336517">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2336517/?ref_=nm_flmg_slf_19"
+>The World of Tintin</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2336523">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2336523/?ref_=nm_flmg_slf_20"
+>Tintin: In the Volume</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1839590">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1839590/?ref_=nm_flmg_slf_21"
+>Ray Harryhausen: Special Effects Titan</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0111920">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0111920/?ref_=nm_flmg_slf_22"
+>Cinema 3</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2097424/?ref_=nm_flmg_slf_22"
+>Episode dated 27 October 2011</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2069311">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2069311/?ref_=nm_flmg_slf_23"
+>Fry's Planet Word</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2095984/?ref_=nm_flmg_slf_23"
+>The Power and the Glory</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1400602">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1400602/?ref_=nm_flmg_slf_24"
+>Campbell Live</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1755094/?ref_=nm_flmg_slf_24"
+>The Hobbit Debate/Quake-proofing Christchurch</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0800968">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0800968/?ref_=nm_flmg_slf_25"
+>20 to 1</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1805531/?ref_=nm_flmg_slf_25"
+>Our All Time Favourite Films</a>
+(2010)
+... Himself
+(as Sir Peter Jackson)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1823757">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1823757/?ref_=nm_flmg_slf_26"
+>The Making of King Kong 360 3D</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1618221">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1618221/?ref_=nm_flmg_slf_27"
+>Mark at the Movies</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1657092/?ref_=nm_flmg_slf_27"
+>Episode #1.28</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1560124">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1560124/?ref_=nm_flmg_slf_28"
+>'District 9': Comic-Con Extravaganza</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1555213">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1555213/?ref_=nm_flmg_slf_29"
+>The Alien Agenda: A Filmmaker's Log</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0318220">
+<span class="year_column">
+&nbsp;2005-2009
+</span>
+<b><a href="/title/tt0318220/?ref_=nm_flmg_slf_30"
+>HBO First Look</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1567031/?ref_=nm_flmg_slf_30"
+>A Conversation with Peter Jackson: The Making of 'The Lovely Bones'</a>
+(2009)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0594864/?ref_=nm_flmg_slf_30"
+>King Kong</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1700441">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1700441/?ref_=nm_flmg_slf_31"
+>Stockholms 20th International Film Festival</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1409667">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1409667/?ref_=nm_flmg_slf_32"
+>Last Chance to See</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1522550/?ref_=nm_flmg_slf_32"
+>Kakapo</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1039988">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1039988/?ref_=nm_flmg_slf_33"
+>Star Wars: The Legacy Revealed</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2386723">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt2386723/?ref_=nm_flmg_slf_34"
+>DP/30: Conversations About Movies</a></b>
+(TV Series)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0765436">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0765436/?ref_=nm_flmg_slf_35"
+>Bryan's Journals</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0952678">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0952678/?ref_=nm_flmg_slf_36"
+>Recreating the Eighth Wonder: The Making of 'King Kong'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0390776">
+<span class="year_column">
+&nbsp;2004-2006
+</span>
+<b><a href="/title/tt0390776/?ref_=nm_flmg_slf_37"
+>Sunday Morning Shootout</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0871358/?ref_=nm_flmg_slf_37"
+>Best of 'D'</a>
+(2006)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0770123/?ref_=nm_flmg_slf_37"
+>Inside the Academy Awards</a>
+(2006)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0884678/?ref_=nm_flmg_slf_37"
+>Episode #2.20</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0884676/?ref_=nm_flmg_slf_37"
+>Episode #1.20</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0867061/?ref_=nm_flmg_slf_37"
+>Episode #1.17</a>
+(2004)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0840321">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0840321/?ref_=nm_flmg_slf_38"
+>Forbes Celebrity 100: Who Made Bank?</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0808136">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0808136/?ref_=nm_flmg_slf_39"
+>06 Spaceys</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0800191">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0800191/?ref_=nm_flmg_slf_40"
+>The Sci-Fi Boys</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0795469">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0795469/?ref_=nm_flmg_slf_41"
+>Skull Island: A Natural History</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1001368">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt1001368/?ref_=nm_flmg_slf_42"
+>Kong's New York, 1933</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0770708">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0770708/?ref_=nm_flmg_slf_43"
+>The 63rd Annual Golden Globe Awards</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Nominee: Best Director
+</div>
+<div class="filmo-row even" id="self-tt0814159">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0814159/?ref_=nm_flmg_slf_44"
+>It's All Gone King Kong</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0192897">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0192897/?ref_=nm_flmg_slf_45"
+>Film 2015</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0579325/?ref_=nm_flmg_slf_45"
+>Episode dated 12 December 2005</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0463397">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0463397/?ref_=nm_flmg_slf_46"
+>Corazón de...</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0545980/?ref_=nm_flmg_slf_46"
+>Episode dated 7 December 2005</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0800107">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0800107/?ref_=nm_flmg_slf_47"
+>King Kong: Peter Jackson's Production Diaries</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0167735">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0167735/?ref_=nm_flmg_slf_48"
+>Total Request Live</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0731780/?ref_=nm_flmg_slf_48"
+>Episode dated 5 December 2005</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0479637">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0479637/?ref_=nm_flmg_slf_49"
+>The Art of Imagination: A Tribute to Oz</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0492337">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0492337/?ref_=nm_flmg_slf_50"
+>RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0466641">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0466641/?ref_=nm_flmg_slf_51"
+>AFI Life Achievement Award: A Tribute to George Lucas</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0818099">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0818099/?ref_=nm_flmg_slf_52"
+>Du kommst nicht vorbei - Fans im Bann des Ringes</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0379473">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0379473/?ref_=nm_flmg_slf_53"
+>Ringers: Lord of the Fans</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0449636">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0449636/?ref_=nm_flmg_slf_54"
+>Ray Harryhausen: The Early Years Collection</a></b>
+(Video documentary)
+<br/>
+</div>
+<div class="filmo-row odd" id="self-tt0756280">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0756280/?ref_=nm_flmg_slf_55"
+>2nd Annual Spaceys</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0487880">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0487880/?ref_=nm_flmg_slf_56"
+>Cameras in Middle-Earth</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0487893">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0487893/?ref_=nm_flmg_slf_57"
+>Designing Middle-Earth</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0450892">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0450892/?ref_=nm_flmg_slf_58"
+>The 100 Scariest Movie Moments</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0445602">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0445602/?ref_=nm_flmg_slf_59"
+>The Official Making of 'Tongan Ninja'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0427053">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0427053/?ref_=nm_flmg_slf_60"
+>The Characters of 'Star Wars'</a></b>
+(Video documentary short)
+<br/>
+Himself - Director, 'The Lord of the Rings' Trilogy
+</div>
+<div class="filmo-row odd" id="self-tt0427263">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0427263/?ref_=nm_flmg_slf_61"
+>The Force Is with Them: The Legacy of 'Star Wars'</a></b>
+(Video documentary short)
+<br/>
+Himself - Director, 'The Lord of the Rings' Trilogy
+</div>
+<div class="filmo-row even" id="self-tt0415469">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0415469/?ref_=nm_flmg_slf_62"
+>2004 MTV Movie Awards</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0881276">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0881276/?ref_=nm_flmg_slf_63"
+>Live from the Red Carpet: The 2004 Academy Awards</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0381851">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0381851/?ref_=nm_flmg_slf_64"
+>The 76th Annual Academy Awards</a></b>
+(TV Special)
+<br/>
+Himself - Winner: Best Picture, Best Director, Best Adapted Screenplay
+</div>
+<div class="filmo-row odd" id="self-tt0402950">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0402950/?ref_=nm_flmg_slf_65"
+>DNZ: The Real Middle Earth</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0407487">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0407487/?ref_=nm_flmg_slf_66"
+>1st Annual Directors Guild of Great Britain DGGB Awards</a></b>
+(Video)
+<br/>
+Himself - Winner: Best International Film 'The Lord of the Rings: The Return of the King'
+</div>
+<div class="filmo-row odd" id="self-tt0270116">
+<span class="year_column">
+&nbsp;2002-2004
+</span>
+<b><a href="/title/tt0270116/?ref_=nm_flmg_slf_67"
+>The Charlie Rose Show</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt1810160/?ref_=nm_flmg_slf_67"
+>Episode dated 6 February 2004</a>
+(2004)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1810158/?ref_=nm_flmg_slf_67"
+>Episode dated 19 December 2002</a>
+(2002)
+... Himself - Guest
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1810156/?ref_=nm_flmg_slf_67"
+>Episode dated 22 February 2002</a>
+(2002)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0395093">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0395093/?ref_=nm_flmg_slf_68"
+>The 61st Annual Golden Globe Awards</a></b>
+(TV Special)
+<br/>
+Himself - Winner: Best Motion Picture Drama & Best Director
+</div>
+<div class="filmo-row odd" id="self-tt0417496">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0417496/?ref_=nm_flmg_slf_69"
+>Bogans</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0382814">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0382814/?ref_=nm_flmg_slf_70"
+>The Lord of the Rings: The Quest Fulfilled</a></b>
+(TV Special documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0357350">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0357350/?ref_=nm_flmg_slf_71"
+>4Pop</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0502841/?ref_=nm_flmg_slf_71"
+>Kuninkaan paluu - tarun päätös</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0376434">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0376434/?ref_=nm_flmg_slf_72"
+>Tinseltown TV</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0723922/?ref_=nm_flmg_slf_72"
+>Episode dated 20 December 2003</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0332896">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0332896/?ref_=nm_flmg_slf_73"
+>Frids film</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0583418/?ref_=nm_flmg_slf_73"
+>Episode dated 18 December 2003</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0352053">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0352053/?ref_=nm_flmg_slf_74"
+>Filmland</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0579364/?ref_=nm_flmg_slf_74"
+>Filmland Special - Ringenes Herre: Kongen vender tilbage</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0405185">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0405185/?ref_=nm_flmg_slf_75"
+>National Geographic: Beyond the Movie - The Lord of the Rings: Return of the King</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1891753">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt1891753/?ref_=nm_flmg_slf_76"
+>Big-atures</a></b>
+(Documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0481528">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0481528/?ref_=nm_flmg_slf_77"
+>From Book to Script: Finding the Story</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0481553">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0481553/?ref_=nm_flmg_slf_78"
+>J.R.R. Tolkien: Origins of Middle-Earth</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0481476">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0481476/?ref_=nm_flmg_slf_79"
+>The Battle for Helm's Deep Is Over...</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1889453">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt1889453/?ref_=nm_flmg_slf_80"
+>The Soundscapes of Middle-Earth</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0409652">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0409652/?ref_=nm_flmg_slf_81"
+>1st Annual Spaceys</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0364913">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0364913/?ref_=nm_flmg_slf_82"
+>2003 MTV Movie Awards</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0420017">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0420017/?ref_=nm_flmg_slf_83"
+>No Fate But What We Make: 'Terminator 2' and the Rise of Digital Effects</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0307125">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0307125/?ref_=nm_flmg_slf_84"
+>Making the Movie</a></b>
+(TV Movie short documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0302751">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0302751/?ref_=nm_flmg_slf_85"
+>The Making of 'The Lord of the Rings'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0373485">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0373485/?ref_=nm_flmg_slf_86"
+>The Buzz</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0534067/?ref_=nm_flmg_slf_86"
+>Episode #1.12</a>
+(2002)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0473467">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0473467/?ref_=nm_flmg_slf_87"
+>A Day in the Life of a Hobbit</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1880942">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt1880942/?ref_=nm_flmg_slf_88"
+>Cameras in Middle-Earth</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1881016">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt1881016/?ref_=nm_flmg_slf_89"
+>Music for Middle-Earth</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0473535">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0473535/?ref_=nm_flmg_slf_90"
+>Scale</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1866299">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt1866299/?ref_=nm_flmg_slf_91"
+>Weta Digital</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0313162">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0313162/?ref_=nm_flmg_slf_92"
+>The 74th Annual Academy Awards</a></b>
+(TV Special)
+<br/>
+Himself - Nominee: Best Picture, Best Director & Best Adapted Screenplay
+</div>
+<div class="filmo-row odd" id="self-tt0302066">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0302066/?ref_=nm_flmg_slf_93"
+>+ de cinéma</a></b>
+(TV Series documentary short)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0818265/?ref_=nm_flmg_slf_93"
+>Episode dated 20 March 2002</a>
+(2002)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0146386">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0146386/?ref_=nm_flmg_slf_94"
+>National Geographic Explorer</a></b>
+(TV Series documentary)
+<br/>
+Himself - Director
+<div class="filmo-episodes">
+- <a href="/title/tt0312999/?ref_=nm_flmg_slf_94"
+>Beyond the Movie: The Lord of the Rings</a>
+(2001)
+... Himself - Director
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0930831">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0930831/?ref_=nm_flmg_slf_95"
+>Gomorron</a></b>
+(TV Series)
+<br/>
+Himself - regissör
+<div class="filmo-episodes">
+- <a href="/title/tt1117454/?ref_=nm_flmg_slf_95"
+>Om filmen 'Sagan om ringen'</a>
+(2001)
+... Himself - regissör
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0301246">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0301246/?ref_=nm_flmg_slf_96"
+>A Passage to Middle-earth: Making of 'Lord of the Rings'</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0299105">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0299105/?ref_=nm_flmg_slf_97"
+>Quest for the Ring</a></b>
+(TV Movie documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0486273">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0486273/?ref_=nm_flmg_slf_98"
+>Behind the Bull: Forgotten Silver</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0474794">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0474794/?ref_=nm_flmg_slf_99"
+>The Making of 'The Frighteners'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0116344">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0116344/?ref_=nm_flmg_slf_100"
+>Forgotten Silver</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0366529">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt0366529/?ref_=nm_flmg_slf_101"
+>Good Taste Made Bad Taste</a></b>
+(Video short documentary)
+<br/>
+Himself
+</div>
+</div>
+<div id="filmo-head-archive_footage" class="head" data-category="archive_footage" onclick="toggleFilmoCategory(this);">
+<span id="hide-archive_footage" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-archive_footage" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="archive_footage">Archive footage</a> (10 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="archive_footage-tt0318251">
+<span class="year_column">
+&nbsp;2012-2013
+</span>
+<b><a href="/title/tt0318251/?ref_=nm_flmg_arf_1"
+>Troldspejlet</a></b>
+(TV Series)
+<br/>
+Himself - Director
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3425424/?ref_=nm_flmg_arf_1"
+>Episode #50.13</a>
+(2013)
+... Himself - Director
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3323428/?ref_=nm_flmg_arf_1"
+>Episode #47.13</a>
+(2012)
+... Himself
+(uncredited)
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt1749539">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1749539/?ref_=nm_flmg_arf_2"
+>Edición Especial Coleccionista</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2159109/?ref_=nm_flmg_arf_2"
+>Especial Navidad: Huevos de Pascua</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt1908337">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1908337/?ref_=nm_flmg_arf_3"
+>The Big Picture</a></b>
+(TV Series)
+<br/>
+Himself - Producer
+<div class="filmo-episodes">
+- <a href="/title/tt2095421/?ref_=nm_flmg_arf_3"
+>The Adventures of Tintin</a>
+(2011)
+... Himself - Producer
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt2424484">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt2424484/?ref_=nm_flmg_arf_4"
+>Il était une fois...</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2433636/?ref_=nm_flmg_arf_4"
+>King Kong</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt1510985">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1510985/?ref_=nm_flmg_arf_5"
+>Never Sleep Again: The Elm Street Legacy</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="archive_footage-tt0800968">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0800968/?ref_=nm_flmg_arf_6"
+>20 to 1</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1622620/?ref_=nm_flmg_arf_6"
+>Adults Only 20 to 1: Movie Monsters</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt1743990">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1743990/?ref_=nm_flmg_arf_7"
+>Cinemassacre's Monster Madness</a></b>
+(TV Series documentary)
+<br/>
+Undertaker's Assistant
+<div class="filmo-episodes">
+- <a href="/title/tt1744944/?ref_=nm_flmg_arf_7"
+>Braindead</a>
+(2007)
+... Undertaker's Assistant
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt1127850">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1127850/?ref_=nm_flmg_arf_8"
+>Maquillando entre monstruos</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0470644">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0470644/?ref_=nm_flmg_arf_9"
+>Cinema mil</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0541453/?ref_=nm_flmg_arf_9"
+>Episode #1.3</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt0800311">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0800311/?ref_=nm_flmg_arf_10"
+>Before Stardom</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+</div>
+</div>            </div> 
+    
+        <div class="article">
+        
+        <h2>Related Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+
+<a href="/offsite/?page-action=offsite-archive&token=BCYskBYckFYxfsRM5WcdjjIx6ZZyLlXequwKtjhLjT4w4_mcBPSTj6DazwkZAh8tiQuZqJ914NMd%0D%0AAOROOw2QC2iwAaRmvhRjZpTF-wJlNZssEl9g_973F81I-srBzgFHfPgWiXe20U1SJ3xkoxQU-qKS%0D%0Anh1RODcyjA3lhyeEHJaW6vvTP1_RUrbJXpOo4aINn2uybgdm1JAqmqcKq-XOh3kSwy2hPllD7O1_%0D%0AG9zpLG27Ptq8fsegLCr6nRO7W1TAxBUD%0D%0A&ref_=nm_rvd_vi_1"
+onclick="window.open(this.href+'','_blank');return false;" title="Good Taste Made Bad Taste -- A very informative documentary on the making of Peter Jackson's gore classic Bad Taste. Highlights include behind-the-scenes footage..." alt="Good Taste Made Bad Taste -- A very informative documentary on the making of Peter Jackson's gore classic Bad Taste. Highlights include behind-the-scenes footage..." class=" " data-video="vi949486105" data-context="internet archive" data-rid="14JV47XCN6V1QP1TH319" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Good Taste Made Bad Taste -- A very informative documentary on the making of Peter Jackson's gore classic Bad Taste. Highlights include behind-the-scenes footage..." title="Good Taste Made Bad Taste -- A very informative documentary on the making of Peter Jackson's gore classic Bad Taste. Highlights include behind-the-scenes footage..."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU1MjYyNDEyNV5BMl5BanBnXkFtZTcwNTI3Mjg1Mg@@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Movie,4,121,16,196,verdenab,8,255,255,255,1_ZAat%2520Internet%2520Archive%2520%25BB,4,1,14,196,verdenab,7,255,255,255,1_ZAGood%2520Taste%2520Made%2520Bad%2520Taste,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi949486105" /></a>            </span>
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T1M9S" />
+
+<a href="/video/imdb/vi1337721881?ref_=nm_rvd_vi_2"
+title="&quot;Making Sailboats&quot; from The Lovely Bones -- A clip from the movie The Lovely Bones" alt="&quot;Making Sailboats&quot; from The Lovely Bones -- A clip from the movie The Lovely Bones" class="video-colorbox" data-video="vi1337721881" data-context="imdb" data-rid="14JV47XCN6V1QP1TH319" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt=""Making Sailboats" from The Lovely Bones -- A clip from the movie The Lovely Bones" title=""Making Sailboats" from The Lovely Bones -- A clip from the movie The Lovely Bones"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMzM2NTQ2MDQ3N15BMl5BanBnXkFtZTgwMTk1OTM4MjE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA01:09,164,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,4,-2_.jpg" itemprop='image' viconst="vi1337721881" /></a>            </span>
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T35S" />
+
+<a href="/video/imdb/vi3234660889?ref_=nm_rvd_vi_3"
+title="District 9 -- This is District 9 footage from Comic-Con with Peter Jackson." alt="District 9 -- This is District 9 footage from Comic-Con with Peter Jackson." class="video-colorbox" data-video="vi3234660889" data-context="imdb" data-rid="14JV47XCN6V1QP1TH319" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="District 9 -- This is District 9 footage from Comic-Con with Peter Jackson." title="District 9 -- This is District 9 footage from Comic-Con with Peter Jackson."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjMxODkyMzIzOV5BMl5BanBnXkFtZTgwNTk1NDQ4MjE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAInterview,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA00:35,164,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,4,-2_ZADistrict%25209,24,136,14,176,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi3234660889" /></a>            </span>
+    </div>
+
+                <div class="see-more">
+<a href="/name/nm0001392/videogallery?ref_=nm_rvd_vi_sm"
+>See all 44 videos</a>&nbsp;&raquo;
+                </div>
+        </div>
+    
+    </@csm.csm_widget />
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0001392/details&ref_=nm_pdt_edt"
+> Edit
+</a>        </span>
+    <h2>Personal Details</h2>
+        <div id="details-other-works" class="see-more inline canwrap">
+                <h4 class="inline">Other Works:</h4>
+Worked on the Super8 short "The Curse of the Gravewalker (1981). The work team left the production after a year of shooting.                    <span class="see-more inline">
+                        <a href="/name/nm0001392/otherworks?ref_=nm_pdt_wrk_sm"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+
+            <hr/>
+        <div id="details-publicity-listings" class="see-more inline canwrap">
+            <h4 class="inline">Publicity Listings:</h4>
+    2 Print Biographies <span class="ghost">|</span>
+    13 Interviews <span class="ghost">|</span>
+    22 Articles <span class="ghost">|</span>
+    3 Magazine Cover Photos <span class="ghost">|</span>
+            <span class="see-more inline">
+                <a href="/name/nm0001392/publicity?ref_=nm_pdt_pub_sm"
+>See more</a>
+            </span>&raquo;
+        </div>
+    
+            <hr/>
+        <div id="details-official-sites" class="see-more inline canwrap">
+            <h4 class="inline">Official Sites:</h4>
+                
+    <a href="/offsite/?page-action=offsite-facebook&token=BCYsGcGQ_ItClGRkQG3mSQig5sFzTPbYSoTfz-bHits2lCacqanVgYCL0lLk9J_UFLXbONSHD17W%0D%0ASOYoyNNI6xxAPGMf8iXTSo5JzTAvBymEXm2MeGCXwVadyFB2bI0EgvSGgPPRGWFPrNqJJHxABec2%0D%0A5heNF8R8pxM-b19iuWJETwLDUZ_wHmrZV1apx-d9x8lyoTs-dwmhcBgka1mCZB_U9HHpf52bowX0%0D%0Avja_HLRMMVdkD90liz0TNd9rvBNCYB0U%0D%0A&ref_=nm_pdt_ofs_offsite_0"
+rel="nofollow" itemprop='url'>Official Facebook</a>
+<span class="ghost">|</span>                
+    <a href="/offsite/?page-action=offsite-theonering&token=BCYjcZ-CFXD9DwkbqhGNTYal3s4E1zoTmtVjeMHgKfsYmtA6d7j2PqzIFqh46cgDOw5J8ZZpvu9L%0D%0AjHi6vxeGi1kk6mmFuMP50Fx8dNEKf-i3fEtMOiBEcxwwM3_gsauv1TRFLHyyy8th9s-eZJbf0lsX%0D%0AzoTUwvOCcgtDlsxO4YlUOPgV6JRLPqFYkYlwyeqeMoxMrbkYJpFHhoEYA-zje_cTi7cOPyiwNYdy%0D%0AHp_Lbvpj16s%0D%0A&ref_=nm_pdt_ofs_offsite_1"
+rel="nofollow" itemprop='url'>The Offical Peter Jackson Fansite</a>
+        </div>
+    
+            <hr/>
+        <div id="details-akas" class="see-more inline canwrap">
+            <h4 class="inline">Alternate Names:</h4>
+            Sir Peter Jackson
+        </div>
+    
+            <hr/>
+        <div id="details-height" class="see-more inline canwrap">
+            <h4 class="inline">Height:</h4>
+5'&nbsp;6½"&nbsp;(1.69&nbsp;m)        </div>
+            </div> 
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0001392/fun-facts&ref_=nm_dyk_edt"
+> Edit
+</a>        </span>
+    <h2>Did You Know?</h2>
+        <div id="dyk-personal-quote" class="see-more inline canwrap">
+                <h4 class="inline">Personal Quote:</h4>
+When I drive to the studio, I usually feel nervous, and the day seems daunting. 100 people are about to look to me to find out what our first shot is, what lens I want to use, and how many set-ups it's going to take to get the scene finished. Some of the time I have a plan, and some of the time I wing it. It helps to rehearse with the actors, and the ideas, hopefully good ones, start flowing. ...                    <span class="see-more inline">
+                        <a href="/name/nm0001392/bio?ref_=nm_dyk_qt_sm#quotes"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+            <hr/>
+        <div id="dyk-trivia" class="see-more inline canwrap">
+                <h4 class="inline">Trivia:</h4>
+Owns two houses in Wellington, New Zealand.                    <span class="see-more inline">
+                        <a href="/name/nm0001392/bio?ref_=nm_dyk_trv_sm#trivia"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-trademark" class="see-more inline canwrap">
+
+                <h4 class="inline">Trademark:</h4>
+His films frequently conclude with a bloodbath, e.g.: the lawnmower with the zombies in <a href="/title/tt0103873?ref_=nm_dyk_tm1">Braindead</a> (1992), and the murder of Honora Parker in <a href="/title/tt0110005?ref_=nm_dyk_tm2">Heavenly Creatures</a> (1994).                    <span class="see-more inline">
+                        <a href="/name/nm0001392/bio?ref_=nm_dyk_tm_sm#trademark"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-nickname" class="see-more inline canwrap">
+            <h4 class="inline">Nickname:</h4>
+            Pete
+                <span class="see-more inline">
+                    <a href="/name/nm0001392/bio?ref_=nm_dyk_aka"
+>See more</a>
+                </span>
+                &raquo;
+        </div>
+            <hr/>
+        <div id="dyk-star-sign" class="see-more inline canwrap">
+            <h4 class="inline">Star Sign:</h4>
+            <a href="/starsign/scorpio?ref_=nm_dyk_sign"
+>Scorpio</a>
+        </div>
+            </div> 
+    </div>
+</div> 
+
+<div id="content-1" class="redesign clear">
+    <div class="article" id="boardsTeaser">
+        <h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0001392/board/nest/222266931?ref_=nm_bd_1"
+>The Silmarillion </a>
+                        </td>
+                        <td>
+                            <a href="/user/ur40696915/?ref_=nm_bd_1"
+>SHNSurvivalHorrorNetwork</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0001392/board/nest/208322333?ref_=nm_bd_2"
+>Cares only about money?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur35321762/?ref_=nm_bd_2"
+>tobin131</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0001392/board/nest/209807078?ref_=nm_bd_3"
+>What do you think he'll do next</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur23420825/?ref_=nm_bd_3"
+>patrick-west10</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0001392/board/nest/182572511?ref_=nm_bd_4"
+>Mr. Peter Jackson, please make Fullmetal Alchemist Brotherhood</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur3967546/?ref_=nm_bd_4"
+>StudentOfAslan</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0001392/board/nest/169430479?ref_=nm_bd_5"
+>Top 5 favorite Jackson movies</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur9786478/?ref_=nm_bd_5"
+>kidney_stone</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0001392/board/nest/196889497?ref_=nm_bd_6"
+>Imagine if Peter Jackson directed all Narnia movie</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur3967546/?ref_=nm_bd_6"
+>StudentOfAslan</a>
+                        </td>
+                    </tr>
+            </table>
+        <div class="see-more">
+            <a href="/name/nm0001392/board/?ref_=nm_bd_sm"
+>Discuss Peter Jackson</a> on the IMDb message boards &raquo;
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_started');
+    }
+  </script>
+
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=nm_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=nm_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+            <div class="button-box">
+                <form method="post" action="/updates?ref_=nm_cn_edt">
+                    <input type="hidden" name="auto" value="legacy/name/nm0001392/">
+                        <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                </form>
+            </div>
+        
+
+        <div class="button-box">
+            <a href="http://pro.imdb.com/widget/resume_redirect/?rf=cons_nm_contr_res&ref_=cons_nm_contr_res"
+class="btn large" >Add resume</a>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_finished');
+    }
+  </script>
+</div>
+                   <br class="clear" />
+                </div>
+
+
+  <div id="footer" class="ft">
+    <hr width="100%" size=1>
+    <div id="rvi-div">
+        <div class="recently-viewed">&nbsp;</div>
+        <br class="clear">
+        <hr width="100%" size="1">
+    </div>
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+    <p class="footer" align="center">
+    
+          <a href="/?ref_=ft_hm"
+>Home</a>
+        | <a href="/search?ref_=ft_sr"
+>Search</a>
+        | <a href="/a2z?ref_=ft_si"
+>Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht"
+>Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250"
+>Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv"
+>TV</a>
+        | <a href="/news/?ref_=ft_nw"
+>News</a>
+        | <a href="/boards/?ref_=ft_mb"
+>Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr"
+>Press Room</a>
+        <br>
+
+        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+        | <a href="/advertising/?ref_=ft_ad"
+>Advertising</a>
+        | <a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb"
+>Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&token=BCYs70TjtJZ07HIJ-Nx7Rypsbya0kUjOU3hw9edW2ksCN9uziUAuTCp63p3yo4Q7dTNODc7fd0dg%0D%0AvUVS79IXYCTzO5aBxTljIwwmT7qFJvORwhQIL4wr8w7lPPuwdzqUPvVWJsmPWJgoA4HONAfa0b55%0D%0A9tQJSnpKz1hXt7xgpupBRCctGpv668THuOqO7ygdaQh4%0D%0A" >Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&token=BCYjL5NhQ430R4BOOPuQvtGKWbUGrF_QHBFCIDkDLy7fVdAVx48Flkpk4TzxMqTP7-gIiQYiQVhx%0D%0AL_BJaHTCXxVXTz77j_tXUZcESG_ME5YZ3ymhxwwdUsrHCOuUVCND00xLrNTuYYT9O84jamgkqLnU%0D%0AOIwnNNLKTkxyKrP5PFVjHkAXPXxkt1UbOaL7X_Ux9DNU%0D%0A" >Withoutabox</a>
+
+        <br /><br />
+        IMDb Mobile:
+          <a href="/apps/ios/?ref_=ft_ios"
+>iPhone/iPad</a>
+        | <a href="/android?ref_=ft_and"
+>Android</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot"
+>Mobile site</a>
+        | <a href="/windowsphone?ref_=ft_win"
+>Windows Phone 7</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&token=BCYjw47f1USO7afb6iB1YUeZ3xkR188wF9BQ-8iCH5uBXqeNQi9zNTiYVSlVjKdu9rXfPGb_v54n%0D%0AGGqhlgXoT42k2ujMQibwdvMhiveF46zJPVkEag5fG_uJYj-mPDD6jUgqgNg-yYpkPBxuWLXRuK9j%0D%0AG9pGiftKTEra8PZy074eCxiGu0o5_2FceZa29uARxd11%0D%0A" >Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&token=BCYgezqr5rFLTURwtr4A3ilvCfq8wmxdoFHUuPOrw4e_T9EVZae1XrGzoz2vozFebJTZBZQTnNps%0D%0ASXL1iSBVBBEauZJqRkLFENuyUVMsYf44Rz12N0h90mjdEYMFQ-oLYq_XyCV6MuYRYkQaVvntdXN_%0D%0AGR-nIBl9SkoPJcPNKceKDo0%0D%0A" >Twitter</a>
+
+       <br /><br />
+    </p>
+  
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2015 
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
+href="/help/"
+>IMDb.com, Inc.</a>
+        <br>
+          <a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&token=BCYryJT2yOGkFjWmI7U4uxwn29LpalPOxPJyyJ50dHnoKK6dD-CHssYHLOP_DScGFv1o9TSkxoeE%0D%0Amn31T82F5EvfaTISQCSZ_iJsUU2qr64SnO_7yw6WDQe5B3WfvOfEUmIPhPW2HnpGJEpUb7J7OfUD%0D%0AzrLkk1NQ1i7bi0j4tZz61-MWxJaX-QCE584P6gIAgpu0%0D%0A" >Interest-Based Ads</a>
+
+        <br>
+        An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
+    </p>
+  
+
+      
+           
+           
+      
+  <table class="footer" id="amazon-affiliates">
+    <tr>
+      <td colspan="8">
+        Amazon Affiliates
+      </td>
+    </tr>
+    <tr>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-aiv&token=BCYllVdt3DnuzC0kBizHFvAYsXWjXzb-DN5z3ixzsVSSrjlpG73BzgJB70CpoDIE5PucX7QM58od%0D%0A4bGPYjEjRTrmZ05VsQqHpWD1OcnOyX8_oCqjc2GXbnfR85FiKRzXWndsVyUMa5LifvJodFow9Yfh%0D%0A-PdfogKmlU6tIY33Cppj0NLanBE7FPdJPYpAm-F1AlVJxezEiCO4oxPCVCy0VJ0lJy5XDcjyI8DO%0D%0ANi3wlHgSjMjS801bjxg9csQRHdGs2-dQ%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-piv&token=BCYrNSGysAvs1Jx5e5Bo046tFXz1av1S0iZezpxLgXz8f2BcD0MxoguANnpR_dc9AoRW_ShTsyDP%0D%0AH2xzpyAktOVO0Pf1zGCGS7lhmgB3f3VPRlq0zJ8kCLc4n3yoo7Uz3aqT7WVBf1IGeBiHs2B0IRtt%0D%0ANnSn6apWAoOl0Afaab-CRWY_bvZQb7M76jyMwociQ5PbWUqUhEY6bFeQ1ctAgfXK8Zlve2m8jGzY%0D%0A7FOrBGllBXhJCHrRFzv3JGOX1c7z7g4D%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-de&token=BCYolD4ED9APlS170rMiQNyn0oAx_-vPbVJjCvDgtSLSQoc6jKGhBhG_55PtTyrc_zHzcaEjimri%0D%0AwywnsRDxYRlYqkej--eipIegJYebvdtib4IztDIxq9PY2WH0uPmuqTg8NdC-eZO-zpBdSoRmp7mx%0D%0Ap_LJrsL7PEDkqCEdhgmdBwsrNj711VEfmo56OBa42ZqX6yWI9ze0Cj27uVukSUflCQYPwySFlcsO%0D%0ATNlVYMkcgww%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-it&token=BCYk7yiwZO8c31GYXlougxMu81phyEl___kblYnUfxLmt6dXtR4X5FhGQADr6h4gOXHRgEVtLrNk%0D%0AkER2AslB9efkqJ4IJKPaU6fVu0rKtxapsPMCsRDnHWfr5ejMwUJLusEkAjeOiFOqChZ-OGyjXSFo%0D%0AEk9UYu34pqFdasNKobo8wJ1IpriFnurlJIGTfdcgVsLFhbXyD0pFApb4gCZVKx2doXGO35huN2dt%0D%0APbkddGVQQSA%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-fr&token=BCYnahkzMued4m-oWWpebaUOUV0ZYSPukdgskXIddjgld0five2LGEZ6WtayywMZ_iio4tHboo04%0D%0Alw50OwcxoolROXL8O_J00_1H7sgKRg34enLFPG_xg6ivvN5cfvPWi5iXRcV28sivCTIDftMaEfF7%0D%0Awc168Sv8hT1bI28mQkvDd2rM704OLZc33V0qVOihrBhdwo0fwP1tvibwx69RVDxlkROtxsJ9Nxos%0D%0ASHaZJTv-YbU%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-in&token=BCYj6pHKQ6ulC6PCTEvAZTu05xuaTqpHTlWxndJeFknwL1nwbmXx128L27uuVa1mre0tssH4asMZ%0D%0AHq4fjj5CUCi2F01rbGja9ngKKc3tT2hFJTTvVh1Gz-qAMgTbysc_MuZOW-oV-57uAtuHxmv6unlr%0D%0A9r4YVZMEMs2etaAkpaCBQQNQMJ1sUfbVnMk9B27B4BpxtxYFbFl4sYAlglJUxCDVVdaiS58JwP5N%0D%0ABleyromTo3zxQzCvhI5TtG4v5rkH9SB0%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYprsrncNrpK8JfGfkN8eKiCobI0RlMEZjYJAWZM4pmAga_6ofPwxp8zj6XGsZYpb7XdDeLZDpQ%0D%0AW2Mh22QHjelYSdku3gRwWi9shq0kIBMbBRutMvjK800gGXbC5KQRdjiDSVs14BBdJCdRWAKbpsKU%0D%0AS_3jVxeW3qSuDS2SzdXTqfJRkrqUHUhTNfQPdGYFi0xo%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-aud&token=BCYnNxg4PK2-f6ITCgL55AlP0m2-wm-l4EcogYKuTmfIyX05OxSM9bWe5Uq5GmAPCmlmqgHKkuS6%0D%0AWY_o4DAeT2zjLCa8BNVsMLL2NIFCqEtmIhtI2TgZDpGPIOw1ieVQA_UiuQyt7jDfBiYXylzqvkyt%0D%0A3aytZ716wRuG_0SCceB1b9hR_RUqSjDYQEG_AmNa56ZP%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+</a>
+    </td>
+    </tr>
+  </table>
+  </div>
+            </div>
+        </div>
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/name-3917752789._CB331748220_.js"></script>
+
+<script type="text/imdblogin-js" id="login">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/name/nm0001392/");
+});
+
+</script>
+
+        <script type="text/javascript">
+                jQuery(
+                         function() {
+        $("#demoReelShoveler").shoveler({
+            'buttons' : {
+                'left' : {
+                    'text' : '',
+                },
+                'right' : {
+                    'text' : '',
+                }
+            },
+            'height' : 'auto',
+            'itemsPerShovel' : 2,
+            'paginate' : false,
+            'useExternalCSS' : true,
+            'width' : '100%'
+        });
+    }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001392%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                     function() { $('#maindetails_sidebar_bottom').watchlistRibbon('.ribbonize'); }
+                );
+        </script>
+
+<div id="servertime" time="73"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+    </body>
+</html>
+
