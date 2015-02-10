@@ -1,0 +1,156 @@
+$gutter: 10px;
+$boxWidth: 12px;
+$headerHeight: 180px;
+$rowHeight: 25px;
+$sidebarWidth: 240px;
+
+body {
+    margin: $headerHeight 0 0;
+}
+
+h1,
+h2,
+h3 {
+    margin-top: 0;
+}
+
+h3 {
+    font-weight: normal;
+    margin: 0;
+}
+
+li {
+    padding: ($gutter / 2) 0 0;
+}
+
+.interactive {
+    margin: 0;
+}
+
+.header {
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: $headerHeight;
+    box-sizing: border-box;
+    background-color: white;
+    padding: $gutter $gutter 0;
+}
+
+.key {
+    padding-left: $gutter;
+}
+
+.key__rating {
+    display: inline-block;
+    width: $boxWidth;
+    height: ($rowHeight / 2);
+    vertical-align: middle;
+
+    & > p {
+        margin-top: ($rowHeight / 2 + 2px);
+    }
+}
+
+.sidebar {
+    position: fixed;
+    z-index: 2;
+    top: $headerHeight;
+    left: 0;
+    bottom: 0;
+    width: $sidebarWidth;
+    background-color: white;
+    border-right: 1px solid #333;
+    overflow: hidden;
+}
+
+.main {
+    min-width: ($boxWidth * 155);
+}
+
+.scrollable {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.timeline,
+.director {
+    height: $rowHeight;
+    line-height: $rowHeight;
+}
+
+.timeline {
+    position: absolute;
+    border-bottom: 1px solid #333;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.timeline__label {
+    position: absolute;
+    border-left: 1px solid #333;
+    padding-left: ($gutter / 2);
+}
+
+.director {
+    position: relative;
+    border-bottom: 1px solid #bdbdbd;
+    &:last-child {
+        border-bottom: 0;
+    }
+}
+
+.director__name {
+    padding-left: $gutter;
+}
+
+.director__flag {
+    width: 30px;
+    height: ($rowHeight - $gutter);
+    vertical-align: middle;
+    padding-right: ($gutter / 2);
+}
+
+.director__life {
+    background-color: #dcdcdc;
+}
+
+.director__film {
+    width: $boxWidth;
+    &:hover {
+        background-color: black !important;
+    }
+}
+
+.director__life,
+.director__film {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+.film--oscar {
+    border-top: ($rowHeight / 3) solid #e48600;
+}
+
+.info {
+    position: fixed;
+    padding: 10px;
+    background-color: white;
+    top: ($headerHeight + $gutter);
+    right: $gutter;
+    width: 400px;
+    z-index: 2;
+    border: 1px solid #bdbdbd;
+}
+
+.oscar-logo {
+    vertical-align: middle;
+    width: 20px;
+}

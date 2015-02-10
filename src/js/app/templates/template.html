@@ -1,0 +1,64 @@
+{{#info}}
+    <div class="info">
+        <h3>{{year}}, aged {{age}}</h3>
+        <ul>
+            {{#films}}
+                <li>
+                    {{#oscar}}<img src="assets/imgs/oscar.png" class="oscar-logo" /> {{oscar}} -{{/oscar}}
+                    {{name}}
+                </li>
+            {{/films}}
+        </ul>
+    </div>
+{{/info}}
+
+<div class="header">
+    <h1>Academy Awards &mdash; Best director</h1>
+    <p>
+        This interactive needs some copy
+    </p>
+    <h2 style="display: inline">Key</h2>
+    <span class="key">
+        {{#ratings}}
+            <span class="key__rating" style="background-color: {{getRatingColor(.)}}"><p>{{.}}</p></span>
+        {{/ratings}}
+        = IMDb rating
+    </span>
+    <span class="key">
+        <span class="key__rating" style="background-color: #e48600"></span> = Oscar winner
+    </span>
+    <span class="key">
+        <span class="key__rating" style="background-color: #dcdcdc"></span> = Director life span
+    </span>
+    <div class="timeline">
+        <div id="timeline" class="scrollable">
+            {{#timeline}}
+                <span class="timeline__label" style="left: {{getOffset(.)}}px">{{.}}</span>
+            {{/timeline}}
+        </div>
+    </div>
+</div>
+
+<div class="sidebar">
+    <div class="scrollable" id="sidebar">
+        {{#allFilms}}
+            <div class="director director__name">
+                <img src="assets/imgs/flags/{{birth_place}}.svg" class="director__flag" /> {{name}}
+            </div>
+        {{/allFilms}}
+    </div>
+</div>
+
+<div class="main">
+    {{#allFilms:directorNo}}
+        <div class="director">
+            <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
+            {{#films:year}}
+                <div on-mouseover="hover" on-mouseout="hover_out"
+                     class="director__film{{#getOscar(.)}} film--oscar{{/getOscar}}"
+                     style="background-color: {{getRating(.)}}; left: {{getOffset(year)}}px">
+                </div>
+            {{/films}}
+        </div>
+    {{/allFilms}}
+</div>
