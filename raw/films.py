@@ -61,5 +61,5 @@ for director in films.values():
         if len(filter(lambda film: 'oscar' in film, all_films)) > 0:
             year['oscar'] = True
 
-print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))
+print json.dumps(sorted(films.values(), key=lambda x: x['birth']))
 
