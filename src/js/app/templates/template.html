@@ -3,8 +3,8 @@
         <h3>{{year}}, aged {{age}}</h3>
         <ul>
             {{#films}}
-                <li>
-                    {{#oscar}}<img src="assets/imgs/oscar.png" class="oscar-logo" /> {{oscar}} -{{/oscar}}
+                <li class="film">
+                    {{#oscar}}<img src="assets/imgs/oscar.png" class="film__oscar" /> {{oscar}} -{{/oscar}}
                     {{name}}
                 </li>
             {{/films}}
@@ -82,7 +82,7 @@
                 <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
                 {{#year:yearNo}}
                     <div on-mouseover="hover" on-mouseout="hover_out"
-                         class="director__film{{#oscar}} film--oscar{{/oscar}}"
+                         class="director__year{{#oscar}} director__year--oscar{{/oscar}}"
                          style="background-color: {{getRatingColor(rating)}}; left: {{getOffset(yearNo)}}px">
                     </div>
                 {{/year}}

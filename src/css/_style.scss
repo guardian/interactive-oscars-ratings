@@ -19,10 +19,6 @@ h3 {
     margin: 0;
 }
 
-li {
-    padding: ($gutter / 2) 0 0;
-}
-
 .interactive {
     margin: 0;
 }
@@ -121,22 +117,22 @@ li {
     background-color: #dcdcdc;
 }
 
-.director__film {
+.director__year {
     width: $boxWidth;
     &:hover {
         background-color: black !important;
     }
 }
 
+.director__year--oscar {
+    border-top: ($rowHeight / 3) solid #e48600;
+}
+
 .director__life,
-.director__film {
+.director__year {
     position: absolute;
     top: 0;
     bottom: 0;
-}
-
-.film--oscar {
-    border-top: ($rowHeight / 3) solid #e48600;
 }
 
 .info {
@@ -150,7 +146,11 @@ li {
     border: 1px solid #bdbdbd;
 }
 
-.oscar-logo {
+.film {
+    padding: ($gutter / 2) 0 0;
+}
+
+.film__oscar {
     vertical-align: middle;
     width: 20px;
 }
