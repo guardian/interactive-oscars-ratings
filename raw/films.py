@@ -1,6 +1,9 @@
 #!/usr/bin/python
-import sys, json, csv, re
+import sys, json, csv, re, math
 from collections import defaultdict, OrderedDict
+
+low_color = [255, 255, 255];
+hi_color = [0, 69, 110];
 
 # 1st oscars has 2 winners
 order = [[] for i in xrange(86)]
@@ -56,7 +59,11 @@ for director in films.values():
         rated_films = filter(lambda film: 'rating' in film, all_films)
         if len(rated_films) > 0:
             avg_rating = reduce(lambda s, film: s + film['rating'], rated_films, 0) / len(rated_films)
-            year['rating'] = avg_rating
+            norm_rating = min(1, (math.floor(avg_rating) - 2) / 7)
+            color = [round(h * norm_rating + l * (1 - norm_rating)) for (h, l) in zip(hi_color, low_color)]
+            year['rating_color'] = 'rgb(' + ','.join('%d' % f for f in color) + ')'
+        else:
+            year['rating_color'] = 'transparent'
 
         if len(filter(lambda film: 'oscar' in film, all_films)) > 0:
             year['oscar'] = True
