@@ -37,9 +37,9 @@
 
     <select multiple value="{{idsToHide}}">
         {{#allFilms:i}}
-            {{#unless hide}}
+            {{^hide}}
                 <option value="{{i}}">{{name}}</option>
-            {{/unless}}
+            {{/hide}}
         {{/allFilms}}
     </select>
 
@@ -48,9 +48,9 @@
 
     <select multiple value="{{idsToShow}}">
         {{#allFilms:i}}
-            {{#if hide}}
+            {{#hide}}
                 <option value="{{i}}">{{name}}</option>
-            {{/if}}
+            {{/hide}}
         {{/allFilms}}
     </select>
 
@@ -66,18 +66,18 @@
 <div class="sidebar">
     <div class="scrollable" id="sidebar">
         {{#allFilms:i}}
-            {{#unless hide}}
+            {{^hide}}
                 <div class="director director__name">
                     <img src="assets/imgs/flags/{{birth_place}}.svg" class="director__flag" /> {{name}}
                 </div>
-            {{/unless}}
+            {{/hide}}
         {{/allFilms}}
     </div>
 </div>
 
 <div class="main">
     {{#allFilms:directorNo}}
-        {{#unless hide}}
+        {{^hide}}
             <div class="director">
                 <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
                 {{#year:yearNo}}
@@ -87,6 +87,6 @@
                     </div>
                 {{/year}}
             </div>
-        {{/unless}}
+        {{/hide}}
     {{/allFilms}}
 </div>
