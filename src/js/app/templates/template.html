@@ -17,23 +17,43 @@
     <p>
         This interactive needs some copy
     </p>
-    <h2 style="display: inline">Key</h2>
-    <span class="key">
-        {{#ratings}}
-            <span class="key__rating" style="background-color: {{getRatingColor(.)}}"><p>{{.}}</p></span>
-        {{/ratings}}
-        = IMDb rating
-    </span>
-    <span class="key">
-        <span class="key__rating" style="background-color: #e48600"></span> = Oscar winner
-    </span>
-    <span class="key">
-        <span class="key__rating" style="background-color: #dcdcdc"></span> = Director life span
-    </span>
+    <div>
+        <h2 style="display: inline">Key</h2>
+        <span class="key">
+            {{#ratings}}
+                <span class="key__rating" style="background-color: {{getRatingColor(this)}}"><p>{{this}}</p></span>
+            {{/ratings}}
+            = IMDb rating
+        </span>
+        <span class="key">
+            <span class="key__rating" style="background-color: #e48600"></span> = Oscar winner
+        </span>
+        <span class="key">
+            <span class="key__rating" style="background-color: #dcdcdc"></span> = Director life span
+        </span>
+    </div>
+
+    <br />
+
+    <select multiple value="{{selectedIds}}">
+        {{#selectedFilms:i}}
+            <option value="{{i}}">{{name}}</option>
+        {{/selectedFilms}}
+    </select>
+
+    <button on-click="right">-&gt;</button>
+    <button on-click="left">&lt;-</button>
+
+    <select multiple value="{{hiddenIds}}">
+        {{#hiddenFilms:i}}
+            <option value="{{i}}">{{name}}</option>
+        {{/hiddenFilms}}
+    </select>
+
     <div class="timeline">
         <div id="timeline" class="scrollable">
             {{#timeline}}
-                <span class="timeline__label" style="left: {{getOffset(.)}}px">{{.}}</span>
+                <span class="timeline__label" style="left: {{getOffset(this)}}px">{{this}}</span>
             {{/timeline}}
         </div>
     </div>
@@ -41,24 +61,24 @@
 
 <div class="sidebar">
     <div class="scrollable" id="sidebar">
-        {{#allFilms}}
+        {{#selectedFilms:i}}
             <div class="director director__name">
                 <img src="assets/imgs/flags/{{birth_place}}.svg" class="director__flag" /> {{name}}
             </div>
-        {{/allFilms}}
+        {{/selectedFilms}}
     </div>
 </div>
 
 <div class="main">
-    {{#allFilms:directorNo}}
+    {{#selectedFilms:directorNo}}
         <div class="director">
             <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
-            {{#films:year}}
+            {{#year:yearNo}}
                 <div on-mouseover="hover" on-mouseout="hover_out"
-                     class="director__film{{#getOscar(.)}} film--oscar{{/getOscar}}"
-                     style="background-color: {{getRating(.)}}; left: {{getOffset(year)}}px">
+                     class="director__film{{#oscar}} film--oscar{{/oscar}}"
+                     style="background-color: {{getRatingColor(rating)}}; left: {{getOffset(yearNo)}}px">
                 </div>
-            {{/films}}
+            {{/year}}
         </div>
-    {{/allFilms}}
+    {{/selectedFilms}}
 </div>

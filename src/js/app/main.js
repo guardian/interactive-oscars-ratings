@@ -22,15 +22,9 @@ define([
             timeline.push(year);
         }
 
-        function getRatingColor(rating) {
-            // scale ratings from 2-9 to 0-1
-            var normRating = Math.min((rating - 2) / 7, 1);
-            var i, color = [0, 0, 0];
-            for (i = 0; i < 3; i++) {
-                color[i] = Math.round(lowColor[i] * (1 - normRating) + hiColor[i] * normRating);
-            }
-            return 'rgb(' + color.join(',') + ')';
-        }
+
+        var selectedFilms = films;
+        var hiddenFilms = {};
 
         var ractive = new Ractive({
             template: template,
@@ -38,39 +32,46 @@ define([
             data: {
                 'timeline': timeline,
                 'ratings': [2, 3, 4, 5, 6, 7, 8, 9],
-                'allFilms': films,
-                'getRatingColor': getRatingColor,
-                'getRating': function (films) {
-                    var ratedFilms = films.filter(function (film) { return film.rating !== undefined; });
-                    if (ratedFilms.length > 0) {
-                        var sumRating = ratedFilms.reduce(function (sum, film) {
-                            return sum + film.rating;
-                        }, 0);
-
-                        var avgRating = Math.floor(sumRating / ratedFilms.length);
-                        return getRatingColor(avgRating);
+                'selectedFilms': selectedFilms,
+                'hiddenFilms': hiddenFilms,
+                'getRatingColor': function (rating) {
+                    if (rating) {
+                        // scale ratings from 2-9 to 0-1
+                        var normRating = Math.min((rating - 2) / 7, 1);
+                        var i, color = [0, 0, 0];
+                        for (i = 0; i < 3; i++) {
+                            color[i] = Math.round(lowColor[i] * (1 - normRating) + hiColor[i] * normRating);
+                        }
+                        return 'rgb(' + color.join(',') + ')';
                     } else {
                         return 'transparent';
                     }
                 },
                 'getOffset': function (year) {
                     return (year - baseYear) * boxWidth;
-                },
-                'getOscar': function (films) {
-                    return films.filter(function (film) { return film.oscar; })[0].oscar;
                 }
             }
         });
 
         ractive.on('hover', function (evt) {
             this.set('info', {
-                'films': evt.context,
-                'year': evt.index.year,
-                'age': evt.index.year - films[evt.index.directorNo].birth
+                'films': evt.context.films,
+                'year': evt.index.yearNo,
+                'age': evt.index.yearNo - films[evt.index.directorNo].birth
             });
         });
 
         ractive.on('hover_out', function () { this.set('info', undefined); } );
+
+        ractive.on('right', function () {
+            this.get('selectedIds').forEach(function (id) {
+                hiddenFilms[id] = selectedFilms[id];
+                delete selectedFilms[id];
+            });
+
+            this.update('selectedFilms');
+            this.update('hiddenFilms');
+        });
 
         var timelineEle = document.getElementById('timeline');
         var sidebarEle = document.getElementById('sidebar');

@@ -19,14 +19,11 @@ sys.stdin.seek(0)
 for film in csv.reader(sys.stdin, delimiter='\t'):
     director_birth, director_death, birth_place, director_name, film_year, film_name, url, oscar, rating = film
 
+    film = {'name': film_name}
+
     m = re.search('\(([0-9]+..)\)', oscar)
     if m:
-        oscar = m.group(1)
-
-    film = {
-        'name': film_name,
-        'oscar': oscar
-    }
+        film['oscar'] = m.group(1)
 
     try:
         film['rating'] = float(rating)
@@ -42,14 +39,27 @@ for film in csv.reader(sys.stdin, delimiter='\t'):
     if director_name not in films:
         films[director_name] = {
             'name': director_name,
-            'films': defaultdict(list),
+            'year': defaultdict(lambda: {'films': []}),
             'birth': birth,
             'birth_place': re.sub('.*, ', '', birth_place),
             'death': death
         }
 
     if int(film_year) <= death:
-        films[director_name]['films'][film_year].append(film)
+        films[director_name]['year'][film_year]['films'].append(film)
 
-print 'var films =', json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))
+for director in films.values():
+    # compute averages/oscars for years
+    for year_no, year in director['year'].iteritems():
+        all_films = year['films']
+
+        rated_films = filter(lambda film: 'rating' in film, all_films)
+        if len(rated_films) > 0:
+            avg_rating = reduce(lambda s, film: s + film['rating'], rated_films, 0) / len(rated_films)
+            year['rating'] = avg_rating
+
+        if len(filter(lambda film: 'oscar' in film, all_films)) > 0:
+            year['oscar'] = True
+
+print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))
 
