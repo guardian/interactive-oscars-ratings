@@ -5,35 +5,31 @@ define([
     'ractive'
 ], function(
     iframeMessenger,
-    films,
+    allFilms,
     template,
     Ractive
 ) {
    'use strict';
 
+    var boxWidth = 12;
+    var lowColor = [255, 255, 255];
+    var hiColor = [0, 69, 110];
+    var baseYear = 1860;
+
+    var timeline = [];
+    for (var year = 1890; year < 2015; year += 10) {
+        timeline.push(year);
+    }
+
+
     function app(el) {
-        var boxWidth = 12;
-        var lowColor = [255, 255, 255];
-        var hiColor = [0, 69, 110];
-        var baseYear = 1860;
-
-        var timeline = [];
-        for (var year = 1890; year < 2015; year += 10) {
-            timeline.push(year);
-        }
-
-
-        var selectedFilms = films;
-        var hiddenFilms = {};
-
         var ractive = new Ractive({
             template: template,
             el: el,
             data: {
                 'timeline': timeline,
                 'ratings': [2, 3, 4, 5, 6, 7, 8, 9],
-                'selectedFilms': selectedFilms,
-                'hiddenFilms': hiddenFilms,
+                'allFilms': allFilms,
                 'getRatingColor': function (rating) {
                     if (rating) {
                         // scale ratings from 2-9 to 0-1
@@ -57,29 +53,27 @@ define([
             this.set('info', {
                 'films': evt.context.films,
                 'year': evt.index.yearNo,
-                'age': evt.index.yearNo - films[evt.index.directorNo].birth
+                'age': evt.index.yearNo - allFilms[evt.index.directorNo].birth
             });
         });
 
         ractive.on('hover_out', function () { this.set('info', undefined); } );
 
-        ractive.on('right', function () {
-            this.get('selectedIds').forEach(function (id) {
-                hiddenFilms[id] = selectedFilms[id];
-                delete selectedFilms[id];
+        ractive.on('toggle', function (evt, ids) {
+            ids.forEach(function (id) {
+                ractive.toggle('allFilms.' + id + '.hide');
             });
-
-            this.update('selectedFilms');
-            this.update('hiddenFilms');
         });
 
-        var timelineEle = document.getElementById('timeline');
-        var sidebarEle = document.getElementById('sidebar');
+        (function () {
+            var timelineEle = document.getElementById('timeline');
+            var sidebarEle = document.getElementById('sidebar');
 
-        window.onscroll = function () {
-            timelineEle.style.left = -window.pageXOffset + 'px';
-            sidebarEle.style.top = -window.pageYOffset + 'px';
-        };
+            window.onscroll = function () {
+                timelineEle.style.left = -window.pageXOffset + 'px';
+                sidebarEle.style.top = -window.pageYOffset + 'px';
+            };
+        })();
     }
 
     function init(el) {

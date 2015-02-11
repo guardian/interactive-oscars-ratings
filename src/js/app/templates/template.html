@@ -35,19 +35,23 @@
 
     <br />
 
-    <select multiple value="{{selectedIds}}">
-        {{#selectedFilms:i}}
-            <option value="{{i}}">{{name}}</option>
-        {{/selectedFilms}}
+    <select multiple value="{{idsToHide}}">
+        {{#allFilms:i}}
+            {{#unless hide}}
+                <option value="{{i}}">{{name}}</option>
+            {{/unless}}
+        {{/allFilms}}
     </select>
 
-    <button on-click="right">-&gt;</button>
-    <button on-click="left">&lt;-</button>
+    <button on-click="toggle:{{idsToHide}}">-&gt;</button>
+    <button on-click="toggle:{{idsToShow}}">&lt;-</button>
 
-    <select multiple value="{{hiddenIds}}">
-        {{#hiddenFilms:i}}
-            <option value="{{i}}">{{name}}</option>
-        {{/hiddenFilms}}
+    <select multiple value="{{idsToShow}}">
+        {{#allFilms:i}}
+            {{#if hide}}
+                <option value="{{i}}">{{name}}</option>
+            {{/if}}
+        {{/allFilms}}
     </select>
 
     <div class="timeline">
@@ -61,24 +65,28 @@
 
 <div class="sidebar">
     <div class="scrollable" id="sidebar">
-        {{#selectedFilms:i}}
-            <div class="director director__name">
-                <img src="assets/imgs/flags/{{birth_place}}.svg" class="director__flag" /> {{name}}
-            </div>
-        {{/selectedFilms}}
+        {{#allFilms:i}}
+            {{#unless hide}}
+                <div class="director director__name">
+                    <img src="assets/imgs/flags/{{birth_place}}.svg" class="director__flag" /> {{name}}
+                </div>
+            {{/unless}}
+        {{/allFilms}}
     </div>
 </div>
 
 <div class="main">
-    {{#selectedFilms:directorNo}}
-        <div class="director">
-            <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
-            {{#year:yearNo}}
-                <div on-mouseover="hover" on-mouseout="hover_out"
-                     class="director__film{{#oscar}} film--oscar{{/oscar}}"
-                     style="background-color: {{getRatingColor(rating)}}; left: {{getOffset(yearNo)}}px">
-                </div>
-            {{/year}}
-        </div>
-    {{/selectedFilms}}
+    {{#allFilms:directorNo}}
+        {{#unless hide}}
+            <div class="director">
+                <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
+                {{#year:yearNo}}
+                    <div on-mouseover="hover" on-mouseout="hover_out"
+                         class="director__film{{#oscar}} film--oscar{{/oscar}}"
+                         style="background-color: {{getRatingColor(rating)}}; left: {{getOffset(yearNo)}}px">
+                    </div>
+                {{/year}}
+            </div>
+        {{/unless}}
+    {{/allFilms}}
 </div>
