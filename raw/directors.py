@@ -31,7 +31,8 @@ for fn in os.listdir('directors/'):
     for film in films.find_all(class_='filmo-row'):
         film_year = re.sub('/[^0-9-]+', '', film.span.extract().text.strip())
         film_name = re.sub('\s+', ' ', film.text.strip().encode('utf-8'))
-        if film_year and 'TV' not in film_name and 'documentary' not in film_name.lower():
+        film_name_l = film_name.lower()
+        if film_year and 'TV' not in film_name and 'documentary' not in film_name_l and 'short' not in film_name_l:
             href = film.a['href']
             imdb_id = re.search('tt[0-9]+', href).group(0)
             film_year = film_year.split('-')[0]
