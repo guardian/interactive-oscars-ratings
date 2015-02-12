@@ -1,6 +1,6 @@
 $gutter: 10px;
 $boxWidth: 12px;
-$headerHeight: 220px;
+$headerHeight: 190px;
 $rowHeight: 25px;
 $sidebarWidth: 240px;
 
@@ -35,12 +35,6 @@ h3 {
     padding: $gutter $gutter 0;
 }
 
-.header__part {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: $gutter;
-}
-
 .key {
     padding-left: $gutter;
 }
@@ -54,29 +48,6 @@ h3 {
     & > p {
         margin-top: ($rowHeight / 2 + 2px);
     }
-}
-
-.list {
-    width: 160px;
-    height: 150px;
-}
-
-.range {
-    width: 300px;
-}
-
-.noUi-connect {
-    background-color: #00456e;
-}
-
-.noUi-horizontal .noUi-handle {
-    width: 20px;
-    left: -10px;
-}
-
-.noUi-handle:before,
-.noUi-handle:after {
-    display: none;
 }
 
 .sidebar {
@@ -129,10 +100,6 @@ h3 {
     &:last-child {
         border-bottom: 0;
     }
-}
-
-.director--hl {
-    background-color: #ffeab1;
 }
 
 .director__name {

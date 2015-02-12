@@ -17,9 +17,7 @@ require.config({
     noext: "../../../bower_components/requirejs-plugins/src/noext",
     propertyParser: "../../../bower_components/requirejs-plugins/src/propertyParser",
     "Markdown.Converter": "../../../bower_components/requirejs-plugins/lib/Markdown.Converter",
-    text: "../../../bower_components/text/text",
-    jquery: "../../../bower_components/jquery/dist/jquery",
-    noUiSlider: "../libs/jquery.nouislider.min"
+    text: "../../../bower_components/text/text"
   },
   packages: [
 
