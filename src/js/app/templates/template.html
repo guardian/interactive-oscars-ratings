@@ -5,7 +5,7 @@
             {{#films}}
                 <li class="film">
                     {{#oscar}}<img src="assets/imgs/oscar.png" class="film__oscar" /> {{oscar}} -{{/oscar}}
-                    {{name}}
+                    {{name}} - {{rating}}
                 </li>
             {{/films}}
         </ul>
@@ -13,12 +13,11 @@
 {{/info}}
 
 <div class="header">
-    <h1>Academy Awards &mdash; Best director</h1>
-    <p>
-        This interactive needs some copy
-    </p>
-    <div>
-        <h2 style="display: inline">Key</h2>
+    <div class="header__part">
+        <h1>Academy Awards &mdash; Best director</h1>
+        <p>
+            This interactive needs some copy
+        </p>
         <span class="key">
             {{#ratings}}
                 <span class="key__rating" style="background-color: {{getRatingColor(this)}}"><p>{{this}}</p></span>
@@ -33,26 +32,30 @@
         </span>
     </div>
 
-    <br />
+    <div class="header__part">
+        <select class="list" multiple value="{{idsToHide}}">
+            {{#allFilms:i}}
+                {{^hide}}
+                    <option value="{{i}}">{{name}}</option>
+                {{/hide}}
+            {{/allFilms}}
+        </select>
 
-    <select multiple value="{{idsToHide}}">
-        {{#allFilms:i}}
-            {{^hide}}
-                <option value="{{i}}">{{name}}</option>
-            {{/hide}}
-        {{/allFilms}}
-    </select>
+        <button on-click="toggle:{{idsToHide}}">-&gt;</button>
+        <button on-click="toggle:{{idsToShow}}">&lt;-</button>
 
-    <button on-click="toggle:{{idsToHide}}">-&gt;</button>
-    <button on-click="toggle:{{idsToShow}}">&lt;-</button>
+        <select class="list" multiple value="{{idsToShow}}">
+            {{#allFilms:i}}
+                {{#hide}}
+                    <option value="{{i}}">{{name}}</option>
+                {{/hide}}
+            {{/allFilms}}
+        </select>
 
-    <select multiple value="{{idsToShow}}">
-        {{#allFilms:i}}
-            {{#hide}}
-                <option value="{{i}}">{{name}}</option>
-            {{/hide}}
-        {{/allFilms}}
-    </select>
+        Career average IMDb rating:
+        <div class="range"></div>
+        {{minRange}} - {{maxRange}}
+    </div>
 
     <div class="timeline">
         <div id="timeline" class="scrollable">
@@ -67,8 +70,8 @@
     <div class="scrollable" id="sidebar">
         {{#allFilms:i}}
             {{^hide}}
-                <div class="director director__name">
-                    <img src="assets/imgs/flags/{{birth_place}}.svg" class="director__flag" /> {{name}}
+                <div class="director{{#isHighlighted(this)}} director--hl{{/hl}} director__name">
+                    <img src="assets/imgs/flags/{{birthPlace}}.svg" class="director__flag" /> {{name}}
                 </div>
             {{/hide}}
         {{/allFilms}}
@@ -78,12 +81,12 @@
 <div class="main">
     {{#allFilms:directorNo}}
         {{^hide}}
-            <div class="director">
+        <div class="director {{#isHighlighted(this)}}director--hl{{/hl}}">
                 <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
                 {{#year:yearNo}}
                     <div on-mouseover="hover" on-mouseout="hover_out"
                          class="director__year{{#oscar}} director__year--oscar{{/oscar}}"
-                         style="background-color: {{rating_color}}; left: {{getOffset(yearNo)}}px">
+                         style="background-color: {{ratingColor}}; left: {{getOffset(yearNo)}}px">
                     </div>
                 {{/year}}
             </div>

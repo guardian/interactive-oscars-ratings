@@ -44,7 +44,7 @@ for film in csv.reader(sys.stdin, delimiter='\t'):
             'name': director_name,
             'year': defaultdict(lambda: {'films': []}),
             'birth': birth,
-            'birth_place': re.sub('.*, ', '', birth_place),
+            'birthPlace': re.sub('.*, ', '', birth_place),
             'death': death
         }
 
@@ -53,20 +53,38 @@ for film in csv.reader(sys.stdin, delimiter='\t'):
 
 for director in films.values():
     # compute averages/oscars for years
+    first_oscar_year = None
+    overall_total_rating = 0
+    total_films = 0
     for year_no, year in director['year'].iteritems():
         all_films = year['films']
 
         rated_films = filter(lambda film: 'rating' in film, all_films)
         if len(rated_films) > 0:
-            avg_rating = reduce(lambda s, film: s + film['rating'], rated_films, 0) / len(rated_films)
+            total_rating = reduce(lambda s, film: s + film['rating'], rated_films, 0)
+            avg_rating = total_rating / len(rated_films)
             norm_rating = min(1, (math.floor(avg_rating) - 2) / 7)
             color = [round(h * norm_rating + l * (1 - norm_rating)) for (h, l) in zip(hi_color, low_color)]
-            year['rating_color'] = 'rgb(' + ','.join('%d' % f for f in color) + ')'
+            year['ratingColor'] = 'rgb(' + ','.join('%d' % f for f in color) + ')'
+
+            overall_total_rating += total_rating
+            total_films += len(rated_films)
         else:
-            year['rating_color'] = 'transparent'
+            year['ratingColor'] = 'transparent'
 
         if len(filter(lambda film: 'oscar' in film, all_films)) > 0:
+            if not first_oscar_year:
+                first_oscar_year = int(year_no)
             year['oscar'] = True
 
-print json.dumps(sorted(films.values(), key=lambda x: x['birth']))
+    pre_oscar_films = 0
+    for year_no, year in director['year'].iteritems():
+        if int(year_no) < first_oscar_year:
+            pre_oscar_films += len(year['films'])
+
+    director['firstOscar'] = first_oscar_year - director['birth']
+    director['preOscarFilms'] = pre_oscar_films
+    director['overallAvgRating']  = '%.2f' % (overall_total_rating / total_films)
+
+print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))
 

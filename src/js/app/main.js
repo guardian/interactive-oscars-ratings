@@ -2,12 +2,15 @@ define([
     'iframe-messenger',
     'json!data/films.json',
     'text!templates/template.html',
-    'ractive'
+    'ractive',
+    'jquery',
+    'noUiSlider',
 ], function(
     iframeMessenger,
     allFilms,
     template,
-    Ractive
+    Ractive,
+    $
 ) {
    'use strict';
 
@@ -30,6 +33,8 @@ define([
                 'timeline': timeline,
                 'ratings': [2, 3, 4, 5, 6, 7, 8, 9],
                 'allFilms': allFilms,
+                'minRange': 6,
+                'maxRange': 7,
                 'getRatingColor': function (rating) {
                     if (rating) {
                         // scale ratings from 2-9 to 0-1
@@ -45,6 +50,10 @@ define([
                 },
                 'getOffset': function (year) {
                     return (year - baseYear) * boxWidth;
+                },
+                'isHighlighted': function (director) {
+                    return director.preOscarFilms >= this.get('minRange') &&
+                           director.preOscarFilms <= this.get('maxRange');
                 }
             }
         });
@@ -60,9 +69,24 @@ define([
         ractive.on('hover_out', function () { this.set('info', undefined); } );
 
         ractive.on('toggle', function (evt, ids) {
+            // Minimise the amount of layout that gets marked as dirty
             ids.forEach(function (id) {
                 ractive.toggle('allFilms.' + id + '.hide');
             });
+        });
+
+        $('.range').noUiSlider({
+            start: [38, 40],
+            step: 1,
+            connect: true,
+            range: {
+                min: 0,
+                max: 100
+            }
+        }).on('slide', function (evt) {
+            var range = $(this).val();
+            ractive.set('minRange', range[0]);
+            ractive.set('maxRange', range[1]);
         });
 
         (function () {

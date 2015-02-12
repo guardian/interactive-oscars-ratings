@@ -4,6 +4,7 @@ $guss-webfonts-base-url: '//pasteup.guim.co.uk/fonts/';
 @import 'bower_components/guss-webfonts/src/_webfonts.scss';
 @import 'bower_components/guss-typography/_typography.scss';
 
+@import 'jquery.nouislider.min';
 @import 'style';
 @include guss-webfonts();
 @include guss-typography-defaults;
