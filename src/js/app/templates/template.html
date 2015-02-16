@@ -1,54 +1,33 @@
-{{#info}}
-    <div class="info">
-        <h3>{{year}}, aged {{age}}</h3>
-        <ul>
-            {{#films}}
-                <li class="info__film">
-                    {{#oscar}}<img src="assets/imgs/oscar.png" class="info__film__oscar" /> {{oscar}} -{{/oscar}}
-                    {{name}} - {{rating}}
-                </li>
-            {{/films}}
-        </ul>
-    </div>
-{{/info}}
-
-<div class="header">
-    <h1>Academy Awards &mdash; Best director</h1>
+<div>
     <p>{{step.copy}}</p>
-    {{#stepNo > 0}}
-        <button on-click="step:-1">Prev</button>
-    {{/stepNo}}
-    {{#stepNo < steps.length - 1}}
-        <button on-click="step:1">Next</button>
-    {{/stepNo}}
-    <p>
-        <span class="key">
-            {{#ratings}}
-                <span class="key__rating" style="background-color: #000"><p>{{this}}</p></span>
-            {{/ratings}}
-            = IMDb rating
-        </span>
-        <span class="key">
-            <span class="key__rating" style="background-color: #e48600"></span> = Oscar winner
-        </span>
-    </p>
-</div>
-
-<div class="sidebar">
-    <div class="scrollable" id="sidebar">
-        {{#directors:i}}
-            <div class="director director__name{{#hide}} is-hidden{{/hide}}">
-                <img src="assets/imgs/flags/{{birthPlace}}.svg" class="director__flag" /> {{name}}
-            </div>
-        {{/directors}}
-    </div>
+    <button class="button button--secondary" on-click="step:-1"{{#stepNo == 0}} disabled{{/stepNo}}>
+        <img class="arrow-left" src="assets/imgs/arrow-left-black.svg" /> Prev
+    </button>
+    <button class="button button--primary" on-click="step:1"{{#stepNo == steps.length - 1}} disabled{{/stepNo}}>
+        Next <img class="arrow-right" src="assets/imgs/arrow-right-white.svg" />
+    </button>
 </div>
 
 <div class="main{{#step.collapsed}} is-collapsed{{/step.collapsed}}">
+    {{#info}}
+        <div class="info" style="left: {{x}}px; top: {{y}}px">
+            <h3>{{year}}, aged {{age}}</h3>
+            <ul>
+                {{#films}}
+                    <li class="info__film">
+                        {{#oscar}}<img src="assets/imgs/oscar.png" class="info__film__oscar" /> {{oscar}} -{{/oscar}}
+                        {{name}} - {{rating}}
+                    </li>
+                {{/films}}
+            </ul>
+        </div>
+    {{/info}}
+
     {{#directors:directorNo}}
         <div class="director{{#hide}} is-hidden{{/hide}}">
-            <div class="director__life{{#dead}} director__life--dead{{/dead}}"
-                 style="left: {{directorX(this)}}px; width: {{yearX(age + 1)}}px">
+            <span class="director__life{{#dead}} director__life--dead{{/dead}}"
+                 style="margin-left: {{directorX(this)}}px; width: {{yearX(age + 1)}}px">
+                 <span class="director__life__name">{{name}}</span>
                 <span class="director__life__spacer"></span>
                 {{#year:yearNo}}
                     <span on-mouseover="hoverOver" on-mouseout="hoverOut"
@@ -56,7 +35,7 @@
                          style="height: {{rating}}%; margin-left: {{yearX(gap)}}px">
                     </span>
                 {{/year}}
-            </div>
+            </span>
         </div>
     {{/directors}}
 </div>

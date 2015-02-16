@@ -61,7 +61,8 @@ for film in csv.reader(sys.stdin, delimiter='\t'):
             'birth': birth,
             'birthPlace': re.sub('.*, ', '', birth_place),
             'age': death - birth,
-            'dead': len(director_death) > 0
+            'dead': len(director_death) > 0,
+            'scale': {}
         }
 
     if film_year <= death:
@@ -74,8 +75,6 @@ for director in films.values():
     # find gaps between years, including birth - first film
     ordered_years = [director['birth']] + sorted(director['year'].keys())
     year_gaps = dict(map(lambda (a, b): (b, b - a - 1), tuple(window(ordered_years, n=2))))
-
-    director['firstFilm'] = ordered_years[1] # 0 is birth
 
     first_oscar = 3000
     for year_no, year in director['year'].iteritems():
@@ -97,6 +96,8 @@ for director in films.values():
 
         year['gap'] = year_gaps[year_no]
 
-    director['firstOscar'] = first_oscar
+    director['scale']['film'] = ordered_years[1] # 0 is birth
+    director['scale']['oscar'] = first_oscar
+    director['scale']['birth'] = director['birth'] + 45
 
 print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))

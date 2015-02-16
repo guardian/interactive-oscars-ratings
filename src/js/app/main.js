@@ -13,7 +13,7 @@ define([
 ) {
    'use strict';
 
-    var boxWidth = 12;
+    var boxWidth = 8;
     var sheetUrl = 'http://interactive.guim.co.uk/spreadsheetdata/1zgobYGCbggOdfB7SRYbOsEPSmkQaanyyfMV5Zq4MlFE.json';
 
     function yearX(year) {
@@ -28,11 +28,10 @@ define([
                 'ratings': [1, 2, 3, 4, 5, 6, 7, 8, 9],
                 'stepNo': 0,
                 'steps': steps,
-                'scale': 'film',
                 'directors': directors,
                 'yearX': yearX,
                 'directorX': function (director) {
-                    var baseYear = this.get('step').view === 'film' ? director.firstFilm : director.firstOscar;
+                    var baseYear = director.scale['birth'];//this.get('step').view];
                     return yearX(50 - (baseYear - director.birth));
                 }
             },
@@ -65,11 +64,6 @@ define([
         ractive.on('step', function (evt, change) {
             this.add('stepNo', change);
             toggleDirectors();
-        });
-
-        var sidebarEle = document.getElementById('sidebar');
-        window.addEventListener('scroll', function () {
-            sidebarEle.style.top = -window.pageYOffset + 'px';
         });
 
         toggleDirectors();

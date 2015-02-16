@@ -1,19 +1,40 @@
-.sidebar {
-    position: fixed;
-    z-index: 2;
-    top: $headerHeight;
-    left: 0;
-    bottom: 0;
-    width: $sidebarWidth;
-    background-color: white;
-    border-right: 1px solid map-get($pasteup-palette, neutral-1);
-    overflow: hidden;
+$rowHeight: 50px;
+$boxWidth: 8px;
+$sidebarWidth: 220px;
+$life-dot: 11px;
+
+body,
+.interactive {
+    margin: 0,
+}
+
+h3 {
+    font-weight: normal;
+    margin: 0;
+}
+
+.button[disabled] {
+    opacity: 0.5;
+}
+
+.arrow-right {
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.arrow-left {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.main {
+    position: relative;
 }
 
 .director {
-    position: relative;
     height: $rowHeight;
-    line-height: $rowHeight;
+    padding-left: 100px;
+    font-size: 0;
 
     border-bottom: 1px solid map-get($pasteup-palette, neutral-6);
     &:last-child {
@@ -25,23 +46,11 @@
     }
 }
 
-.director__name {
-    padding-left: $gutter;
-}
-
-.director__flag {
-    width: 25px;
-    height: ($rowHeight - $gutter);
-    vertical-align: middle;
-    padding-right: ($gutter / 2);
-}
-
 .director__life {
-    position: absolute;
-    top: 0;
+    position: relative;
+    display: inline-block;
     height: 100%;
-    font-size: 0;
-    transition: left 0.3s ease-out;
+    transition: margin-left 0.3s ease-out;
 
     &::before, &::after {
         position: absolute;
@@ -57,16 +66,22 @@
     }
 }
 
-$life-dot: 11px;
-
 .director__life--dead::after {
-
     content: "";
     border-radius: 100px;
     right: -($life-dot / 2);
     width: $life-dot;
     height: $life-dot;
     margin-top: -($life-dot / 2);
+}
+
+.director__life__name {
+    @include fs-data(3);
+    line-height: $rowHeight;
+    position: absolute;
+    right: 100%;
+    white-space: nowrap;
+    padding-right: 10px;
 }
 
 .director__life__spacer {
@@ -86,10 +101,10 @@ $life-dot: 11px;
     margin-right: 1px;
     background-color: map-get($pasteup-palette, guardian-brand);
 
-    transition: height 0.2s ease-out;
+    transition: height 0.3s ease-out;
 
     .is-collapsed & {
-        height: 30% !important;
+        height: 20% !important;
     }
     .is-hidden & {
         height: 0% !important;

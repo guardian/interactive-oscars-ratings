@@ -1,12 +1,12 @@
+$gutter: 10px; // TODO: remove
+
 .info {
-    position: fixed;
+    position: absolute;
     padding: 10px;
     background-color: white;
-    top: ($headerHeight + $gutter);
-    right: $gutter;
     width: 400px;
     z-index: 2;
-    border: 1px solid #bdbdbd;
+    border: 1px solid map-get($pasteup-palette, neutral-2);
 }
 
 .info__film {
