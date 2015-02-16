@@ -1,9 +1,45 @@
 $guss-webfonts-base-url: '//pasteup.guim.co.uk/fonts/';
 
-@import 'bower_components/pasteup-palette/src/_palette';
-@import 'bower_components/guss-webfonts/src/_webfonts.scss';
-@import 'bower_components/guss-typography/_typography.scss';
+@import 'bower_components/pasteup-palette/src/palette';
+@import 'bower_components/guss-webfonts/src/webfonts';
+@import 'bower_components/guss-typography/typography';
+
+$gutter: 10px;
+$boxWidth: 12px;
+$headerHeight: 190px;
+$rowHeight: 50px;
+$sidebarWidth: 240px;
+
+body {
+    margin: $headerHeight 0 0 $sidebarWidth;
+}
+
+h1,
+h2,
+h3 {
+    margin-top: 0;
+}
+
+h3 {
+    font-weight: normal;
+    margin: 0;
+}
+
+.interactive {
+    margin: 0;
+}
+
+.scrollable {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
 
 @import 'style';
+@import 'header';
+@import 'info';
+
 @include guss-webfonts();
 @include guss-typography-defaults;

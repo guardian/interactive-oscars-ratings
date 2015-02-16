@@ -2,85 +2,93 @@ define([
     'iframe-messenger',
     'json!data/films.json',
     'text!templates/template.html',
-    'ractive'
+    'ractive',
+    'pegasus'
 ], function(
     iframeMessenger,
-    allFilms,
+    directors,
     template,
-    Ractive
+    Ractive,
+    pegasus
 ) {
    'use strict';
 
     var boxWidth = 12;
-    var lowColor = [255, 255, 255];
-    var hiColor = [0, 69, 110];
-    var baseYear = 1860;
+    var sheetUrl = 'http://interactive.guim.co.uk/spreadsheetdata/1zgobYGCbggOdfB7SRYbOsEPSmkQaanyyfMV5Zq4MlFE.json';
 
-    var timeline = [];
-    for (var year = 1890; year < 2015; year += 10) {
-        timeline.push(year);
+    function yearX(year) {
+        return year * boxWidth;
     }
 
-
-    function app(el) {
+    function app(el, steps) {
         var ractive = new Ractive({
             template: template,
             el: el,
             data: {
-                'timeline': timeline,
-                'ratings': [2, 3, 4, 5, 6, 7, 8, 9],
-                'allFilms': allFilms,
-                'getRatingColor': function (rating) {
-                    if (rating) {
-                        // scale ratings from 2-9 to 0-1
-                        var normRating = Math.min((rating - 2) / 7, 1);
-                        var i, color = [0, 0, 0];
-                        for (i = 0; i < 3; i++) {
-                            color[i] = Math.round(lowColor[i] * (1 - normRating) + hiColor[i] * normRating);
-                        }
-                        return 'rgb(' + color.join(',') + ')';
-                    } else {
-                        return 'transparent';
-                    }
-                },
-                'getOffset': function (year) {
-                    return (year - baseYear) * boxWidth;
+                'ratings': [1, 2, 3, 4, 5, 6, 7, 8, 9],
+                'stepNo': 0,
+                'steps': steps,
+                'scale': 'film',
+                'directors': directors,
+                'yearX': yearX,
+                'directorX': function (director) {
+                    var baseYear = this.get('step').view === 'film' ? director.firstFilm : director.firstOscar;
+                    return yearX(50 - (baseYear - director.birth));
                 }
+            },
+            computed: {
+                'step': '${steps}[${stepNo}]'
             }
         });
 
-        ractive.on('hover', function (evt) {
+        ractive.on('hoverOver', function (evt) {
             this.set('info', {
                 'films': evt.context.films,
                 'year': evt.index.yearNo,
-                'age': evt.index.yearNo - allFilms[evt.index.directorNo].birth
+                'age': evt.index.yearNo - directors[evt.index.directorNo].birth
             });
         });
 
-        ractive.on('hover_out', function () { this.set('info', undefined); } );
+        ractive.on('hoverOut', function () { this.set('info', undefined); } );
 
-        ractive.on('toggle', function (evt, ids) {
-            // Minimise the amount of layout that gets marked as dirty
-            ids.forEach(function (id) {
-                ractive.toggle('allFilms.' + id + '.hide');
+        function toggleDirectors() {
+            var visibleDirectors = ractive.get('step').directors;
+
+            directors.forEach(function (director, i) {
+                var hide = visibleDirectors.length !== 0 && visibleDirectors.indexOf(i) === -1;
+                director.hide = hide;
             });
+
+            ractive.update('directors');
+        }
+
+        ractive.on('step', function (evt, change) {
+            this.add('stepNo', change);
+            toggleDirectors();
         });
 
-        (function () {
-            var timelineEle = document.getElementById('timeline');
-            var sidebarEle = document.getElementById('sidebar');
+        var sidebarEle = document.getElementById('sidebar');
+        window.addEventListener('scroll', function () {
+            sidebarEle.style.top = -window.pageYOffset + 'px';
+        });
 
-            window.onscroll = function () {
-                timelineEle.style.left = -window.pageXOffset + 'px';
-                sidebarEle.style.top = -window.pageYOffset + 'px';
-            };
-        })();
+        toggleDirectors();
     }
 
     function init(el) {
         // Enable iframe resizing on the GU site
         iframeMessenger.enableAutoResize();
-        app(el);
+
+        pegasus(sheetUrl).then(function (steps) {
+            app(el, steps.sheets.Copy.map(function (row) {
+                row.collapsed = row.collapsed === 'TRUE';
+                row.directors = row.directors.split(',').
+                    filter(function (id) { return id.length > 0; }).
+                    map(function (id) { return parseInt(id); });
+                return row;
+            }));
+        });
+
     }
 
     return {

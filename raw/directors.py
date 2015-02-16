@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import sys, os, bs4, csv, json, re
 
+best_picture = [line.strip() for line in open('data/best-picture.txt')]
 awards = {award[2]: award[0] for award in csv.reader(open('data/awards.tsv'), delimiter='\t')}
 omdb = {film['imdbID']: film for film in json.load(open('data/omdb.json'))}
 
@@ -37,4 +38,5 @@ for fn in os.listdir('directors/'):
             imdb_id = re.search('tt[0-9]+', href).group(0)
             film_year = film_year.split('-')[0]
             award = awards.get(film_name, '')
-            w.writerow((birth_date, death_date, birth_place, name, film_year, film_name, href, award, omdb[imdb_id]['imdbRating']))
+            best_picture_nom = award and film_name in best_picture
+            w.writerow((birth_date, death_date, birth_place, name, film_year, film_name, href, award, omdb[imdb_id]['imdbRating'], omdb[imdb_id]['imdbVotes'].replace(',', ''), best_picture_nom))

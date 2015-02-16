@@ -141,14 +141,9 @@ module.exports = function(grunt) {
         local: {
             options: {
                 patterns: [{
-                  match: /"assets/g,
-                  replacement: '"http://localhost:' + pkg.config.port + '/build/assets'
-                },
-                {
                   match: /\/\/pasteup\.guim\.co\.uk\/fonts\/0\.1\.0/g,
                   replacement: '/bower_components/guss-webfonts/webfonts'
-                }
-                ]
+                }]
             },
             files: [{
                 src: ['build/*.html', 'build/**/*.js', 'build/**/*.css'],

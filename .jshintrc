@@ -13,7 +13,7 @@
     "strict"        : false,    // Requires all functions run in ES5 Strict Mode
     "maxdepth"      : 4,        // Max depth of nested blocks (within functions)
     "maxcomplexity" : 10,       // Max cyclomatic complexity per function
-    "maxlen"        : 110,       // Max number of characters per line
+    "maxlen"        : 120,       // Max number of characters per line
     "evil"          : false,    // Tolerate use of `eval` and `new Function()`
 
 

@@ -3,8 +3,8 @@
         <h3>{{year}}, aged {{age}}</h3>
         <ul>
             {{#films}}
-                <li class="film">
-                    {{#oscar}}<img src="assets/imgs/oscar.png" class="film__oscar" /> {{oscar}} -{{/oscar}}
+                <li class="info__film">
+                    {{#oscar}}<img src="assets/imgs/oscar.png" class="info__film__oscar" /> {{oscar}} -{{/oscar}}
                     {{name}} - {{rating}}
                 </li>
             {{/films}}
@@ -14,55 +14,49 @@
 
 <div class="header">
     <h1>Academy Awards &mdash; Best director</h1>
+    <p>{{step.copy}}</p>
+    {{#stepNo > 0}}
+        <button on-click="step:-1">Prev</button>
+    {{/stepNo}}
+    {{#stepNo < steps.length - 1}}
+        <button on-click="step:1">Next</button>
+    {{/stepNo}}
     <p>
-        This interactive needs some copy
+        <span class="key">
+            {{#ratings}}
+                <span class="key__rating" style="background-color: #000"><p>{{this}}</p></span>
+            {{/ratings}}
+            = IMDb rating
+        </span>
+        <span class="key">
+            <span class="key__rating" style="background-color: #e48600"></span> = Oscar winner
+        </span>
     </p>
-    <span class="key">
-        {{#ratings}}
-            <span class="key__rating" style="background-color: {{getRatingColor(this)}}"><p>{{this}}</p></span>
-        {{/ratings}}
-        = IMDb rating
-    </span>
-    <span class="key">
-        <span class="key__rating" style="background-color: #e48600"></span> = Oscar winner
-    </span>
-    <span class="key">
-        <span class="key__rating" style="background-color: #dcdcdc"></span> = Director life span
-    </span>
-
-    <div class="timeline">
-        <div id="timeline" class="scrollable">
-            {{#timeline}}
-                <span class="timeline__label" style="left: {{getOffset(this)}}px">{{this}}</span>
-            {{/timeline}}
-        </div>
-    </div>
 </div>
 
 <div class="sidebar">
     <div class="scrollable" id="sidebar">
-        {{#allFilms:i}}
-            {{^hide}}
-                <div class="director director__name">
-                    <img src="assets/imgs/flags/{{birthPlace}}.svg" class="director__flag" /> {{name}}
-                </div>
-            {{/hide}}
-        {{/allFilms}}
+        {{#directors:i}}
+            <div class="director director__name{{#hide}} is-hidden{{/hide}}">
+                <img src="assets/imgs/flags/{{birthPlace}}.svg" class="director__flag" /> {{name}}
+            </div>
+        {{/directors}}
     </div>
 </div>
 
-<div class="main">
-    {{#allFilms:directorNo}}
-        {{^hide}}
-        <div class="director">
-                <div class="director__life" style="left: {{getOffset(birth)}}px; width: {{getOffset(death + 1) - getOffset(birth)}}px"></div>
+<div class="main{{#step.collapsed}} is-collapsed{{/step.collapsed}}">
+    {{#directors:directorNo}}
+        <div class="director{{#hide}} is-hidden{{/hide}}">
+            <div class="director__life{{#dead}} director__life--dead{{/dead}}"
+                 style="left: {{directorX(this)}}px; width: {{yearX(age + 1)}}px">
+                <span class="director__life__spacer"></span>
                 {{#year:yearNo}}
-                    <div on-mouseover="hover" on-mouseout="hover_out"
-                         class="director__year{{#oscar}} director__year--oscar{{/oscar}}"
-                         style="background-color: {{ratingColor}}; left: {{getOffset(yearNo)}}px">
-                    </div>
+                    <span on-mouseover="hoverOver" on-mouseout="hoverOut"
+                         class="director__life__year{{#oscar}} director__life__year--oscar{{/oscar}}"
+                         style="height: {{rating}}%; margin-left: {{yearX(gap)}}px">
+                    </span>
                 {{/year}}
             </div>
-        {{/hide}}
-    {{/allFilms}}
+        </div>
+    {{/directors}}
 </div>

@@ -20,8 +20,14 @@
     "curl": "0.8.12",
     "iframe-messenger": "guardian/iframe-messenger#master",
     "pasteup-buttons": "~0.4.12",
+    "pegasus": "0.2.0",
     "ractive": "0.6.1",
     "requirejs-plugins": "1.0.3",
     "text": "2.0.10"
+  },
+  "overrides": {
+      "pegasus": {
+          "main": "dist/pegasus-amd"
+      }
   }
 }
