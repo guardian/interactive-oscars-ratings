@@ -1,4 +1,4 @@
-<div>
+<div class="header">
     <p>{{step.copy}}</p>
     <button class="button button--secondary" on-click="step:-1"{{#stepNo == 0}} disabled{{/stepNo}}>
         <img class="arrow-left" src="assets/imgs/arrow-left-black.svg" /> Prev
@@ -8,30 +8,54 @@
     </button>
 </div>
 
-<div class="main{{#step.collapsed}} is-collapsed{{/step.collapsed}}">
+<div class="main{{#step.collapsed}} is-collapsed{{/step.collapsed}} step-{{stepNo}}">
     {{#info}}
         <div class="info" style="left: {{x}}px; top: {{y}}px">
-            <h3>{{year}}, aged {{age}}</h3>
-            <ul>
-                {{#films}}
-                    <li class="info__film">
-                        {{#oscar}}<img src="assets/imgs/oscar.png" class="info__film__oscar" /> {{oscar}} -{{/oscar}}
-                        {{name}} - {{rating}}
-                    </li>
-                {{/films}}
-            </ul>
+            <span class="info__age"><b>Age:</b> {{age}}</span>
+            <span class="info__year"><b>Year:</b> {{year}}</span>
+            <table class="info__films">
+                <thead>
+                    <tr>
+                        <th>Film</th>
+                        <th>Rating</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{#films}}
+                        <tr>
+                            <td class="info__films__name">
+                                {{name}}
+                                {{#oscar}}
+                                    <img class="info__films__oscar" src="assets/imgs/oscar.svg" />
+                                {{/oscar}}
+                            </td>
+                            <td>{{rating}}</td>
+                        </tr>
+                    {{/films}}
+                </body>
+            </table>
         </div>
     {{/info}}
 
+    <div class="timeline"{{#step.view != 'birth'}} style="visibility: hidden"{{/step.view}}>
+        Age
+        {{#timeline}}
+            <span class="timeline__label" style="left: {{yearX(this)}}px">{{this}}</span>
+        {{/timeline}}
+    </div>
+
     {{#directors:directorNo}}
         <div class="director{{#hide}} is-hidden{{/hide}}">
+            <span class="director__info">
+                <div class="director__info__name">{{name}}</div>
+                <div class="director__info__birth">{{birth}} - {{#dead}}{{death}}{{/dead}}</div>
+            </span>
             <span class="director__life{{#dead}} director__life--dead{{/dead}}"
-                 style="margin-left: {{directorX(this)}}px; width: {{yearX(age + 1)}}px">
-                 <span class="director__life__name">{{name}}</span>
-                <span class="director__life__spacer"></span>
+                 style="margin-left: {{directorX(this)}}px; width: {{yearX(death - birth + 1)}}px">
                 {{#year:yearNo}}
+                {{bestPicture}}
                     <span on-mouseover="hoverOver" on-mouseout="hoverOut"
-                         class="director__life__year{{#oscar}} director__life__year--oscar{{/oscar}}"
+                         class="director__life__year{{#oscar}} director__life__year--oscar{{/oscar}}{{#bestPicture}} director__life__year--oscar-grey{{/bestPicture}}"
                          style="height: {{rating}}%; margin-left: {{yearX(gap)}}px">
                     </span>
                 {{/year}}

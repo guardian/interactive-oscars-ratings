@@ -59,9 +59,9 @@ for film in csv.reader(sys.stdin, delimiter='\t'):
             'name': director_name,
             'year': defaultdict(lambda: {'films': []}),
             'birth': birth,
-            'birthPlace': re.sub('.*, ', '', birth_place),
-            'age': death - birth,
+            'death': death,
             'dead': len(director_death) > 0,
+            'birthPlace': re.sub('.*, ', '', birth_place),
             'scale': {}
         }
 
@@ -73,10 +73,11 @@ for director in films.values():
     print >> sys.stderr, director['name']
 
     # find gaps between years, including birth - first film
-    ordered_years = [director['birth']] + sorted(director['year'].keys())
+    ordered_years = [director['birth'] - 1] + sorted(director['year'].keys())
     year_gaps = dict(map(lambda (a, b): (b, b - a - 1), tuple(window(ordered_years, n=2))))
 
     first_oscar = 3000
+    first_oscar_rating = 0
     for year_no, year in director['year'].iteritems():
         all_films = year['films']
 
@@ -86,9 +87,13 @@ for director in films.values():
 
         oscar_film = filter(lambda film: 'oscar' in film, all_films)
         if len(oscar_film) > 0:
-            first_oscar = min(first_oscar, year_no)
             max_rating = oscar_film[0]['rating'] # override for oscar winning year
+
+            first_oscar = min(first_oscar, year_no)
+            if first_oscar == year_no:
+                first_oscar_rating = max_rating
             year['oscar'] = True
+            year['bestPicture'] = oscar_film[0]['bestPicture']
 
         if max_rating:
             max_rating *= 10/9.5
@@ -98,6 +103,18 @@ for director in films.values():
 
     director['scale']['film'] = ordered_years[1] # 0 is birth
     director['scale']['oscar'] = first_oscar
-    director['scale']['birth'] = director['birth'] + 45
+    director['scale']['birth'] = director['birth'] + 50
+
+    total_rating = 0
+    total_films = 0
+    for year_no, year in director['year'].iteritems():
+        if year_no > first_oscar:
+            rated_films = filter(lambda film: 'rating' in film, year['films'])
+            if len(rated_films) > 0:
+                total_rating += sum(film['rating'] for film in rated_films)
+                total_films += len(rated_films)
+
+    if total_films and total_rating / total_films < first_oscar_rating:
+        pass#print '\t'.join(str(s) for s in (dedup_order.index(director['name']), first_oscar_rating, total_rating / total_films))
 
 print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))

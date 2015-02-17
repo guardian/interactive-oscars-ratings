@@ -15,6 +15,10 @@ define([
 
     var boxWidth = 8;
     var sheetUrl = 'http://interactive.guim.co.uk/spreadsheetdata/1zgobYGCbggOdfB7SRYbOsEPSmkQaanyyfMV5Zq4MlFE.json';
+    var i, timeline = [];
+    for (i = 15; i <= 95; i += 5) {
+        timeline.push(i);
+    }
 
     function yearX(year) {
         return year * boxWidth;
@@ -25,13 +29,14 @@ define([
             template: template,
             el: el,
             data: {
-                'ratings': [1, 2, 3, 4, 5, 6, 7, 8, 9],
+                'timeline': timeline,
                 'stepNo': 0,
+                'debug': true,
                 'steps': steps,
                 'directors': directors,
                 'yearX': yearX,
                 'directorX': function (director) {
-                    var baseYear = director.scale['birth'];//this.get('step').view];
+                    var baseYear = director.scale[this.get('step').view];
                     return yearX(50 - (baseYear - director.birth));
                 }
             },
@@ -40,11 +45,23 @@ define([
             }
         });
 
+        function offset(node, end, x, y) {
+            if (node === end) {
+                return [x, y];
+            } else {
+                return offset(node.offsetParent, end, x + node.offsetLeft, y + node.offsetTop);
+            }
+        }
+
         ractive.on('hoverOver', function (evt) {
+            var main = document.querySelector('.main');
+            var coords = offset(evt.node, main, 0, 0);
             this.set('info', {
                 'films': evt.context.films,
                 'year': evt.index.yearNo,
-                'age': evt.index.yearNo - directors[evt.index.directorNo].birth
+                'age': evt.index.yearNo - directors[evt.index.directorNo].birth,
+                'x': coords[0] - (300 / 2) + boxWidth / 2,
+                'y': coords[1] + evt.node.clientHeight
             });
         });
 
@@ -67,6 +84,8 @@ define([
         });
 
         toggleDirectors();
+
+        window.ractive = ractive;
     }
 
     function init(el) {
