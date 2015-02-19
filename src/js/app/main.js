@@ -49,13 +49,14 @@ define([
         }
 
         ractive.on('timeline.hoverOver', function (evt, directorYear, directorBirth) {
-            var coords = offset(evt.node, el, 0, 0);
+            var node = evt.node;
+            var coords = offset(node, el, 0, 0);
             this.set('info', {
                 'films': directorYear.films,
-                'year': evt.index.yearNo,
-                'age': evt.index.yearNo - directorBirth,
-                'x': coords[0] + evt.node.clientWidth,
-                'y': el.clientHeight - coords[1] - evt.node.clientHeight
+                'year': directorYear.yearNo,
+                'age': directorYear.yearNo - directorBirth,
+                'x': coords[0] + node.clientWidth,
+                'y': el.clientHeight - coords[1] - node.clientHeight
             });
         });
 

@@ -24,7 +24,7 @@
                         Directed for {{activeYears}} years
                     </span>
                 {{/death}}
-                {{#year:yearNo}}
+                {{#year}}
                     <span on-mouseover="hoverOver:{{this}},{{birth}}"
                          class="director__year{{#oscar}} director__year--oscar{{/oscar}}"
                          style="height: {{rating}}%; left: {{(yearNo - birth - scale[view]) * 100 / maxAge}}%; width: {{100 / maxAge}}%">

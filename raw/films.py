@@ -87,6 +87,8 @@ for director in films.values():
     first_oscar = 3000
     first_oscar_rating = 0
     for year_no, year in director['year'].iteritems():
+        year['yearNo'] = year_no # add year_no to item as below we change the dict into a list
+
         all_films = year['films']
 
         rated_films = filter(lambda film: 'rating' in film, all_films)
@@ -125,5 +127,7 @@ for director in films.values():
 
     if total_films and total_rating / total_films < first_oscar_rating:
         pass#print '\t'.join(str(s) for s in (dedup_order.index(director['name']), first_oscar_rating, total_rating / total_films))
+
+    director['year'] = sorted(director['year'].values(), key=lambda year: year['yearNo'])
 
 print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))
