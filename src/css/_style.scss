@@ -79,6 +79,7 @@ p {
 
 .headline {
     padding: ($gs-baseline * 4) 0 $gs-baseline;
+    clear: both;
 
     p, h2 {
         @media (min-width: gs-span(8)) {
@@ -164,6 +165,7 @@ p {
         height: 52px;
     }
 
+    .explore &,
     .step-0 & {
         height: 70px;
         @media (min-width: gs-span(8)) {
@@ -382,11 +384,6 @@ p {
         content: "/10";
         font-weight: normal;
     }
-}
-
-.explore {
-    clear: both;
-    position: relative;
 }
 
 .explore__button {

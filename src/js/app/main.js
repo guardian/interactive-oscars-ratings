@@ -28,6 +28,7 @@ define([
             template: mainTemplate,
             el: el,
             data: {
+                'mode': 'tour',
                 'furniture': furniture,
                 'worst': worst,
                 'timeline': timeline,
@@ -35,6 +36,7 @@ define([
                 'nominees': nominees,
                 'nomineeIds': [0, 1, 2, 3, 4].map(function (i) { return { directorId: i }; }),
                 'winners': winners,
+                'winnerIds': winners.map(function (director, i) { return { directorId: i}; }),
                 'isWeb': true//window.guardian !== undefined
             },
             components: {
@@ -68,6 +70,8 @@ define([
         });
 
         ractive.on('timeline.hoverOut', function () { this.set('info', undefined); });
+
+        ractive.on('mode', function (evt, mode) { this.set('mode', mode); });
     }
 
     function init(el) {

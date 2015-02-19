@@ -16,6 +16,7 @@
 </header>
 {{/isWeb}}
 
+{{#mode == 'tour'}}
 <div class="headline headline--top">
     <h2>{{furniture[3].copy}}</h2>
     <p>{{furniture[4].copy}}</p>
@@ -61,10 +62,20 @@
     </div>
 {{/steps}}
 
-<div class="explore headline">
-    <button class="button button--primary explore__button" on-click="explore">Explore</button>
+<div class="headline">
     <h2>{{furniture[5].copy}}</h2>
     <p>{{furniture[6].copy}}</p>
+
+    <button class="button button--primary explore__button" on-click="mode:explore">Explore</button>
+</div>
+{{/mode}}
+
+<div class="explore" {{#mode != 'explore'}} style="display: none"{{/mode}}>
+    <div class="headline headline--top">
+        <h2>{{furniture[7].copy}}</h2>
+        <p>{{furniture[8].copy}}</p>
+    </div>
+    <timeline maxAge="100" directorIds="{{winnerIds}}" directors="{{winners}}" view="birth" />
 </div>
 
 {{#info}}
