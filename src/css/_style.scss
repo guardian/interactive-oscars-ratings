@@ -109,8 +109,14 @@ p {
     margin: 0 auto;
     overflow: hidden;
     margin-bottom: ($gs-baseline * 4);
+
     .step-1-nominees & {
         margin-bottom: 0;
+    }
+
+    .explore & {
+        margin-bottom: $gs-baseline;
+        padding-bottom: 5px;
     }
 }
 
@@ -412,10 +418,36 @@ p {
     }
 }
 
-.explore__button {
-    @include button-height(60px);
+.explore-promo > p,
+.explore-promo > h2 {
+    position: relative;
+    @media (min-width: gs-span(8)) {
+        width: gs-span(6);
+        padding-right: (gs-span(2) + $gs-gutter);
+    }
+}
+
+.explore-promo__button {
+    float: none !important;
+    display: block;
+    width: 120px;
+    margin-top: $gs-baseline;
+
+    @media (min-width: gs-span(8)) {
+        position: absolute;
+        margin-top: 0;
+        right: 0;
+        top: 0;
+    }
+}
+
+.explore-button {
+    @include button-height(50px);
+    line-height:51px;
     font-size: 15px;
     float: right;
+    margin-right: 0;
+    margin-bottom: $gs-baseline;
 }
 
 .explore__header {

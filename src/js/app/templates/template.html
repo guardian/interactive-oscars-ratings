@@ -61,16 +61,17 @@
             {{/stepNo}}
 
             <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" directors="{{stepWinners(directorIds)}}" view="{{view}}" />
-            <a href="#tour" calss="button button--primary">Back to story</a>
         {{/if}}
     </div>
 {{/steps}}
 
-<div class="headline">
+<div class="headline explore-promo">
     <h2>{{furniture[5].copy}}</h2>
-    <p>{{furniture[6].copy}}</p>
+    <p>
+        {{furniture[6].copy}}
+        <a href="#explore" class="button button--primary explore-button explore-promo__button">Explore</a>
+    </p>
 
-    <a href="#explore" class="button button--primary explore__button">Explore</a>
 </div>
 {{/mode}}
 
@@ -91,6 +92,8 @@
     </div>
 
     <timeline hlStart="40" hlSpan="10" maxAge="100" directors="{{directors}}" view="birth" />
+
+    <a href="#tour" class="button button--primary explore-button">Back to story</a>
 </div>
 
 {{#info}}
