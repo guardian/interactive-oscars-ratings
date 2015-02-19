@@ -129,7 +129,7 @@ module.exports = function(grunt) {
         prod: {
             options: {
                 patterns: [{
-                  match: /\/assets/g,
+                  match: /{assets}/g,
                   replacement: pkg.config.cdn_url + 'assets-'+currentTime
                 }]
             },
@@ -141,6 +141,9 @@ module.exports = function(grunt) {
         local: {
             options: {
                 patterns: [{
+                  match: /{assets}/g,
+                  replacement: 'assets'
+                }, {
                   match: /\/\/pasteup\.guim\.co\.uk\/fonts\/0\.1\.0/g,
                   replacement: '/bower_components/guss-webfonts/webfonts'
                 }]

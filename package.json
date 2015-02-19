@@ -14,8 +14,8 @@
   "homepage": "https://github.com/guardian/interactive-template",
   "config": {
     "port": 9000,
-    "s3_folder": "embed/testing/path/",
-    "cdn_url": "http://interactive.guim.co.uk/embed/testing/path/",
+    "s3_folder": "visuals-blank-page/oscar-ratings/",
+    "cdn_url": "http://interactive.guim.co.uk/visuals-blank-page/oscar-ratings/",
     "data_url": "http://interactive.guim.co.uk/spreadsheetdata/1hy65wVx-pjwjSt2ZK7y4pRDlX9wMXFQbwKN0v3XgtXM.json"
   },
   "devDependencies": {
