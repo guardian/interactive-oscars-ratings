@@ -58,22 +58,22 @@ for film in data_in():
 
     birth = int(director_birth.split('-')[0])
     if director_death:
-        death = int(director_death.split('-')[0])
+        end = int(director_death.split('-')[0])
     else:
-        death = 2014
+        end = 2014
 
     if director_name not in films:
         films[director_name] = {
             'name': director_name,
             'year': defaultdict(lambda: {'films': []}),
             'birth': birth,
-            'death': death,
-            'dead': len(director_death) > 0,
+            'end': end,
+            'death': end if director_death else None,
             'birthPlace': re.sub('.*, ', '', birth_place),
             'scale': {}
         }
 
-    if film_year <= death:
+    if film_year <= end:
         films[director_name]['year'][film_year]['films'].append(film)
 
 # precompute a year summaries (oscars/ratings)
@@ -109,9 +109,10 @@ for director in films.values():
 
         year['gap'] = year_gaps[year_no]
 
-    director['scale']['film'] = ordered_years[1] # 0 is birth
-    director['scale']['oscar'] = first_oscar
-    director['scale']['birth'] = director['birth'] + 50
+    director['scale']['oscar'] = -(54 - (first_oscar - director['birth']))
+    director['scale']['birth'] = 0
+
+    director['activeYears'] = ordered_years[-1] - ordered_years[1]
 
     total_rating = 0
     total_films = 0

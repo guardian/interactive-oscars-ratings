@@ -1,65 +1,72 @@
-<div class="header">
-    <p>{{step.copy}}</p>
-    <button class="button button--secondary" on-click="step:-1"{{#stepNo == 0}} disabled{{/stepNo}}>
-        <img class="arrow-left" src="assets/imgs/arrow-left-black.svg" /> Prev
-    </button>
-    <button class="button button--primary" on-click="step:1"{{#stepNo == steps.length - 1}} disabled{{/stepNo}}>
-        Next <img class="arrow-right" src="assets/imgs/arrow-right-white.svg" />
-    </button>
+{{#isWeb}}
+<header class="header">
+    <h1>The perfect age to direct</h1>
+    <h2>according to the Oscars</h2>
+    <p>
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+    </p>
+    <p class="header__byline">
+        By <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
+        <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
+        <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>
+    </p>
+    <p class="header__date">
+        Friday 20th Feburary 2015 10:00 GMT
+    </p>
+</header>
+{{/isWeb}}
+
+<div class="headline">
+    <h2>Are the nominees the right age to win?</h2>
+    <p>List of nominees for this year</p>
+</div>
+<div class="nominees">
+    <timeline collapsed="true" maxAge="60" hlStart="40" hlSpan="10" directorIds="{{nomineeIds}}" directors="{{nominees}}" view="birth" />
 </div>
 
-<div class="main{{#step.collapsed}} is-collapsed{{/step.collapsed}} step-{{stepNo}}">
-    {{#info}}
-        <div class="info" style="left: {{x}}px; top: {{y}}px">
-            <span class="info__age"><b>Age:</b> {{age}}</span>
-            <span class="info__year"><b>Year:</b> {{year}}</span>
-            <table class="info__films">
-                <thead>
-                    <tr>
-                        <th>Film</th>
-                        <th>Rating</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {{#films}}
-                        <tr>
-                            <td class="info__films__name">
-                                {{name}}
-                                {{#oscar}}
-                                    <img class="info__films__oscar" src="assets/imgs/oscar.svg" />
-                                {{/oscar}}
-                            </td>
-                            <td>{{rating}}</td>
-                        </tr>
-                    {{/films}}
-                </body>
-            </table>
+{{#steps:stepNo}}
+    <div class="step-{{stepNo}}">
+        <div class="headline">
+            <h2>{{headline}}</h2>
+            <p>{{copy}}</p>
         </div>
-    {{/info}}
-
-    <div class="timeline"{{#step.view != 'birth'}} style="visibility: hidden"{{/step.view}}>
-        Age
-        {{#timeline}}
-            <span class="timeline__label" style="left: {{yearX(this)}}px">{{this}}</span>
-        {{/timeline}}
+        {{#if stepNo == 2}}
+            <div class="compare" style="margin-bottom: 200px">
+                <div class="compare__year">1972</div>
+                <div class="compare__film compare__film--left">
+                    <div class="compare__film__name">Cabaret</div>
+                    <div class="compare__film__director">Bob Fosse</div>
+                    <img src="https://placekitten.com/289/209" />
+                    <div class="compare__film__rating">5.1</div>
+                </div>
+                <div class="compare__film compare__film--right">
+                    <div class="compare__film__name">Cabaret</div>
+                    <div class="compare__film__director">Bob Fosse</div>
+                    <img src="https://placekitten.com/289/209" />
+                    <div class="compare__film__rating">5.1</div>
+                </div>
+            </div>
+        {{else}}
+            <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" hlStart="40" hlSpan="10" directorIds="{{directorIds}}" directors="{{directors}}" view="{{view}}" />
+        {{/if}}
     </div>
+{{/steps}}
 
-    {{#directors:directorNo}}
-        <div class="director{{#hide}} is-hidden{{/hide}}">
-            <span class="director__info">
-                <div class="director__info__name">{{name}}</div>
-                <div class="director__info__birth">{{birth}} - {{#dead}}{{death}}{{/dead}}</div>
-            </span>
-            <span class="director__life{{#dead}} director__life--dead{{/dead}}"
-                 style="margin-left: {{directorX(this)}}px; width: {{yearX(death - birth + 1)}}px">
-                {{#year:yearNo}}
-                {{bestPicture}}
-                    <span on-mouseover="hoverOver" on-mouseout="hoverOut"
-                         class="director__life__year{{#oscar}} director__life__year--oscar{{/oscar}}{{#bestPicture}} director__life__year--oscar-grey{{/bestPicture}}"
-                         style="height: {{rating}}%; margin-left: {{yearX(gap)}}px">
-                    </span>
-                {{/year}}
-            </span>
-        </div>
-    {{/directors}}
-</div>
+{{#info}}
+    <div class="info" style="left: {{x}}px; bottom: {{y}}px">
+        <span class="info__year">{{year}}</span>
+        <span class="info__age">{{age}} years old</span>
+        <table class="info__films">
+            {{#films}}
+                <tr {{#oscar}}class="info__films__oscar"{{/oscar}}>
+                    <td>{{name}}</td>
+                    <td class="info__films__rating">{{rating}}</td>
+                </tr>
+            {{/films}}
+        </table>
+    </div>
+{{/info}}

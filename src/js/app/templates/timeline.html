@@ -1,0 +1,41 @@
+<div class="main{{#collapsed}} is-collapsed{{/collapsed}}">
+    <div class="timeline"{{#view != 'birth'}} style="display: none"{{/view}}>
+        Age
+        <span class="timeline__hl" style="left: {{hlStart * 100 / maxAge}}%; width: {{hlSpan * 100 / maxAge}}%"></span>
+        {{#timeline}}
+            {{#this <= maxAge}}
+                <span class="timeline__label" style="left: {{this * 100 / maxAge}}%">{{this}}</span>
+            {{/maxAge}}
+        {{/timeline}}
+    </div>
+
+    {{#directorIds}}
+        {{#directors[directorId]}}
+            <div class="director">
+                <span class="director__info">
+                    <div class="director__info__name">{{name}}</div>
+                    <div class="director__info__birth">{{birth}} - {{death}}</div>
+                </span>
+                <span class="director__life{{#death}} director__life--dead{{/death}}"
+                     style="left: {{-scale[view] * 100 / maxAge}}%; width: {{(end - birth + 1) * 100 / maxAge}}%">
+                </span>
+                {{#death}}
+                    <span class="director__active" style="left: {{(-scale[view] + end - birth + 1) * 100 / maxAge}}%">
+                        Directed for {{activeYears}} years
+                    </span>
+                {{/death}}
+                {{#year:yearNo}}
+                    <span on-mouseover="hoverOver:{{this}},{{birth}}"
+                         class="director__year{{#oscar}} director__year--oscar{{/oscar}}"
+                         style="height: {{rating}}%; left: {{(yearNo - birth - scale[view]) * 100 / maxAge}}%; width: {{100 / maxAge}}%">
+                        {{#notes[directorId][yearNo]}}
+                            <span class="director__year__note{{#left}} director__year__note--left{{/left}}">
+                                <img src="https://placekitten.com/82/60" /> {{{note}}}
+                            </span>
+                        {{/notes}}
+                    </span>
+                {{/year}}
+            </div>
+        {{/directors}}
+    {{/directorIds}}
+</div>
