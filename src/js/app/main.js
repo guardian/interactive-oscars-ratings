@@ -36,7 +36,12 @@ define([
                 'isWeb': true//window.guardian !== undefined
             },
             components: {
-                'timeline': Ractive.extend({template: timelineTemplate})
+                'timeline': Ractive.extend({
+                    'template': timelineTemplate,
+                    'computed': {
+                        'yearw': '100 / ${maxAge}'
+                    }
+                })
             }
         });
 
