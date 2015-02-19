@@ -18,12 +18,12 @@ body,
 h1 {
     @include fs-header(5);
     line-height: 1;
-    margin: 0;
+    margin: 0 0 $gs-baseline;
     color: map-get($pasteup-palette, neutral-1);
 
     font-size: 32px;
     @media (min-width: gs-span(8)) {
-        font-size: 52px;
+        font-size: 44px;
     }
 }
 
@@ -34,7 +34,7 @@ h2 {
 
     font-size: 22px;
     @media (min-width: gs-span(8)) {
-        font-size: 34px;
+        font-size: 30px;
     }
 }
 
@@ -44,9 +44,14 @@ p {
 
 .header {
     @include fs-bodyCopy(2);
-    margin: ($gs-baseline * 4) auto 0;
-    max-width: gs-span(8);
+    padding: ($gs-baseline * 4) 0 ($gs-baseline * 3);
+    margin: 0 auto;
+    max-width: gs-span(7);
     color: map-get($pasteup-palette, neutral-2);
+
+    @media (min-width: gs-span(8)) {
+        padding-right: (gs-span(1) + $gs-gutter);
+    }
 
     h2 {
         margin-bottom: $gs-baseline;
@@ -83,6 +88,10 @@ p {
             padding-right: (gs-span(3) + $gs-gutter);
         }
     }
+}
+
+.headline--top {
+    border-top: 1px solid map-get($pasteup-palette, neutral-1);
 }
 
 .nominees {
@@ -123,7 +132,7 @@ p {
 
 .timeline__hl {
     position: absolute;
-    background-color: #fef3c4;
+    background-color: #fffaee;
     top: 0;
     height: 100%;
 }
@@ -132,7 +141,7 @@ p {
     position: relative;
 
     &:hover {
-        background-color: transparentize(map-get($pasteup-palette, guardian-brand-light), 0.8);
+        background-color: transparentize(map-get($pasteup-palette, guardian-brand-light), 0.9);
     }
 
     &::before {
@@ -152,7 +161,7 @@ p {
     }
 
     .nominees & {
-        height: 45px;
+        height: 52px;
     }
 
     .step-0 & {
@@ -173,6 +182,8 @@ p {
 }
 
 .director__info__name {
+    @include f-bodyCopy;
+    line-height: 1;
     color: map-get($pasteup-palette, guardian-brand);
 }
 .director__info__birth {
@@ -210,6 +221,10 @@ p {
     @media (min-width: gs-span(8)) {
         display: block;
     }
+
+    .director:hover & {
+        color: map-get($pasteup-palette, neutral-2);
+    }
 }
 
 @mixin year--oscar($img) {
@@ -219,7 +234,7 @@ p {
         position: absolute;
         left: 50%;
         width: $width;
-        height: round($width * 2.7);
+        height: $width;
         bottom: 100%;
         margin-left: -($width / 2);
         background: no-repeat center bottom url($img);
@@ -294,6 +309,7 @@ p {
 }
 
 .timeline-note {
+    @include f-data;
     position: absolute;
     margin: 0 ($gs-gutter / 2);
     font-weight: bold;
@@ -311,8 +327,13 @@ p {
     max-width: gs-span(8);
     margin: 0 auto;
     border-top: 1px solid map-get($pasteup-palette, neutral-4);
-    padding-top: $gs-baseline;
+    padding-top: 4px;
     clear: left;
+}
+
+.compare__year {
+    @include fs-data(5);
+    color: map-get($pasteup-palette, neutral-2);
 }
 
 .compare__film {
@@ -321,20 +342,11 @@ p {
     float: left;
     margin: $gs-baseline 0 ($gs-baseline * 3);
 
-    &::before {
-        content: "";
-        float: left;
-        width: 40px;
-        height: 50px;
-        background: no-repeat center top;
-        background-size: contain;
-    }
-
     img {
         display: block;
         width: 100%;
         box-sizing: border-box;
-        margin-bottom: $gs-baseline;
+        margin: $gs-baseline 0;
     }
 }
 
@@ -345,21 +357,14 @@ p {
     img {
         border: 5px solid $oscarColor;
     }
-
-    &::before {
-        background-image: url('../imgs/oscar.svg');
-    }
 }
 
 .compare__film--right {
     padding-left: $gs-gutter;
-
-    &::before {
-        background-image: url('../imgs/people.svg');
-    }
 }
 
 .compare__film__name {
+    @include fs-data(6);
     font-weight: bold;
 }
 
@@ -368,11 +373,13 @@ p {
 }
 
 .compare__film__rating {
+    @include fs-data(6);
     font-weight: bold;
 
     &::after {
         color: map-get($pasteup-palette, neutral-3);
-        content: " of 10";
+        @include fs-data(4, $size-only: true);
+        content: "/10";
         font-weight: normal;
     }
 }
@@ -385,7 +392,5 @@ p {
 .explore__button {
     @include button-height(60px);
     font-size: 15px;
-    position: absolute;
-    top: ($gs-baseline * 4);
-    left: (gs-span(8) + $gs-gutter);
+    float: right;
 }

@@ -16,7 +16,7 @@
 </header>
 {{/isWeb}}
 
-<div class="headline">
+<div class="headline headline--top">
     <h2>{{furniture[3].copy}}</h2>
     <p>{{furniture[4].copy}}</p>
 </div>
@@ -56,13 +56,13 @@
                 </div>
                 <div class="timeline-note timeline-note--left">Since 1st Oscar</div>
             {{/stepNo}}
-            <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" hlStart="40" hlSpan="10" directorIds="{{directorIds}}" directors="{{winners}}" view="{{view}}" />
+            <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" hlStart="0" hlSpan="0" directorIds="{{directorIds}}" directors="{{winners}}" view="{{view}}" />
         {{/if}}
     </div>
 {{/steps}}
 
 <div class="explore headline">
-    <!--<button class="button button--primary explore__button" on-click="explore">Explore</button>-->
+    <button class="button button--primary explore__button" on-click="explore">Explore</button>
     <h2>{{furniture[5].copy}}</h2>
     <p>{{furniture[6].copy}}</p>
 </div>

@@ -117,8 +117,8 @@ for director in films.values():
             year['bestPicture'] = oscar_film[0]['bestPicture']
 
         if max_rating:
-            max_rating *= 10/9.5
-            year['rating'] = max_rating * max_rating * max_rating / 10 # x^3 / 10
+            max_rating *= 10/9.6
+            year['rating'] = max_rating * max_rating * max_rating / 10 - 5# x^3 / 10
 
         year['gap'] = year_gaps[year_no]
 
@@ -148,6 +148,6 @@ for director in films.values():
 # lowest rated films
 for year_no, year in years.iteritems():
     if year['oscar'] and year['best'] and year['oscar']['rating'] < year['best']['rating']:
-        print '\t'.join(str(s) for s in (year['best']['rating'] - year['oscar']['rating'], year_no, year['oscar']['rating'], year['oscar']['name'], year['oscar']['votes'], year['oscar_director'], year['best']['rating'], year['best']['name'], year['best']['votes'], year['best_director']))
+        pass#print '\t'.join(str(s) for s in (year['best']['rating'] - year['oscar']['rating'], year_no, year['oscar']['rating'], year['oscar']['name'], year['oscar']['votes'], year['oscar_director'], year['best']['rating'], year['best']['name'], year['best']['votes'], year['best_director']))
 
-#print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))
+print json.dumps(sorted(films.values(), key=lambda x: flat_order.index(x['name'])))

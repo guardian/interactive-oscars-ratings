@@ -87,7 +87,7 @@ $border-color: map-get($pasteup-palette, neutral-3);
     &::after {
         @include fs-data(1);
         color: map-get($pasteup-palette, neutral-3);
-        content: " of 10";
+        content: "/10";
 
     }
 }
