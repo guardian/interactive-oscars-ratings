@@ -23,20 +23,33 @@ define([
         timeline.push(i);
     }
 
+    winners.forEach(function (director, id) {
+        director.directorId = id;
+    });
+
+    winners.forEach(function (director) {
+        director.films = [].concat.apply([], director.year.map(function (year) {
+            return year.films;
+        }));
+    });
+
     function app(el, steps, furniture, worst) {
         var ractive = new Ractive({
             template: mainTemplate,
             el: el,
             data: {
-                'mode': 'tour',
+                'mode': window.location.hash === '#explore' ? 'explore' :'tour',
                 'furniture': furniture,
                 'worst': worst,
                 'timeline': timeline,
                 'steps': steps,
                 'nominees': nominees,
-                'nomineeIds': [0, 1, 2, 3, 4].map(function (i) { return { directorId: i }; }),
                 'winners': winners,
-                'winnerIds': winners.map(function (director, i) { return { directorId: i}; }),
+                'stepWinners': function (ids) {
+                    return winners.filter(function (director, id) {
+                        return ids.indexOf(id) !== -1;
+                    });
+                },
                 'isWeb': true//window.guardian !== undefined
             },
             components: {
@@ -72,6 +85,23 @@ define([
         ractive.on('timeline.hoverOut', function () { this.set('info', undefined); });
 
         ractive.on('mode', function (evt, mode) { this.set('mode', mode); });
+
+        ractive.on('search', function () {
+            var text = this.get('searchText');
+            winners.forEach(function (director, i) {
+                var nameMatch = director.name.toLowerCase().indexOf(text) !== -1;
+                var i, filmMatch = false;
+                for (i = 0; i < director.films.length; i++) {
+                    if (director.films[i].name.toLowerCase().indexOf(text) !== -1) {
+                        filmMatch = true;
+                        break;
+                    }
+                }
+
+                director.hide = !nameMatch && !filmMatch;
+            });
+            this.update('winners');
+        });
     }
 
     function init(el) {
@@ -84,7 +114,7 @@ define([
                 step.collapsed = step.collapsed === 'TRUE';
                 step.directorIds = step.directorids.split(',').
                     filter(function (id) { return id.length > 0; }).
-                    map(function (id) { return { directorId: parseInt(id) }; });
+                    map(function (id) { return parseInt(id); });
                 return step;
             });
 

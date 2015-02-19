@@ -43,6 +43,10 @@ p {
 }
 
 .header {
+    border-bottom: 1px solid map-get($pasteup-palette, neutral-1);
+}
+
+.header__inner {
     @include fs-bodyCopy(2);
     padding: ($gs-baseline * 4) 0 ($gs-baseline * 3);
     margin: 0 auto;
@@ -91,10 +95,6 @@ p {
     }
 }
 
-.headline--top {
-    border-top: 1px solid map-get($pasteup-palette, neutral-1);
-}
-
 .nominees {
     max-width: gs-span(8);
     margin: 0 auto;
@@ -106,6 +106,9 @@ p {
     margin: 0 auto;
     overflow: hidden;
     margin-bottom: ($gs-baseline * 4);
+    .step-1-nominees & {
+        margin-bottom: 0;
+    }
 }
 
 .timeline {
@@ -210,6 +213,7 @@ p {
     height: $lifeHeight;
     width: $lifeHeight;
     z-index: 1;
+    pointer-events: none;
 }
 
 .director__active {
@@ -281,23 +285,25 @@ p {
 
 .director__year__note {
     position: absolute;
-    bottom: 15px;
     left: 21px;
+    bottom: 10px;
+    padding-left: 0;
     pointer-events: none;
-    width: 90px;
+    width: 110px;
 
     img {
         display: none;
         position: absolute;
-        bottom: 0;
+        top: 0;
         left: 0;
-        width: 82px;
     }
 
-    padding-left: 0;
     @media (min-width: gs-span(8)) {
-        padding-left: 90px;
+        bottom: auto;
+        top: -65px;
+        padding-left: 82px;
         img {
+            width: 74px;
             display: block;
         }
     }
@@ -305,24 +311,36 @@ p {
 
 .note-1-1927,
 .note-57-2005 {
-    right: 21px;
+    width: 80px;
+    right: 15px;
     left: auto;
-    width: 38px;
+    bottom: 15px;
+    top: auto;
+    img {
+        display: none !important;
+    }
+}
+
+.note-1-1927 {
+    @media (max-width: gs-span(8)) {
+        right: -75px;
+        bottom: 47px;
+    }
+}
+
+.note-55-2002 {
+    @media (max-width: gs-span(8)) {
+        right: 0;
+        left: auto;
+    }
 }
 
 .timeline-note {
     @include f-data;
     position: absolute;
-    margin: 0 ($gs-gutter / 2);
+    margin: ($gs-baseline / 2) ($gs-gutter / 2);
     font-weight: bold;
-
-    &.timeline-note--left {
-        left: 51%;
-    }
-    &.timeline-note--right {
-        text-align: right;
-        right: 50%;
-    }
+    left: 51%;
 }
 
 .compare {
@@ -390,4 +408,42 @@ p {
     @include button-height(60px);
     font-size: 15px;
     float: right;
+}
+
+.explore__header {
+    display: table;
+    width: 100%;
+}
+
+.explore__headline {
+    display: table-cell;
+
+    p, h2 {
+        margin-left: 0;
+        padding-right: 0;
+    }
+}
+
+.explore__search {
+    display: table-cell;
+    width: 100%;
+    vertical-align: bottom;
+    padding-bottom: ($gs-baseline * 2);
+    text-align: right;
+
+    button {
+        padding: 0 $gs-gutter;
+    }
+}
+
+.explore__search__text {
+    @include fs-data(4);
+    border-radius: 100px;
+    height: 42px;
+    background-color: white;
+    margin: 0;
+    border: 1px solid map-get($pasteup-palette, neutral-5);
+    box-sizing: border-box;
+    padding: 0 $gs-gutter;
+    width: 300px;
 }

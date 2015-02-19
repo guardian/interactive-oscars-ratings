@@ -9,33 +9,31 @@
         {{/timeline}}
     </div>
 
-    {{#directorIds}}
-        {{#directors[directorId]}}
-            <div class="director">
-                <span class="director__info">
-                    <div class="director__info__name">{{name}}</div>
-                    <div class="director__info__birth">{{birth}} - {{death}}</div>
+    {{#directors}}
+        <div class="director"{{#mode == 'explore' && hide}} style="display: none"{{/hide}}>
+            <span class="director__info">
+                <div class="director__info__name">{{name}}</div>
+                <div class="director__info__birth">{{birth}} - {{death}}</div>
+            </span>
+            <span class="director__life{{#death}} director__life--dead{{/death}}"
+                 style="left: {{-scale[view] * yearw}}%; width: {{(end - birth + 1) * yearw}}%">
+            </span>
+            {{#death}}
+                <span class="director__active" style="left: {{(-scale[view] + end - birth + 1) * yearw}}%">
+                    Directed for {{active}} years
                 </span>
-                <span class="director__life{{#death}} director__life--dead{{/death}}"
-                     style="left: {{-scale[view] * yearw}}%; width: {{(end - birth + 1) * yearw}}%">
+            {{/death}}
+            {{#year}}
+                <span on-mouseover="hoverOver:{{this}},{{birth}}" on-mouseout="hoverOut"
+                      class="director__year{{#oscar}} director__year--oscar{{/oscar}}{{#view == 'oscar' && (yearNo - birth - scale[view]) < 50}} director__year--pre-oscar{{/view}}"
+                      style="height: {{rating}}%; left: {{(yearNo - birth - scale[view]) * yearw}}%; width: {{yearw}}%">
+                    {{#notes[directorId][yearNo]}}
+                        <span class="director__year__note note-{{directorId}}-{{yearNo}}">
+                            <img src="{assets}/imgs/posters/{{img}}" /> {{{note}}}
+                        </span>
+                    {{/notes}}
                 </span>
-                {{#death}}
-                    <span class="director__active" style="left: {{(-scale[view] + end - birth + 1) * yearw}}%">
-                        Directed for {{active}} years
-                    </span>
-                {{/death}}
-                {{#year}}
-                    <span on-mouseover="hoverOver:{{this}},{{birth}}" on-mouseout="hoverOut"
-                          class="director__year{{#oscar}} director__year--oscar{{/oscar}}{{#view == 'oscar' && (yearNo - birth - scale[view]) < 50}} director__year--pre-oscar{{/view}}"
-                          style="height: {{rating}}%; left: {{(yearNo - birth - scale[view]) * yearw}}%; width: {{yearw}}%">
-                        {{#notes[directorId][yearNo]}}
-                            <span class="director__year__note note-{{directorId}}-{{yearNo}}">
-                                <img src="{assets}/imgs/posters/{{img}}" /> {{{note}}}
-                            </span>
-                        {{/notes}}
-                    </span>
-                {{/year}}
-            </div>
-        {{/directors}}
-    {{/directorIds}}
+            {{/year}}
+        </div>
+    {{/directors}}
 </div>

@@ -1,28 +1,30 @@
 {{#isWeb}}
 <header class="header">
-    <h1>{{furniture[0].copy}}</h1>
-    {{#furniture[1].copy}}
-        <h2>{{furniture[1].copy}}</h2>
-    {{/h2}}
-    <p>{{furniture[2].copy}}</p>
-    <p class="header__byline">
-        By <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
-        <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
-        <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>
-    </p>
-    <p class="header__date">
-        Friday 20th Feburary 2015 10:00 GMT
-    </p>
+    <div class="header__inner">
+        <h1>{{furniture[0].copy}}</h1>
+        {{#furniture[1].copy}}
+            <h2>{{furniture[1].copy}}</h2>
+        {{/h2}}
+        <p>{{furniture[2].copy}}</p>
+        <p class="header__byline">
+            By <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
+            <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
+            <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>
+        </p>
+        <p class="header__date">
+            Friday 20th Feburary 2015 10:00 GMT
+        </p>
+    </div>
 </header>
 {{/isWeb}}
 
 {{#mode == 'tour'}}
-<div class="headline headline--top">
+<div class="headline">
     <h2>{{furniture[3].copy}}</h2>
     <p>{{furniture[4].copy}}</p>
 </div>
 <div class="nominees">
-    <timeline collapsed="true" maxAge="60" hlStart="40" hlSpan="10" directorIds="{{nomineeIds}}" directors="{{nominees}}" view="birth" />
+    <timeline collapsed="true" maxAge="60" hlStart="40" hlSpan="10" directors="{{nominees}}" view="birth" />
 </div>
 
 {{#steps:stepNo}}
@@ -51,13 +53,14 @@
             {{/worst}}
         {{else}}
             {{#stepNo == 1}}
-                <div class="timeline-note timeline-note--right">Up to nomination</div>
+                <div class="timeline-note">Up to nomination</div>
                 <div class="step-1-nominees">
-                    <timeline collapsed="{{collapsed}}" maxAge="100" directorIds="{{nomineeIds}}" directors="{{nominees}}" view="{{view}}" />
+                    <timeline maxAge="100" directors="{{nominees}}" view="{{view}}" />
                 </div>
-                <div class="timeline-note timeline-note--left">Since 1st Oscar</div>
+                <div class="timeline-note">Since 1st Oscar</div>
             {{/stepNo}}
-            <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" hlStart="0" hlSpan="0" directorIds="{{directorIds}}" directors="{{winners}}" view="{{view}}" />
+
+            <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" directors="{{stepWinners(directorIds)}}" view="{{view}}" />
         {{/if}}
     </div>
 {{/steps}}
@@ -71,11 +74,23 @@
 {{/mode}}
 
 <div class="explore" {{#mode != 'explore'}} style="display: none"{{/mode}}>
-    <div class="headline headline--top">
-        <h2>{{furniture[7].copy}}</h2>
-        <p>{{furniture[8].copy}}</p>
+    <div class="explore__header">
+        <div class="headline explore__headline">
+            <h2>{{furniture[7].copy}}</h2>
+            <p>{{furniture[8].copy}}</p>
+        </div>
+
+        <div class="explore__search">
+            <input class="explore__search__text" type="text" value="{{searchText}}" on-change="search"
+                   placeholder="Director or film name" />
+            <select>
+                <option>Age</option>
+                <option>10-20</option>
+            </select>
+        </div>
     </div>
-    <timeline maxAge="100" directorIds="{{winnerIds}}" directors="{{winners}}" view="birth" />
+
+    <timeline maxAge="100" directors="{{winners}}" view="birth" />
 </div>
 
 {{#info}}
