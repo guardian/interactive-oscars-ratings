@@ -23,11 +23,13 @@ define([
         timeline.push(i);
     }
 
-    function app(el, steps) {
+    function app(el, steps, furniture, worst) {
         var ractive = new Ractive({
             template: mainTemplate,
             el: el,
             data: {
+                'furniture': furniture,
+                'worst': worst,
                 'timeline': timeline,
                 'steps': steps,
                 'nominees': nominees,
@@ -73,7 +75,7 @@ define([
         iframeMessenger.enableAutoResize();
 
         pegasus(sheetUrl).then(function (spreadsheet) {
-            var steps = spreadsheet.sheets.copy.map(function (step) {
+            var steps = spreadsheet.sheets.steps.map(function (step) {
                 step.notes = {};
                 step.collapsed = step.collapsed === 'TRUE';
                 step.directorIds = step.directorids.split(',').
@@ -89,11 +91,12 @@ define([
                 }
                 step.notes[note.directorid][note.year] = {
                     'note': note.note,
-                    'left': note.left === 'TRUE'
+                    'left': note.left === 'TRUE',
+                    'img': note.img
                 };
             });
 
-            app(el, steps);
+            app(el, steps, spreadsheet.sheets.furniture, spreadsheet.sheets.worst);
         });
 
     }

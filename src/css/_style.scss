@@ -1,4 +1,3 @@
-$rowHeight: 90px;
 $lifeHeight: 6px;
 $oscarColor: #fab10b;
 
@@ -123,7 +122,7 @@ p {
 
 .director {
     position: relative;
-    height: $rowHeight;
+    height: 90px;
 
     &:hover {
         background-color: transparentize(map-get($pasteup-palette, guardian-brand-light), 0.8);
@@ -147,6 +146,10 @@ p {
 
     .nominees & {
         height: 45px;
+    }
+
+    .step-1 & {
+        height: 65px;
     }
 }
 
@@ -189,6 +192,21 @@ p {
     padding: 0 5px 0 10px;
 }
 
+@mixin year--oscar($img) {
+    &::after {
+        $width: 24px;
+        content: "";
+        position: absolute;
+        left: 50%;
+        width: $width;
+        height: round($width * 2.7);
+        bottom: 100%;
+        margin-left: -($width / 2);
+        background: no-repeat center bottom url($img);
+        background-size: contain;
+    }
+}
+
 .director__year {
     position: absolute;
     bottom: $lifeHeight;
@@ -204,22 +222,22 @@ p {
     .is-collapsed & {
         height: $lifeHeight !important;
     }
+
+    .step-1-nominees &:last-child {
+        @include year--oscar('../imgs/oscar-blue.svg');
+    }
 }
 
 .director__year--oscar {
+    @include year--oscar('../imgs/oscar.svg');
     background-color: $oscarColor;
+}
 
-    &::after {
-        $width: 24px;
-        content: "";
-        position: absolute;
-        left: 50%;
-        width: $width;
-        height: round($width * 2.7);
-        bottom: 100%;
-        margin-left: -($width / 2);
-        background: no-repeat center bottom url('../imgs/oscar.svg');
-        background-size: contain;
+.director__year--pre-oscar {
+    background-color: map-get($pasteup-palette, neutral-3);
+
+    .step-1-nominees & {
+        background-color: map-get($pasteup-palette, guardian-brand);
     }
 }
 
@@ -235,6 +253,7 @@ p {
         position: absolute;
         bottom: 0;
         left: 0;
+        width: 82px;
     }
 
     padding-left: 0;
@@ -252,6 +271,20 @@ p {
     width: 38px;
 }
 
+.timeline-note {
+    position: absolute;
+    margin: 0 ($gs-gutter / 2);
+    font-weight: bold;
+
+    &.timeline-note--left {
+        left: 51%;
+    }
+    &.timeline-note--right {
+        text-align: right;
+        right: 50%;
+    }
+}
+
 .compare {
     max-width: gs-span(8);
     margin: 0 auto;
@@ -264,13 +297,15 @@ p {
     width: 50%;
     box-sizing: border-box;
     float: left;
-    margin-top: $gs-baseline;
+    margin: $gs-baseline 0 ($gs-baseline * 3);
 
     &::before {
         content: "";
         float: left;
-        width: 20px;
+        width: 40px;
         height: 50px;
+        background: no-repeat center top;
+        background-size: contain;
     }
 
     img {
@@ -288,10 +323,18 @@ p {
     img {
         border: 5px solid $oscarColor;
     }
+
+    &::before {
+        background-image: url('../imgs/oscar.svg');
+    }
 }
 
 .compare__film--right {
     padding-left: $gs-gutter;
+
+    &::before {
+        background-image: url('../imgs/people.svg');
+    }
 }
 
 .compare__film__name {
@@ -302,7 +345,25 @@ p {
     color: map-get($pasteup-palette, guardian-brand);
 }
 
-.compare__film__rating::after {
-    color: map-get($pasteup-palette, neutral-3);
-    content: " of 10";
+.compare__film__rating {
+    font-weight: bold;
+
+    &::after {
+        color: map-get($pasteup-palette, neutral-3);
+        content: " of 10";
+        font-weight: normal;
+    }
+}
+
+.explore {
+    clear: both;
+    position: relative;
+}
+
+.explore__button {
+    @include button-height(80px);
+    font-size: 15px;
+    position: absolute;
+    top: ($gs-baseline * 4);
+    left: (gs-span(8) + $gs-gutter);
 }

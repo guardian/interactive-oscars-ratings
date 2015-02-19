@@ -1,14 +1,10 @@
 {{#isWeb}}
 <header class="header">
-    <h1>The perfect age to direct</h1>
-    <h2>according to the Oscars</h2>
-    <p>
-        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-    </p>
+    <h1>{{furniture[0].copy}}</h1>
+    {{#furniture[1].copy}}
+        <h2>{{furniture[1].copy}}</h2>
+    {{/h2}}
+    <p>{{furniture[2].copy}}</p>
     <p class="header__byline">
         By <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
         <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
@@ -21,8 +17,8 @@
 {{/isWeb}}
 
 <div class="headline">
-    <h2>Are the nominees the right age to win?</h2>
-    <p>List of nominees for this year</p>
+    <h2>{{furniture[3].copy}}</h2>
+    <p>{{furniture[4].copy}}</p>
 </div>
 <div class="nominees">
     <timeline collapsed="true" maxAge="60" hlStart="40" hlSpan="10" directorIds="{{nomineeIds}}" directors="{{nominees}}" view="birth" />
@@ -35,26 +31,41 @@
             <p>{{copy}}</p>
         </div>
         {{#if stepNo == 2}}
-            <div class="compare">
-                <div class="compare__year">1972</div>
-                <div class="compare__film compare__film--left">
-                    <div class="compare__film__name">Cabaret</div>
-                    <div class="compare__film__director">Bob Fosse</div>
-                    <img src="https://placekitten.com/289/209" />
-                    <div class="compare__film__rating">5.1</div>
+            {{#worst}}
+                <div class="compare">
+                    <div class="compare__year">{{year}}</div>
+                    <div class="compare__film compare__film--left">
+                        <div class="compare__film__name">{{oscarname}}</div>
+                        <div class="compare__film__director">{{oscardirector}}</div>
+                        <img src="{assets}/imgs/posters/{{oscarimg}}" />
+                        <div class="compare__film__rating">{{oscarrating}}</div>
+                    </div>
+                    <div class="compare__film compare__film--right">
+                        <div class="compare__film__name">{{bestname}}</div>
+                        <div class="compare__film__director">{{bestdirector}}</div>
+                        <img src="{assets}/imgs/posters/{{bestimg}}" />
+                        <div class="compare__film__rating">{{bestrating}}</div>
+                    </div>
                 </div>
-                <div class="compare__film compare__film--right">
-                    <div class="compare__film__name">Cabaret</div>
-                    <div class="compare__film__director">Bob Fosse</div>
-                    <img src="https://placekitten.com/289/209" />
-                    <div class="compare__film__rating">5.1</div>
-                </div>
-            </div>
+            {{/worst}}
         {{else}}
+            {{#stepNo == 1}}
+                <div class="timeline-note timeline-note--right">Up to nomination</div>
+                <div class="step-1-nominees">
+                    <timeline collapsed="{{collapsed}}" maxAge="100" directorIds="{{nomineeIds}}" directors="{{nominees}}" view="{{view}}" />
+                </div>
+                <div class="timeline-note timeline-note--left">Since 1st Oscar</div>
+            {{/stepNo}}
             <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" hlStart="40" hlSpan="10" directorIds="{{directorIds}}" directors="{{winners}}" view="{{view}}" />
         {{/if}}
     </div>
 {{/steps}}
+
+<div class="explore headline">
+    <h2>{{furniture[5].copy}}</h2>
+    <p>{{furniture[6].copy}}</p>
+    <button class="button button--primary explore__button" on-click="explore">Explore</button>
+</div>
 
 {{#info}}
     <div class="info" style="left: {{x}}px; bottom: {{y}}px">

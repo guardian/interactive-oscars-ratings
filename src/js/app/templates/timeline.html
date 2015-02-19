@@ -26,11 +26,11 @@
                 {{/death}}
                 {{#year}}
                     <span on-mouseover="hoverOver:{{this}},{{birth}}"
-                         class="director__year{{#oscar}} director__year--oscar{{/oscar}}"
-                         style="height: {{rating}}%; left: {{(yearNo - birth - scale[view]) * yearw}}%; width: {{yearw}}%">
+                          class="director__year{{#oscar}} director__year--oscar{{/oscar}}{{#view == 'oscar' && (yearNo - birth - scale[view]) < 50}} director__year--pre-oscar{{/view}}"
+                          style="height: {{rating}}%; left: {{(yearNo - birth - scale[view]) * yearw}}%; width: {{yearw}}%">
                         {{#notes[directorId][yearNo]}}
                             <span class="director__year__note{{#left}} director__year__note--left{{/left}}">
-                                <img src="https://placekitten.com/82/60" /> {{{note}}}
+                                <img src="{assets}/imgs/posters/{{img}}" /> {{{note}}}
                             </span>
                         {{/notes}}
                     </span>
