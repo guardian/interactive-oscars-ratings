@@ -6,9 +6,13 @@ from itertools import islice
 low_color = [255, 255, 255];
 hi_color = [0, 69, 110];
 
+def data_in():
+    sys.stdin.seek(0)
+    return csv.reader(sys.stdin, delimiter='\t')
+
 # 1st oscars has 2 winners
 order = [[] for i in xrange(86)]
-for film in csv.reader(sys.stdin, delimiter='\t'):
+for film in data_in():
     _, _, _, director_name, _, _, _, oscar, _, _, _ = film
     m = re.search('\(([0-9]+)..\)', oscar)
     if m:
@@ -17,6 +21,10 @@ for film in csv.reader(sys.stdin, delimiter='\t'):
 
 flat_order = [item for sublist in order for item in sublist]
 dedup_order = list(OrderedDict.fromkeys(flat_order))
+
+# no oscar winners
+if len(flat_order) == 0:
+    flat_order = [film[3] for film in data_in()]
 
 films = {}
 
@@ -32,7 +40,7 @@ def window(seq, n):
         yield result
 
 sys.stdin.seek(0)
-for film in csv.reader(sys.stdin, delimiter='\t'):
+for film in data_in():
     director_birth, director_death, birth_place, director_name, film_year, film_name, url, oscar, rating, votes, best_picture = film
     film_year = int(film_year)
 

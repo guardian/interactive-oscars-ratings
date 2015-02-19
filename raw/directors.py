@@ -1,14 +1,16 @@
 #!/usr/bin/python
 import sys, os, bs4, csv, json, re
 
+directory = sys.argv[1]
+
 best_picture = [line.strip() for line in open('data/best-picture.txt')]
 awards = {award[2]: award[0] for award in csv.reader(open('data/awards.tsv'), delimiter='\t')}
 omdb = {film['imdbID']: film for film in json.load(open('data/omdb.json'))}
 
 w = csv.writer(sys.stdout, delimiter='\t', lineterminator='\n')
 
-for fn in os.listdir('directors/'):
-    soup = bs4.BeautifulSoup(open('directors/%s' % fn).read(), 'html5lib')
+for fn in os.listdir(directory + '/'):
+    soup = bs4.BeautifulSoup(open('%s/%s' % (directory, fn)).read(), 'html5lib')
     overview = soup.find(id='overview-top')
 
     name = overview.h1.span.text.encode('utf-8')
