@@ -1,6 +1,6 @@
 define([
     'iframe-messenger',
-    'json!data/films.json',
+    'json!data/winners.json',
     'json!data/nominees.json',
     'text!templates/template.html',
     'text!templates/timeline.html',
@@ -8,7 +8,7 @@ define([
     'pegasus'
 ], function(
     iframeMessenger,
-    directors,
+    winners,
     nominees,
     mainTemplate,
     timelineTemplate,
@@ -32,7 +32,7 @@ define([
                 'steps': steps,
                 'nominees': nominees,
                 'nomineeIds': [0, 1, 2, 3, 4].map(function (i) { return { directorId: i }; }),
-                'directors': directors,
+                'winners': winners,
                 'isWeb': true//window.guardian !== undefined
             },
             components: {
