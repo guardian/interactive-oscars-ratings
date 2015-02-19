@@ -418,26 +418,15 @@ p {
     }
 }
 
-.explore-promo > p,
-.explore-promo > h2 {
-    position: relative;
-    @media (min-width: gs-span(8)) {
-        width: gs-span(6);
-        padding-right: (gs-span(2) + $gs-gutter);
-    }
-}
-
-.explore-promo__button {
-    float: none !important;
-    display: block;
-    width: 120px;
-    margin-top: $gs-baseline;
-
-    @media (min-width: gs-span(8)) {
-        position: absolute;
-        margin-top: 0;
-        right: 0;
-        top: 0;
+.explore-promo {
+    border-top: 1px solid map-get($pasteup-palette, neutral-1);
+    & > p,
+    & > h2 {
+        position: relative;
+        @media (min-width: gs-span(8)) {
+            width: gs-span(6);
+            padding-right: (gs-span(2) + $gs-gutter);
+        }
     }
 }
 
@@ -448,6 +437,44 @@ p {
     float: right;
     margin-right: 0;
     margin-bottom: $gs-baseline;
+
+    &::before {
+        content: "";
+        display: inline-block;
+        background-image: url('../imgs/arrow-left.svg');
+        width: 25px;
+        height: 24px;
+        vertical-align: text-bottom;
+        margin-right: 6px;
+    }
+}
+
+.explore-promo__button {
+    float: none;
+    display: block;
+    width: 120px;
+    margin-top: $gs-baseline;
+
+    @media (min-width: gs-span(8)) {
+        position: absolute;
+        margin-top: 0;
+        right: 0;
+        top: 0;
+    }
+
+    &::before {
+        display: none;
+    }
+
+    &::after {
+        content: "";
+        display: inline-block;
+        background-image: url('../imgs/arrow-right.svg');
+        width: 25px;
+        height: 24px;
+        vertical-align: text-bottom;
+        margin-left: 6px;
+    }
 }
 
 .explore__header {
@@ -456,7 +483,9 @@ p {
 }
 
 .explore__headline {
-    display: table-cell;
+    @media (min-width: gs-span(11)) {
+        display: table-cell;
+    }
 
     p, h2 {
         margin-left: 0;
@@ -465,11 +494,14 @@ p {
 }
 
 .explore__search {
-    display: table-cell;
     width: 100%;
     vertical-align: bottom;
     padding-bottom: ($gs-baseline * 2);
-    text-align: right;
+
+    @media (min-width: gs-span(11)) {
+        text-align: right;
+        display: table-cell;
+    }
 
     button {
         outline: 0;
@@ -488,6 +520,9 @@ p {
     border: 1px solid map-get($pasteup-palette, neutral-5);
     box-sizing: border-box;
     padding: 0 $gs-gutter;
-    width: 300px;
     outline: 0;
+    width: 150px;
+    @media (min-width: gs-span(6)) {
+        width: 300px;
+    }
 }
