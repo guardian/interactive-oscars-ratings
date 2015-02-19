@@ -5,7 +5,7 @@
         {{#furniture[1].copy}}
             <h2>{{furniture[1].copy}}</h2>
         {{/h2}}
-        <p>{{furniture[2].copy}}</p>
+        <p {{#mode == 'explore'}}class="explore__hide"{{/mode}}>{{{furniture[2].copy}}}</p>
         <p class="header__byline">
             <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
             <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
@@ -61,6 +61,7 @@
             {{/stepNo}}
 
             <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" directors="{{stepWinners(directorIds)}}" view="{{view}}" />
+            <a href="#tour" calss="button button--primary">Back to story</a>
         {{/if}}
     </div>
 {{/steps}}
@@ -69,7 +70,7 @@
     <h2>{{furniture[5].copy}}</h2>
     <p>{{furniture[6].copy}}</p>
 
-    <button class="button button--primary explore__button" on-click="mode:explore">Explore</button>
+    <a href="#explore" class="button button--primary explore__button">Explore</a>
 </div>
 {{/mode}}
 
@@ -77,7 +78,7 @@
     <div class="explore__header">
         <div class="headline explore__headline">
             <h2>{{furniture[7].copy}}</h2>
-            <p>{{furniture[8].copy}}</p>
+            <p>{{{furniture[8].copy}}}</p>
         </div>
 
         <div class="explore__search">
@@ -97,9 +98,9 @@
         <span class="info__year">{{year}}</span>
         <span class="info__age">{{age}} years old</span>
         <table class="info__films">
-            {{#films}}
+            {{#films:i}}
                 <tr>
-                    <td {{#oscar}}class="info__films__oscar"{{/oscar}}>{{name}}</td>
+                    <td class="{{#i == 0 && films.length > 1}}info__films--top{{/i}} {{#oscar}}info__films--oscar{{/oscar}}">{{name}}</td>
                     <td class="info__films__rating">{{rating}}</td>
                 </tr>
             {{/films}}

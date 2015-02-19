@@ -45,6 +45,10 @@ p {
     border-bottom: 1px solid map-get($pasteup-palette, neutral-1);
 }
 
+.explore__hide span {
+    display: none;
+}
+
 .header__inner {
     @include fs-bodyCopy(2);
     padding: ($gs-baseline * 4) 0 ($gs-baseline * 3);

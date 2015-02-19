@@ -107,6 +107,11 @@ define([
             });
             this.update('winners');
         });
+
+        window.addEventListener('hashchange', function () {
+            ractive.set('mode', window.location.hash === '#explore' ? 'explore' : 'tour');
+            window.scrollTo(0, 0);
+        });
     }
 
     function init(el) {

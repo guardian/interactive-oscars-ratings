@@ -85,14 +85,13 @@ for director in films.values():
 
     # find gaps between years, including birth - first film
     ordered_years = [director['birth'] - 1] + sorted(director['year'].keys())
-    year_gaps = dict(map(lambda (a, b): (b, b - a - 1), tuple(window(ordered_years, n=2))))
 
     first_oscar = 3000
     first_oscar_rating = 0
     for year_no, year in director['year'].iteritems():
         year['yearNo'] = year_no # add year_no to item as below we change the dict into a list
 
-        all_films = year['films']
+        all_films = sorted(year['films'], key=lambda film: film.get('rating', 0), reverse=True)
 
         rated_films = filter(lambda film: 'rating' in film, all_films)
         if len(rated_films) > 0:
@@ -105,22 +104,26 @@ for director in films.values():
 
         oscar_film = filter(lambda film: 'oscar' in film, all_films)
         if len(oscar_film) > 0:
-            max_rating = oscar_film[0]['rating'] # override for oscar winning year
+            oscar_film = oscar_film[0]
+            if len(all_films) > 1:
+                all_films.remove(oscar_film)
+                all_films.insert(0, oscar_film)
+            max_rating = oscar_film['rating'] # override for oscar winning year
 
-            years[year_no]['oscar'] = oscar_film[0]
+            years[year_no]['oscar'] = oscar_film
             years[year_no]['oscar_director'] = director['name']
 
             first_oscar = min(first_oscar, year_no)
             if first_oscar == year_no:
                 first_oscar_rating = max_rating
             year['oscar'] = True
-            year['bestPicture'] = oscar_film[0]['bestPicture']
+            year['bestPicture'] = oscar_film['bestPicture']
 
         if max_rating:
             max_rating *= 10/9.6
             year['rating'] = max_rating * max_rating * max_rating / 10 - 5# x^3 / 10
 
-        year['gap'] = year_gaps[year_no]
+        year['films'] = all_films
 
     if first_oscar == 3000:
         director['scale']['oscar'] = ordered_years[-1] - director['birth'] - 50
