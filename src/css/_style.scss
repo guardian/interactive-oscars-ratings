@@ -111,18 +111,25 @@ p {
     top: 10px;
     height: 100%;
     box-sizing: border-box;
+
+    &:nth-child(even) {
+        display: none;
+
+        @media (min-width: gs-span(8)) {
+            display: block;
+        }
+    }
 }
 
 .timeline__hl {
     position: absolute;
-    background-color: map-get($pasteup-palette, neutral-7);
+    background-color: #fef3c4;
     top: 0;
     height: 100%;
 }
 
 .director {
     position: relative;
-    height: 90px;
 
     &:hover {
         background-color: transparentize(map-get($pasteup-palette, guardian-brand-light), 0.8);
@@ -146,6 +153,13 @@ p {
 
     .nominees & {
         height: 45px;
+    }
+
+    .step-0 & {
+        height: 70px;
+        @media (min-width: gs-span(8)) {
+            height: 90px;
+        }
     }
 
     .step-1 & {
@@ -176,12 +190,13 @@ p {
     content: "";
     position: absolute;
     background-color: map-get($pasteup-palette, neutral-6);
-    border: $lifeHeight solid map-get($pasteup-palette, neutral-3);
+    border: 4px solid map-get($pasteup-palette, neutral-3);
     border-radius: 100px;
     right: -$lifeHeight;
-    top: -$lifeHeight;
+    top: -$lifeHeight + 2px;
     height: $lifeHeight;
     width: $lifeHeight;
+    z-index: 1;
 }
 
 .director__active {
@@ -190,6 +205,11 @@ p {
     right: 0;
     bottom: $lifeHeight;
     padding: 0 5px 0 10px;
+
+    display: none;
+    @media (min-width: gs-span(8)) {
+        display: block;
+    }
 }
 
 @mixin year--oscar($img) {
@@ -209,7 +229,7 @@ p {
 
 .director__year {
     position: absolute;
-    bottom: $lifeHeight;
+    bottom: 0;
     width: 1%;
     box-sizing: border-box;
     background-color: map-get($pasteup-palette, guardian-brand);
@@ -223,7 +243,8 @@ p {
         height: $lifeHeight !important;
     }
 
-    .step-1-nominees &:last-child {
+    .step-1-nominees &:last-child,
+    .nominees &:last-child {
         @include year--oscar('../imgs/oscar-blue.svg');
     }
 }
@@ -265,7 +286,8 @@ p {
     }
 }
 
-.director__year__note--left {
+.note-1-1927,
+.note-57-2005 {
     right: 21px;
     left: auto;
     width: 38px;
@@ -361,7 +383,7 @@ p {
 }
 
 .explore__button {
-    @include button-height(80px);
+    @include button-height(60px);
     font-size: 15px;
     position: absolute;
     top: ($gs-baseline * 4);
