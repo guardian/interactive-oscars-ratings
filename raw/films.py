@@ -114,8 +114,9 @@ for director in films.values():
     director['scale']['oscar'] = -(54 - (first_oscar - director['birth']))
     director['scale']['birth'] = 0
 
-    director['activeYears'] = ordered_years[-1] - ordered_years[1]
+    director['active'] = ordered_years[-1] - ordered_years[1]
 
+    # calculate post-oscar ratings
     total_rating = 0
     total_films = 0
     for year_no, year in director['year'].iteritems():

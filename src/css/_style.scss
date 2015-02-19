@@ -210,7 +210,7 @@ p {
     background-color: $oscarColor;
 
     &::after {
-        $width: 12px;
+        $width: 24px;
         content: "";
         position: absolute;
         left: 50%;

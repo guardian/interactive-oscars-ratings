@@ -68,19 +68,17 @@ define([
         iframeMessenger.enableAutoResize();
 
         pegasus(sheetUrl).then(function (spreadsheet) {
-            var steps = spreadsheet.sheets.copy.map(function (row) {
-                row.collapsed = row.collapsed === 'TRUE';
-                row.directorIds = row.directorids.split(',').
+            var steps = spreadsheet.sheets.copy.map(function (step) {
+                step.notes = {};
+                step.collapsed = step.collapsed === 'TRUE';
+                step.directorIds = step.directorids.split(',').
                     filter(function (id) { return id.length > 0; }).
                     map(function (id) { return { directorId: parseInt(id) }; });
-                return row;
+                return step;
             });
 
             spreadsheet.sheets.notes.forEach(function (note) {
                 var step = steps[note.step];
-                if (!step.notes) {
-                    step.notes = {};
-                }
                 if (!step.notes[note.directorid]) {
                     step.notes[note.directorid] = {};
                 }
