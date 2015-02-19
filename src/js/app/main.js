@@ -33,6 +33,9 @@ define([
         }));
     });
 
+    var directors = winners.concat(nominees);
+    directors.reverse();
+
     function app(el, steps, furniture, worst) {
         var ractive = new Ractive({
             template: mainTemplate,
@@ -44,7 +47,7 @@ define([
                 'timeline': timeline,
                 'steps': steps,
                 'nominees': nominees,
-                'winners': winners,
+                'directors': directors,
                 'stepWinners': function (ids) {
                     return winners.filter(function (director, id) {
                         return ids.indexOf(id) !== -1;
@@ -86,7 +89,9 @@ define([
 
         ractive.on('mode', function (evt, mode) { this.set('mode', mode); });
 
-        ractive.on('search', function () {
+        ractive.on('search', function (evt) {
+            evt.original.preventDefault();
+
             var text = this.get('searchText');
             winners.forEach(function (director, i) {
                 var nameMatch = director.name.toLowerCase().indexOf(text) !== -1;

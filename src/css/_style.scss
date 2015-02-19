@@ -1,5 +1,4 @@
 $lifeHeight: 6px;
-$oscarColor: #fab10b;
 
 body,
 .interactive {
@@ -264,6 +263,11 @@ p {
         height: $lifeHeight !important;
     }
 
+    .explore .director-0 > &:last-child,
+    .explore .director-1 > &:last-child,
+    .explore .director-2 > &:last-child,
+    .explore .director-3 > &:last-child,
+    .explore .director-4 > &:last-child,
     .step-1-nominees &:last-child,
     .nominees &:last-child {
         @include year--oscar('../imgs/oscar-blue.svg');
@@ -432,7 +436,10 @@ p {
     text-align: right;
 
     button {
+        outline: 0;
         padding: 0 $gs-gutter;
+        margin-left: ($gs-baseline / 2);
+        margin-right: 0;
     }
 }
 
@@ -446,4 +453,5 @@ p {
     box-sizing: border-box;
     padding: 0 $gs-gutter;
     width: 300px;
+    outline: 0;
 }

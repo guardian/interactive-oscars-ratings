@@ -7,7 +7,7 @@
         {{/h2}}
         <p>{{furniture[2].copy}}</p>
         <p class="header__byline">
-            By <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
+            <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
             <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
             <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>
         </p>
@@ -81,16 +81,15 @@
         </div>
 
         <div class="explore__search">
-            <input class="explore__search__text" type="text" value="{{searchText}}" on-change="search"
-                   placeholder="Director or film name" />
-            <select>
-                <option>Age</option>
-                <option>10-20</option>
-            </select>
+            <form on-submit="search">
+                <input class="explore__search__text" type="text" value="{{searchText}}"
+                       placeholder="Director or film name" />
+                <button class="button button--secondary button--xlarge">Search</button>
+            </form>
         </div>
     </div>
 
-    <timeline maxAge="100" directors="{{winners}}" view="birth" />
+    <timeline hlStart="40" hlSpan="10" maxAge="100" directors="{{directors}}" view="birth" />
 </div>
 
 {{#info}}
@@ -99,8 +98,8 @@
         <span class="info__age">{{age}} years old</span>
         <table class="info__films">
             {{#films}}
-                <tr {{#oscar}}class="info__films__oscar"{{/oscar}}>
-                    <td>{{name}}</td>
+                <tr>
+                    <td {{#oscar}}class="info__films__oscar"{{/oscar}}>{{name}}</td>
                     <td class="info__films__rating">{{rating}}</td>
                 </tr>
             {{/films}}

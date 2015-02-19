@@ -1,6 +1,6 @@
 $arrow-size: 10px;
 $bg-color: white;//map-get($pasteup-palette, neutral-8);
-$border-color: map-get($pasteup-palette, neutral-3);
+$border-color: map-get($pasteup-palette, neutral-5);
 
 @mixin info-arrow($color, $size) {
     content: "";
@@ -24,7 +24,7 @@ $border-color: map-get($pasteup-palette, neutral-3);
     z-index: 2;
     border: 1px solid $border-color;
     box-sizing: border-box;
-    box-shadow: 0px 0px 8px map-get($pasteup-palette, neutral-3);
+    box-shadow: 0px 0px 8px map-get($pasteup-palette, neutral-5);
     pointer-events: none;
     margin-bottom: -18px;
     width: 200px;
@@ -76,7 +76,16 @@ $border-color: map-get($pasteup-palette, neutral-3);
     }
 }
 
-.info__films__oscar {
+.info__films__oscar::after {
+    display: inline-block;
+    vertical-align: middle;
+    content: "";
+    background-color: $oscarColor;
+    margin-left: 3px;
+    margin-top: -2px;
+    border-radius: 5px;
+    width: 8px;
+    height: 8px;
 }
 
 .info__films__rating {

@@ -9,8 +9,8 @@
         {{/timeline}}
     </div>
 
-    {{#directors}}
-        <div class="director"{{#mode == 'explore' && hide}} style="display: none"{{/hide}}>
+    {{#directors:i}}
+        <div class="director director-{{i}}"{{#mode == 'explore' && hide}} style="display: none"{{/hide}}>
             <span class="director__info">
                 <div class="director__info__name">{{name}}</div>
                 <div class="director__info__birth">{{birth}} - {{death}}</div>
