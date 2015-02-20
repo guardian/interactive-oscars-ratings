@@ -430,19 +430,34 @@ p {
     float: left;
     margin: $gs-baseline 0 ($gs-baseline * 3);
 
+    font-weight: bold;
+    @include fs-data(4);
+
     &::before {
         content: "";
         float: left;
-        width: 40px;
-        height: 40px;
+        width: 20px;
+        height: 20px;
         margin-right: $gs-baseline;
+    }
+
+    @media (min-width: gs-span(8)) {
+        @include fs-data(6, $size-only: true);
+        &::before {
+            width: 40px;
+            height: 40px;
+        }
     }
 
     img {
         display: block;
         width: 100%;
         box-sizing: border-box;
-        margin: $gs-baseline 0;
+
+        margin: ($gs-baseline / 2) 0;
+        @media (min-width: gs-span(8)) {
+            margin: $gs-baseline 0;
+        }
     }
 }
 
@@ -464,25 +479,21 @@ p {
 
 }
 
-.compare__film__name {
-    @include fs-data(6);
-    font-weight: bold;
-}
-
 .compare__film__director {
+    @include f-bodyCopy;
     color: map-get($pasteup-palette, guardian-brand);
+    font-weight: normal;
+    font-size: 13px;
+    @media (min-width: gs-span(8)) {
+        font-size: 15px;
+    }
 }
 
-.compare__film__rating {
-    @include fs-data(6);
-    font-weight: bold;
-
-    &::after {
-        color: map-get($pasteup-palette, neutral-3);
-        @include fs-data(4, $size-only: true);
-        content: "/10";
-        font-weight: normal;
-    }
+.compare__film__rating::after{
+    @include fs-data(4, $size-only: true);
+    color: map-get($pasteup-palette, neutral-3);
+    content: "/10";
+    font-weight: normal;
 }
 
 .explore-promo {
