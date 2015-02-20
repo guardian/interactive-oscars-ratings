@@ -510,6 +510,7 @@ p {
     float: right;
     margin-right: 0;
     margin-bottom: $gs-baseline;
+    white-space: nowrap;
 
     &::before {
         content: "";
