@@ -100,10 +100,32 @@ define([
             evt.original.preventDefault();
 
             var text = this.get('searchText');
-            directors.forEach(function (director, i) {
+            directors.forEach(function (director) {
                 director.hide = director.name.toLowerCase().indexOf(text) === -1;
             });
             this.update('winners');
+        });
+
+        ractive.on('share', function (evt, network) {
+            var twitterBaseUrl = 'https://twitter.com/intent/tweet?text=';
+            var twitterMessage = 'What it really means to win the #Oscars’ best director';
+            var facebookBaseUrl = 'https://www.facebook.com/sharer/sharer.php?ref=responsive&u=';
+            var googleBaseUrl = 'https://plus.google.com/share?url=';
+            var emailSubject = 'What it really means to win the Oscars’ best director';
+            var url = encodeURIComponent(window.location.href);
+            var shareWindow;
+
+            if (network === 'twitter') {
+                shareWindow = twitterBaseUrl + encodeURIComponent(twitterMessage + ' ') + url;
+            } else if (network === 'facebook') {
+                shareWindow = facebookBaseUrl + url;
+            } else if (network === 'email') {
+                shareWindow = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + url;
+            } else if (network === 'google') {
+                shareWindow = googleBaseUrl + url;
+            }
+
+            window.open(shareWindow, network + 'share', 'width=640,height=320');
         });
 
         window.addEventListener('hashchange', function () {
