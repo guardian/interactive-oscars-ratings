@@ -53,6 +53,7 @@ define([
                         return ids.indexOf(id) !== -1;
                     });
                 },
+                'exploreExpanded': true,
                 'isWeb': true//window.guardian !== undefined
             },
             components: {

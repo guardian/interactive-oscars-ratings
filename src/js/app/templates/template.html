@@ -93,6 +93,10 @@
 
         <div class="explore__search">
             <form on-submit="search">
+                <label class="explore__search__imdb">
+                    Show IMDb rating
+                    <input type="checkbox" checked="{{exploreExpanded}}" />
+                </label>
                 <input class="explore__search__text" type="text" value="{{searchText}}"
                        placeholder="Director" />
                 <button class="button button--secondary button--xlarge">Search</button>
@@ -101,7 +105,7 @@
     </div>
 
     <span class="imdb-note">Bar height indicates the highest IMDb rating</span>
-    <timeline hlStart="40" hlSpan="10" maxAge="100" directors="{{directors}}" view="birth" />
+    <timeline collapsed="{{!exploreExpanded}}" hlStart="40" hlSpan="10" maxAge="100" directors="{{directors}}" view="birth" />
 
     <a href="#tour" class="button button--primary explore-button">Back to story</a>
 </div>
