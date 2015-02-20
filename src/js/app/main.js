@@ -108,7 +108,7 @@ define([
             directors.forEach(function (director) {
                 director.hide = director.name.toLowerCase().indexOf(text) === -1;
             });
-            this.update('winners');
+            this.update('directors');
         });
 
         ractive.on('share', function (evt, network) {
