@@ -228,6 +228,7 @@ p {
     color: map-get($pasteup-palette, neutral-2);
     padding-top: 15px;
     height: 30px;
+    margin: 0 !important; // Override NGW
     position: static !important; // Override NGW
 }
 
