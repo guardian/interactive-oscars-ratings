@@ -248,6 +248,10 @@ p {
     @include f-bodyCopy;
     line-height: 1;
     color: map-get($pasteup-palette, guardian-brand);
+    position: relative;
+    z-index: 2;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 2px;
 }
 .director__info__birth {
     color: map-get($pasteup-palette, neutral-2);
@@ -435,10 +439,21 @@ p {
 
     &::before {
         content: "";
-        float: left;
+        display: block;
         width: 20px;
         height: 20px;
-        margin-right: $gs-baseline;
+        margin-bottom: 2px;
+    }
+
+    @media (min-width: gs-span(6)) {
+        &::before {
+            float: left;
+            width: 30px;
+            height: 30px;
+            margin-right: ($gs-baseline / 2);
+            margin-bottom: 0;
+        }
+
     }
 
     @media (min-width: gs-span(8)) {
@@ -446,6 +461,7 @@ p {
         &::before {
             width: 40px;
             height: 40px;
+            margin-right: $gs-baseline;
         }
     }
 
@@ -463,7 +479,10 @@ p {
 
 .compare__film--left {
     border-right: 1px dashed map-get($pasteup-palette, neutral-4);
-    padding-right: $gs-gutter;
+    padding-right: ($gs-gutter / 2);
+    @media (min-width: gs-span(6)) {
+        padding-right: $gs-gutter;
+    }
 
     &::before {
         background-image: url('../imgs/icons-oscar-choice.svg');
@@ -471,7 +490,10 @@ p {
 }
 
 .compare__film--right {
-    padding-left: $gs-gutter;
+    padding-left: ($gs-gutter / 2);
+    @media (min-width: gs-span(6)) {
+        padding-left: $gs-gutter;
+    }
 
     &::before {
         background-image: url('../imgs/icons-peoples-choice.svg');
