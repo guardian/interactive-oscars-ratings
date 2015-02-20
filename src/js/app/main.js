@@ -60,7 +60,7 @@ define([
                     return subset;
                 },
                 'exploreExpanded': true,
-                'isWeb': true//window.guardian !== undefined
+                'isWeb': window.guardian !== undefined
             },
             components: {
                 'timeline': Ractive.extend({
