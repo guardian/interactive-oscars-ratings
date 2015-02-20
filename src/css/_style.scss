@@ -61,6 +61,7 @@ h2 {
 
 p {
     margin: 0 0 $gs-baseline;
+    @include fs-bodyCopy(2);
 }
 
 .nav {
