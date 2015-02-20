@@ -705,6 +705,9 @@ p {
     padding-right: ($gs-gutter);
     input {
         vertical-align: middle;
+        float: none !important; // Override NGW
+        margin: 0 !important; // Override NGW
+        height: auto !important; // Override NGW
     }
 }
 
