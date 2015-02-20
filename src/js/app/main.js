@@ -65,17 +65,17 @@ define([
             }
         });
 
-        function offset(node, end, x, y) {
-            if (node === end) {
+        function offset(node, x, y) {
+            if (node === el) {
                 return [x, y];
             } else {
-                return offset(node.offsetParent, end, x + node.offsetLeft, y + node.offsetTop);
+                return offset(node.offsetParent, x + node.offsetLeft, y + node.offsetTop);
             }
         }
 
         ractive.on('timeline.hoverOver', function (evt, directorYear, directorBirth) {
             var node = evt.node;
-            var coords = offset(node, el, 0, 0);
+            var coords = offset(node, 0, 0);
             this.set('info', {
                 'films': directorYear.films,
                 'year': directorYear.yearNo,

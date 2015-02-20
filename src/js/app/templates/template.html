@@ -109,6 +109,10 @@
         <span class="info__year">{{year}}</span>
         <span class="info__age">{{age}} years old</span>
         <table class="info__films">
+            <tr>
+                <th>Title</th>
+                <th style="text-align: right">IMDb rating</th>
+            </tr>
             {{#films:i}}
                 <tr>
                     <td class="{{#i == 0 && films.length > 1}}info__films--top{{/i}} {{#oscar}}info__films--oscar{{/oscar}}">{{name}}</td>
