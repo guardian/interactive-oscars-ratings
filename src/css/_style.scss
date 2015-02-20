@@ -406,7 +406,6 @@ p {
 .imdb-note,
 .timeline-note {
     @include fs-data(4);
-    font-weight: bold;
 }
 
 .imdb-note {
@@ -414,6 +413,7 @@ p {
 }
 
 .timeline-note {
+    font-weight: bold;
     position: absolute;
     margin: ($gs-baseline / 2) ($gs-gutter / 2);
     left: 51%;
