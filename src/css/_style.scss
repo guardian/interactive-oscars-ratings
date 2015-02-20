@@ -12,6 +12,14 @@ body,
     position: relative; // For tooltip
 }
 
+figure.element-interactive{
+    margin:0
+}
+#article-body.interactivePadding{
+    padding-left:0;
+    padding-right:0;
+}
+
 .container {
     max-width: gs-span(16);
     margin: 0 auto;
@@ -21,10 +29,6 @@ body,
         padding: 0 $gs-gutter $gs-gutter;
     }
     background-color: white;
-
-    &.is-app {
-        padding: 0 !important;
-    }
 }
 
 .container-inner {
@@ -62,6 +66,10 @@ h2 {
 p {
     margin: 0 0 $gs-baseline;
     @include fs-bodyCopy(2);
+}
+
+a {
+    text-shadow: none !important; // Override apps
 }
 
 .nav {

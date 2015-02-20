@@ -37,6 +37,11 @@ define([
     directors.reverse();
 
     function app(el, steps, furniture, worst) {
+        var body = document.getElementById('article-body');
+        if (body) {
+            body.className += ' interactivePadding';
+        }
+
         var ractive = new Ractive({
             template: mainTemplate,
             el: el,
