@@ -113,10 +113,10 @@ define([
 
         ractive.on('share', function (evt, network) {
             var twitterBaseUrl = 'https://twitter.com/intent/tweet?text=';
-            var twitterMessage = 'What it really means to win the #Oscars’ best director';
+            var twitterMessage = '#Oscars 2015: Does winning best director kill your career?';
             var facebookBaseUrl = 'https://www.facebook.com/sharer/sharer.php?ref=responsive&u=';
             var googleBaseUrl = 'https://plus.google.com/share?url=';
-            var emailSubject = 'What it really means to win the Oscars’ best director';
+            var emailSubject = 'Oscars 2015: Does winning best director kill your career?';
             var url = encodeURIComponent(window.location.href);
             var shareWindow;
 
