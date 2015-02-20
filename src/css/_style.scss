@@ -13,7 +13,7 @@ body,
 }
 
 .container {
-    max-width: gs-span(14);
+    max-width: gs-span(16);
     margin: 0 auto;
     padding: 0 ($gs-gutter / 2) ($gs-gutter / 2);
     overflow: hidden;
@@ -21,6 +21,11 @@ body,
         padding: 0 $gs-gutter $gs-gutter;
     }
     background-color: white;
+}
+
+.container-inner {
+    max-width: gs-span(14);
+    margin: 0 auto;
 }
 
 img {
@@ -63,7 +68,7 @@ p {
 .nav__container {
     background-color: map-get($pasteup-palette, guardian-brand);
     height: 100%;
-    max-width: gs-span(14);
+    max-width: gs-span(16);
     padding: 0 $gs-gutter;
     margin: 0 auto;
 }
@@ -772,7 +777,7 @@ p {
     column-count: 2;
     padding: $gs-gutter;
     margin: 0 auto;
-    max-width: gs-span(14);
+    max-width: gs-span(16);
 
     @media (min-width: gs-span(9)) {
         column-count: 3;

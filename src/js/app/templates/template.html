@@ -8,6 +8,7 @@
 {{/isWeb}}
 
 <div class="container" {{#mode == 'explore'}}style="display: none"{{/mode}}>
+    <div class="container-inner">
     {{#isWeb}}
         <header class="header">
             <div class="header__inner">
@@ -88,9 +89,11 @@
             </p>
         </div>
     </div>
+    </div>
 </div>
 
 <div class="container explore u-cf" {{#mode != 'explore'}} style="display: none"{{/mode}}>
+    <div class="container-inner">
     <div class="explore__header">
         <div class="headline explore__headline">
             <a class="explore__headline__title" href="#tour">&laquo; {{{furniture[0].copy}}}</a>
@@ -116,6 +119,7 @@
     <timeline collapsed="{{!exploreExpanded}}" hlStart="40" hlSpan="10" maxAge="100" directors="{{directors}}" view="birth" />
 
     <a href="#tour" class="button button--primary explore-button">Back to story</a>
+    </div>
 </div>
 
 {{#info}}
