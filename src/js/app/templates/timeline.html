@@ -13,7 +13,9 @@
         <div class="director director-{{i}}"{{#mode == 'explore' && hide}} style="display: none"{{/hide}}>
             <span class="director__info">
                 <span class="director__info__name">{{name}}</span><br />
-                <span class="director__info__birth">{{birth}} - {{death}}</span>
+                <span class="director__info__birth">
+                    {{#if useLabel}}{{label}}{{else}}{{birth}} - {{death}}{{/if}}
+                </span>
             </span>
             <span class="director__life{{#death}} director__life--dead{{/death}}"
                  style="left: {{-scale[view] * yearw}}%; width: {{(end - birth + 1) * yearw}}%">

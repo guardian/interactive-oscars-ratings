@@ -23,6 +23,7 @@ flat_order = [item for sublist in order for item in sublist]
 dedup_order = list(OrderedDict.fromkeys(flat_order))
 
 # no oscar winners
+labels = {}
 if len(flat_order) == 0:
     flat_order = sorted([film[3] for film in data_in()], key=lambda name: name.split(' ')[-1])
 
@@ -132,6 +133,9 @@ for director in films.values():
     director['scale']['birth'] = 0
 
     director['active'] = ordered_years[-1] - ordered_years[1]
+
+    # this is just for nominees to show film instead of age
+    director['label'] = director['year'][ordered_years[-1]]['films'][0]['name']
 
     # calculate post-oscar ratings
     total_rating = 0

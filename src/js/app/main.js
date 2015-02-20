@@ -164,7 +164,6 @@ define([
 
             app(el, steps, spreadsheet.sheets.furniture, spreadsheet.sheets.worst);
         });
-
     }
 
     return {
