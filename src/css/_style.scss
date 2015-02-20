@@ -21,6 +21,10 @@ body,
         padding: 0 $gs-gutter $gs-gutter;
     }
     background-color: white;
+
+    &.is-app {
+        padding: 0 !important;
+    }
 }
 
 .container-inner {

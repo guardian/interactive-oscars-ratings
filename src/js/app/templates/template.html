@@ -7,7 +7,7 @@
     </div>
 {{/isWeb}}
 
-<div class="container" {{#mode == 'explore'}}style="display: none"{{/mode}}>
+<div class="container {{^isWeb}} is-app{{/isWeb}}" {{#mode == 'explore'}}style="display: none"{{/mode}}>
     <div class="container-inner">
     {{#isWeb}}
         <header class="header">
@@ -92,7 +92,7 @@
     </div>
 </div>
 
-<div class="container explore u-cf" {{#mode != 'explore'}} style="display: none"{{/mode}}>
+<div class="container explore u-cf {{^isWeb}}is-app{{/isWeb}}" {{#mode != 'explore'}} style="display: none"{{/mode}}>
     <div class="container-inner">
     <div class="explore__header">
         <div class="headline explore__headline">
