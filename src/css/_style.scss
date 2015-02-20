@@ -15,7 +15,10 @@ body,
 .container {
     max-width: gs-span(14);
     margin: 0 auto;
-    padding: 0 $gs-gutter $gs-gutter;
+    padding: 0 ($gs-gutter / 2) ($gs-gutter / 2);
+    @media (min-width: gs-span(6)) {
+        padding: 0 $gs-gutter $gs-gutter;
+    }
     background-color: white;
 }
 
@@ -209,6 +212,7 @@ p {
     margin: 0 auto;
     overflow: hidden;
     margin-bottom: ($gs-baseline * 4);
+    padding-bottom: 5px;
 
     .step-1-nominees & {
         margin-bottom: 0;
@@ -216,7 +220,6 @@ p {
 
     .explore & {
         margin-bottom: $gs-baseline;
-        padding-bottom: 5px;
     }
 }
 
@@ -232,7 +235,7 @@ p {
     padding: 5px;
     border-left: 1px dotted map-get($pasteup-palette, neutral-4);
     top: 10px;
-    height: 100%;
+    bottom: 5px;
     box-sizing: border-box;
 
     &:nth-child(even) {
