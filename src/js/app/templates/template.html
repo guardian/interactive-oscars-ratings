@@ -97,9 +97,11 @@
                     Show IMDb rating
                     <input type="checkbox" checked="{{exploreExpanded}}" />
                 </label>
-                <input class="explore__search__text" type="text" value="{{searchText}}"
-                       placeholder="Director" />
-                <button class="button button--secondary button--xlarge">Search</button>
+                <div class="explore__search__text">
+                    <input class="explore__search__text__input" type="text" value="{{searchText}}"
+                           placeholder="Director" />
+                    <button class="button button--secondary button--xlarge">Search</button>
+                </div>
             </form>
         </div>
     </div>

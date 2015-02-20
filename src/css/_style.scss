@@ -453,10 +453,6 @@ p {
     &::before {
         background-image: url('../imgs/icons-oscar-choice.svg');
     }
-
-    img {
-        border: 5px solid $oscarColor;
-    }
 }
 
 .compare__film--right {
@@ -588,6 +584,15 @@ p {
 }
 
 .explore__search__text {
+    margin-top: ($gs-baseline / 2);
+    display: block;
+    @media(min-width: gs-span(8)) {
+        margin-top: 0;
+        display: inline;
+    }
+}
+
+.explore__search__text__input {
     @include fs-data(4);
     border-radius: 100px;
     height: 42px;
