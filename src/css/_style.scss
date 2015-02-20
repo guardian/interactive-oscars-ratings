@@ -297,19 +297,20 @@ p {
 .director__info {
     position: absolute;
     bottom: ($lifeHeight + 5px);
+    z-index: 2;
 }
 
 .director__info__name {
     @include f-bodyCopy;
     line-height: 1;
     color: map-get($pasteup-palette, guardian-brand);
-    position: relative;
-    z-index: 2;
     background-color: rgba(255, 255, 255, 0.4);
     border-radius: 2px;
 }
 .director__info__birth {
     color: map-get($pasteup-palette, neutral-2);
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 2px;
 }
 
 .director__life {
