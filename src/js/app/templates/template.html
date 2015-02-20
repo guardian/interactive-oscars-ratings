@@ -17,9 +17,9 @@
                 {{/h2}}
                 <p {{#mode == 'explore'}}class="explore__hide"{{/mode}}>{{{furniture[2].copy}}}</p>
                 <p class="header__byline">
-                    <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
-                    <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
-                    <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>
+                    <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>,
+                    <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and
+                    <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>
                 </p>
                 <p class="header__date">
                     Friday 20th Feburary 2015 10:00 GMT
@@ -61,6 +61,7 @@
                 {{/worst}}
             {{else}}
                 {{#stepNo == 1}}
+                    <span class="imdb-note">Bar height indicates the highest IMDb rating</span>
                     <div class="timeline-note">Up to nomination</div>
                     <div class="step-1-nominees">
                         <timeline maxAge="100" directors="{{nominees}}" view="{{view}}" />
@@ -99,6 +100,7 @@
         </div>
     </div>
 
+    <span class="imdb-note">Bar height indicates the highest IMDb rating</span>
     <timeline hlStart="40" hlSpan="10" maxAge="100" directors="{{directors}}" view="birth" />
 
     <a href="#tour" class="button button--primary explore-button">Back to story</a>

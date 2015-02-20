@@ -394,11 +394,15 @@ p {
     }
 }
 
+.imdb-note,
 .timeline-note {
     @include f-data;
+    font-weight: bold;
+}
+
+.timeline-note {
     position: absolute;
     margin: ($gs-baseline / 2) ($gs-gutter / 2);
-    font-weight: bold;
     left: 51%;
 }
 
