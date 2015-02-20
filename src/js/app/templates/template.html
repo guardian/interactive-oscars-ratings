@@ -69,7 +69,7 @@
                     <div class="timeline-note">Since 1st Oscar</div>
                 {{/stepNo}}
 
-                <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" directors="{{stepWinners(directorIds)}}" view="{{view}}" />
+                <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" directors="{{stepWinners(stepNo, directorIds)}}" view="{{view}}" />
             {{/if}}
         </div>
     {{/steps}}

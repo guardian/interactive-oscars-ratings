@@ -48,10 +48,16 @@ define([
                 'steps': steps,
                 'nominees': nominees,
                 'directors': directors,
-                'stepWinners': function (ids) {
-                    return winners.filter(function (director, id) {
+                'stepWinners': function (stepNo, ids) {
+                    var subset = winners.filter(function (director, id) {
                         return ids.indexOf(id) !== -1;
                     });
+
+                    if (stepNo === 0) {
+                        subset.reverse();
+                    }
+
+                    return subset;
                 },
                 'exploreExpanded': true,
                 'isWeb': true//window.guardian !== undefined
