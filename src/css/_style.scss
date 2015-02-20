@@ -165,7 +165,7 @@ p {
     color: map-get($pasteup-palette, neutral-2);
     padding-top: 15px;
     height: 30px;
-    position: relative !important; // Override NGW
+    position: static !important; // Override NGW
 }
 
 .timeline__label {
