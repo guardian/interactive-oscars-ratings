@@ -486,10 +486,13 @@ p {
 }
 
 .explore-promo {
-    position: relative;
-    padding: ($gs-baseline * 4) 0 $gs-baseline;
     clear: both;
     border-top: 1px solid map-get($pasteup-palette, neutral-1);
+}
+
+.explore-promo__inner {
+    position: relative;
+    padding: ($gs-baseline * 4) 0 $gs-baseline;
     max-width: gs-span(8);
     box-sizing: border-box;
     margin: 0 auto;
