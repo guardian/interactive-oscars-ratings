@@ -45,7 +45,7 @@ for film in data_in():
     director_birth, director_death, birth_place, director_name, film_year, film_name, url, oscar, rating, votes, best_picture = film
     film_year = int(film_year)
 
-    film = {'name': film_name}
+    film = {'name': re.sub(' \(as[^)]+\)', '', film_name)}
 
     m = re.search('\(([0-9]+..)\)', oscar)
     if m:
