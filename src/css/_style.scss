@@ -312,6 +312,10 @@ a {
     .step-1 & {
         height: 65px;
     }
+
+    .explore &.director-6 {
+        border-top: ($gs-baseline * 4) solid white;
+    }
 }
 
 .director__info {
