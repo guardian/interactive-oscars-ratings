@@ -416,6 +416,14 @@ p {
     float: left;
     margin: $gs-baseline 0 ($gs-baseline * 3);
 
+    &::before {
+        content: "";
+        float: left;
+        width: 40px;
+        height: 40px;
+        margin-right: $gs-baseline;
+    }
+
     img {
         display: block;
         width: 100%;
@@ -428,6 +436,10 @@ p {
     border-right: 1px dashed map-get($pasteup-palette, neutral-4);
     padding-right: $gs-gutter;
 
+    &::before {
+        background-image: url('../imgs/icons-oscar-choice.svg');
+    }
+
     img {
         border: 5px solid $oscarColor;
     }
@@ -435,6 +447,11 @@ p {
 
 .compare__film--right {
     padding-left: $gs-gutter;
+
+    &::before {
+        background-image: url('../imgs/icons-peoples-choice.svg');
+    }
+
 }
 
 .compare__film__name {
