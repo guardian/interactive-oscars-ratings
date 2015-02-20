@@ -65,6 +65,8 @@ $border-color: map-get($pasteup-palette, neutral-5);
 
     tr {
         border-bottom: 1px dotted map-get($pasteup-palette, neutral-4);
+
+        &:first-child,
         &:last-child {
             border-bottom: 0;
         }
@@ -78,7 +80,7 @@ $border-color: map-get($pasteup-palette, neutral-5);
     th {
         text-align: left;
         white-space: nowrap;
-        color: map-get($pasteup-palette, neutral-4);
+        color: map-get($pasteup-palette, neutral-3);
         @include fs-data(1, $size-only: true);
     }
 }
