@@ -405,8 +405,12 @@ p {
 
 .imdb-note,
 .timeline-note {
-    @include f-data;
+    @include fs-data(4);
     font-weight: bold;
+}
+
+.imdb-note {
+    color: map-get($pasteup-palette, neutral-2);
 }
 
 .timeline-note {
