@@ -138,6 +138,8 @@ define([
         // Enable iframe resizing on the GU site
         iframeMessenger.enableAutoResize();
 
+        el.innerHTML = '<center>Loading&#8230;</center>';
+
         pegasus(sheetUrl).then(function (spreadsheet) {
             var steps = spreadsheet.sheets.steps.map(function (step) {
                 step.notes = {};
