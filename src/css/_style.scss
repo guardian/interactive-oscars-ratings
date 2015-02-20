@@ -654,6 +654,7 @@ p {
 }
 
 .explore__headline {
+    padding: $gs-baseline 0 0;
     @media (min-width: gs-span(13)) {
         display: table-cell;
     }
@@ -665,7 +666,10 @@ p {
 
 }
 .explore__headline__title {
-    @include fs-data(4);
+    @include fs-data(2);
+    @media (min-width: gs-span(6)) {
+        @include fs-data(4, $size-only: true);
+    };
     display: block;
     font-weight: bold;
     color: black;
@@ -714,7 +718,7 @@ p {
     box-sizing: border-box;
     padding: 0 $gs-gutter;
     outline: 0;
-    width: 150px;
+    width: 200px;
     @media (min-width: gs-span(6)) {
         width: 300px;
     }
@@ -722,12 +726,18 @@ p {
 
 .explore__search__imdb {
     @include fs-data(4);
-    padding-right: ($gs-gutter);
+    padding-right: $gs-gutter;
+    margin-bottom: $gs-baseline;
     input {
         vertical-align: middle;
         float: none !important; // Override NGW
         margin: 0 !important; // Override NGW
         height: auto !important; // Override NGW
+    }
+
+    display: block;
+    @media (min-width: gs-span(8)) {
+        display: inline;
     }
 }
 
