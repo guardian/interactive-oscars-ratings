@@ -1,91 +1,99 @@
 {{#isWeb}}
-<header class="header">
-    <div class="header__inner">
-        <h1>{{furniture[0].copy}}</h1>
-        {{#furniture[1].copy}}
-            <h2>{{furniture[1].copy}}</h2>
-        {{/h2}}
-        <p {{#mode == 'explore'}}class="explore__hide"{{/mode}}>{{{furniture[2].copy}}}</p>
-        <p class="header__byline">
-            <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
-            <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
-            <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>
-        </p>
-        <p class="header__date">
-            Friday 20th Feburary 2015 10:00 GMT
-        </p>
+    <div class="nav">
+        <nav class="nav__container">
+            <!--<a href="http://theguardian.com"><img id="homeLogo" src="{{assets}}/imgs/homeLogo.svg" /><span>home</span></a>
+            <a href="http://theguardian.com"><img id="guardianLogo" src="{{assets}}/imgs/guardianLogo.png" /></a>-->
+        </nav>
     </div>
-</header>
 {{/isWeb}}
 
-{{#mode == 'tour'}}
-<div class="headline">
-    <h2>{{furniture[3].copy}}</h2>
-    <p>{{furniture[4].copy}}</p>
-</div>
-<div class="nominees">
-    <timeline collapsed="true" maxAge="60" hlStart="40" hlSpan="10" directors="{{nominees}}" view="birth" />
-</div>
-
-{{#steps:stepNo}}
-    <div class="step-{{stepNo}}">
-        <div class="headline">
-            <h2>{{headline}}</h2>
-            <p>{{copy}}</p>
-        </div>
-        {{#if stepNo == 2}}
-            {{#worst}}
-                <div class="compare">
-                    <div class="compare__year">{{year}}</div>
-                    <div class="compare__film compare__film--left">
-                        <div class="compare__film__name">{{oscarname}}</div>
-                        <div class="compare__film__director">{{oscardirector}}</div>
-                        <img src="{assets}/imgs/posters/{{oscarimg}}" />
-                        <div class="compare__film__rating">{{oscarrating}}</div>
-                    </div>
-                    <div class="compare__film compare__film--right">
-                        <div class="compare__film__name">{{bestname}}</div>
-                        <div class="compare__film__director">{{bestdirector}}</div>
-                        <img src="{assets}/imgs/posters/{{bestimg}}" />
-                        <div class="compare__film__rating">{{bestrating}}</div>
-                    </div>
-                </div>
-            {{/worst}}
-        {{else}}
-            {{#stepNo == 1}}
-                <div class="timeline-note">Up to nomination</div>
-                <div class="step-1-nominees">
-                    <timeline maxAge="100" directors="{{nominees}}" view="{{view}}" />
-                </div>
-                <div class="timeline-note">Since 1st Oscar</div>
-            {{/stepNo}}
-
-            <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" directors="{{stepWinners(directorIds)}}" view="{{view}}" />
-        {{/if}}
+<div class="container" {{#mode == 'explore'}}style="display: none"{{/mode}}>
+    {{#isWeb}}
+        <header class="header">
+            <div class="header__inner">
+                <h1>{{{furniture[0].copy}}}</h1>
+                {{#furniture[1].copy}}
+                    <h2>{{{furniture[1].copy}}}</h2>
+                {{/h2}}
+                <p {{#mode == 'explore'}}class="explore__hide"{{/mode}}>{{{furniture[2].copy}}}</p>
+                <p class="header__byline">
+                    <a href="http://www.theguardian.com/profile/george-arnett">George Arnett</a>,
+                    <a href="http://www.theguardian.com/profile/troy-griggs">Troy Griggs</a> and 
+                    <a href="http://www.theguardian.com/profile/will-franklin">Will Franklin</a>
+                </p>
+                <p class="header__date">
+                    Friday 20th Feburary 2015 10:00 GMT
+                </p>
+            </div>
+        </header>
+    {{/isWeb}}
+    <div class="headline">
+        <h2>{{{furniture[3].copy}}}</h2>
+        <p>{{{furniture[4].copy}}}</p>
     </div>
-{{/steps}}
+    <div class="nominees">
+        <timeline collapsed="true" maxAge="60" hlStart="40" hlSpan="10" directors="{{nominees}}" view="birth" />
+    </div>
 
-<div class="headline explore-promo">
-    <h2>{{furniture[5].copy}}</h2>
-    <p>
-        {{furniture[6].copy}}
-        <a href="#explore" class="button button--primary explore-button explore-promo__button">Explore</a>
-    </p>
+    {{#steps:stepNo}}
+        <div class="step-{{stepNo}}">
+            <div class="headline">
+                <h2>{{{headline}}}</h2>
+                <p>{{{copy}}}</p>
+            </div>
+            {{#if stepNo == 2}}
+                {{#worst}}
+                    <div class="compare">
+                        <div class="compare__year">{{year}}</div>
+                        <div class="compare__film compare__film--left">
+                            <div class="compare__film__name">{{oscarname}}</div>
+                            <div class="compare__film__director">{{oscardirector}}</div>
+                            <img src="{assets}/imgs/posters/{{oscarimg}}" />
+                            <div class="compare__film__rating">{{oscarrating}}</div>
+                        </div>
+                        <div class="compare__film compare__film--right">
+                            <div class="compare__film__name">{{bestname}}</div>
+                            <div class="compare__film__director">{{bestdirector}}</div>
+                            <img src="{assets}/imgs/posters/{{bestimg}}" />
+                            <div class="compare__film__rating">{{bestrating}}</div>
+                        </div>
+                    </div>
+                {{/worst}}
+            {{else}}
+                {{#stepNo == 1}}
+                    <div class="timeline-note">Up to nomination</div>
+                    <div class="step-1-nominees">
+                        <timeline maxAge="100" directors="{{nominees}}" view="{{view}}" />
+                    </div>
+                    <div class="timeline-note">Since 1st Oscar</div>
+                {{/stepNo}}
 
+                <timeline notes="{{notes}}" collapsed="{{collapsed}}" maxAge="100" directors="{{stepWinners(directorIds)}}" view="{{view}}" />
+            {{/if}}
+        </div>
+    {{/steps}}
+
+    <div class="explore-promo">
+        <h2>{{{furniture[5].copy}}}</h2>
+        <p>
+            {{{furniture[6].copy}}}
+            <a href="#explore" class="button button--primary explore-button explore-promo__button">Explore</a>
+        </p>
+
+    </div>
 </div>
-{{/mode}}
 
-<div class="explore" {{#mode != 'explore'}} style="display: none"{{/mode}}>
+<div class="container explore" {{#mode != 'explore'}} style="display: none"{{/mode}}>
     <div class="explore__header">
         <div class="headline explore__headline">
-            <h2>{{furniture[7].copy}}</h2>
+            <h2>{{{furniture[7].copy}}}</h2>
             <p>{{{furniture[8].copy}}}</p>
         </div>
 
         <div class="explore__search">
             <form on-submit="search">
                 <input class="explore__search__text" type="text" value="{{searchText}}"
-                       placeholder="Director or film name" />
+                       placeholder="Director" />
                 <button class="button button--secondary button--xlarge">Search</button>
             </form>
         </div>

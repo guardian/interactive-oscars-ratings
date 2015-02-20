@@ -93,17 +93,8 @@ define([
             evt.original.preventDefault();
 
             var text = this.get('searchText');
-            winners.forEach(function (director, i) {
-                var nameMatch = director.name.toLowerCase().indexOf(text) !== -1;
-                var i, filmMatch = false;
-                for (i = 0; i < director.films.length; i++) {
-                    if (director.films[i].name.toLowerCase().indexOf(text) !== -1) {
-                        filmMatch = true;
-                        break;
-                    }
-                }
-
-                director.hide = !nameMatch && !filmMatch;
+            directors.forEach(function (director, i) {
+                director.hide = director.name.toLowerCase().indexOf(text) === -1;
             });
             this.update('winners');
         });

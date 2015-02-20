@@ -24,7 +24,7 @@ dedup_order = list(OrderedDict.fromkeys(flat_order))
 
 # no oscar winners
 if len(flat_order) == 0:
-    flat_order = [film[3] for film in data_in()]
+    flat_order = sorted([film[3] for film in data_in()], key=lambda name: name.split(' ')[-1])
 
 films = {}
 
