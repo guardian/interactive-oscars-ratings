@@ -5,13 +5,15 @@ body,
     @include fs-bodyCopy(1);
     margin: 0;
     color: map-get($pasteup-palette, neutral-1);
+    background-color: rgba(51, 51, 51, 0.05);
 }
 
 .container {
     position: relative;
     max-width: gs-span(14);
     margin: 0 auto;
-    padding: 0 $gs-gutter;
+    padding: 0 $gs-gutter $gs-gutter;
+    background-color: white;
 }
 
 h1 {
@@ -47,11 +49,35 @@ p {
 }
 
 .nav__container {
-    max-width: gs-span(12);
+    background-color: map-get($pasteup-palette, guardian-brand);
+    height: 100%;
+    max-width: gs-span(14);
+    padding: 0 $gs-gutter;
     margin: 0 auto;
+}
 
-    &::after {
-        clear: both;
+.nav__container__home {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: ($gs-baseline * 4);
+    float: left;
+    text-decoration: none;
+
+    img {
+        display: inline-block;
+        height: 18px;
+        margin-right: 7px;
+        vertical-align: text-bottom;
+    }
+}
+
+.nav__container__gu {
+    color: white;
+    float: right;
+    padding-top: 8px;
+    img {
+        width: 170px;
     }
 }
 
@@ -537,4 +563,60 @@ p {
     @media (min-width: gs-span(6)) {
         width: 300px;
     }
+}
+
+.really-serious-copyright {
+    @include fs-textSans(1);
+    color: map-get($pasteup-palette, neutral-4);
+    margin: 0 10px 20px;
+    padding-top: 10px;
+}
+
+.footer {
+    background-color: map-get($pasteup-palette, multimedia-support-4);
+    padding-bottom: 1px;
+
+    a {
+        color: gainsboro;
+        text-decoration: none;
+        padding-bottom: 12px;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 500;
+        display: inline-block;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.colophon {
+    column-count: 2;
+    padding: $gs-gutter;
+    margin: 0 auto;
+    max-width: gs-span(14);
+
+    @media (min-width: gs-span(9)) {
+        column-count: 3;
+    }
+
+    @media (min-width: gs-span(16)) {
+        column-count: 4;
+    }
+
+    li {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+.l-footer__misc {
+    margin: 0 auto;
+    max-width: gs-span(14) + $gs-gutter;
+    border-top: 1px solid #656565;
+}
+
+.step-2::after {
+    content: "";
+    clear: both;
 }
