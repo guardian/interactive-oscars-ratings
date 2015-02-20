@@ -432,7 +432,7 @@ p {
 .note-1-1927,
 .note-57-2005 {
     width: 80px;
-    right: 15px;
+    right: 0px;
     left: auto;
     bottom: 15px;
     top: auto;
@@ -443,6 +443,7 @@ p {
 
 .note-1-1927 {
     @media (max-width: gs-span(8)) {
+        width: 145px;
         right: -75px;
         bottom: 47px;
     }
@@ -450,7 +451,8 @@ p {
 
 .note-55-2002 {
     @media (max-width: gs-span(8)) {
-        right: 0;
+        right: -23px;
+        bottom: 17px;
         left: auto;
     }
 }
