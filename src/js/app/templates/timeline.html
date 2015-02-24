@@ -27,7 +27,7 @@
             {{/death}}
             {{#year}}
                 <span on-mouseover="hoverOver:{{this}},{{birth}}" on-mouseout="hoverOut"
-                      class="director__year{{#oscar}} director__year--oscar{{/oscar}}{{#view == 'oscar' && (yearNo - birth - scale[view]) < 50}} director__year--pre-oscar{{/view}}"
+                      class="director__year {{#oscar}}director__year--oscar{{/oscar}} {{#nominee}}director__year--nominee{{/nominee}} {{#view == 'oscar' && (yearNo - birth - scale[view]) < 50}} director__year--pre-oscar{{/view}}"
                       style="height: {{rating}}%; left: {{(yearNo - birth - scale[view]) * yearw}}%; width: {{yearw}}%">
                     {{#notes[directorId][yearNo]}}
                         <span class="director__year__note note-{{directorId}}-{{yearNo}}">

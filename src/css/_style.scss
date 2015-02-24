@@ -406,16 +406,10 @@ a {
     .is-collapsed & {
         height: $lifeHeight !important;
     }
+}
 
-    .explore .director-0 > &:last-child,
-    .explore .director-1 > &:last-child,
-    .explore .director-2 > &:last-child,
-    .explore .director-3 > &:last-child,
-    .explore .director-4 > &:last-child,
-    .step-1-nominees &:last-child,
-    .nominees &:last-child {
-        @include year--oscar('../imgs/oscar-blue.svg');
-    }
+.director__year--nominee {
+    @include year--oscar('../imgs/oscar-blue.svg');
 }
 
 .director__year--oscar {
